@@ -1,0 +1,23 @@
+{
+  "name": "Danilo Lukić — Senior Front-End Developer",
+  "short_name": "Danilo Lukić",
+  "description": "Portfolio of Danilo Lukić, senior front-end developer (React.js) from Belgrade.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#0d1319",
+  "theme_color": "#0e7c72",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
