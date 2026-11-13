@@ -30,7 +30,7 @@ jobs:
         env:
           RHMZ_DATA_OUTPUT: rhmz-demo/data/weather.json
         run: node rhmz-demo/pipeline/refresh.mjs
-      - name: Publish only the demo data file
+      - name: Publish only the two demo data files atomically
         env:
           GH_TOKEN: ${{ github.token }}
         run: node rhmz-demo/pipeline/publish-data.mjs
