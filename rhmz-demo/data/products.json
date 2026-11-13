@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T19:22:05.810Z",
+  "generatedAt": "2026-11-13T19:33:42.342Z",
   "products": [
     {
       "id": "automatske-stanice",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/automatske.php",
-      "fetchedAt": "2026-11-13T19:22:02.437Z",
-      "lastAttemptAt": "2026-11-13T19:22:02.437Z",
+      "fetchedAt": "2026-11-13T19:33:38.795Z",
+      "lastAttemptAt": "2026-11-13T19:33:38.795Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-13T19:10:00.000Z",
+      "observedAt": "2026-11-13T19:30:00.000Z",
       "validDates": [
         "2026-11-13"
       ],
@@ -66,338 +66,338 @@
             {
               "cells": [
                 "Palić",
-                "20:10",
-                6.8,
-                1001.2,
-                81,
+                "20:30",
+                6.7,
+                1001.6,
+                80,
                 "W",
-                1.8
+                2.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012575"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012618"
             },
             {
               "cells": [
                 "Sombor",
-                "20:10",
-                6.8,
-                1004.3,
-                94,
+                "20:30",
+                6.9,
+                1004.7,
+                93,
                 "WNW",
-                3.1
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012577"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012629"
             },
             {
               "cells": [
                 "Novi Sad",
-                "20:10",
-                6.7,
-                1003.8,
-                97,
-                "WNW",
-                4.1
+                "20:30",
+                6.6,
+                1004.1,
+                98,
+                "W",
+                4.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012571"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012617"
             },
             {
               "cells": [
                 "Zrenjanin",
-                "20:10",
-                6.7,
-                1003.5,
+                "20:30",
+                6.6,
+                1004.2,
                 100,
-                "NW",
+                "WNW",
                 2.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012570"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012623"
             },
             {
               "cells": [
                 "Kikinda",
-                "20:10",
-                7,
-                1002.7,
+                "20:30",
+                6.9,
+                1003.6,
                 100,
-                "NW",
-                3.1
+                "WNW",
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012556"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012611"
             },
             {
               "cells": [
                 "B. Karlovac",
-                "20:10",
-                6.7,
-                1002.1,
+                "20:30",
+                6.8,
+                1002.4,
                 100,
-                "W",
-                3
+                "WNW",
+                3.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012553"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012608"
             },
             {
               "cells": [
                 "Loznica",
-                "20:10",
+                "20:30",
                 5.9,
-                1000.6,
+                1000.9,
                 100,
-                "WSW",
-                2.9
+                "SW",
+                1.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012569"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012614"
             },
             {
               "cells": [
                 "S. Mitrovica",
-                "20:10",
-                6.6,
-                1004.5,
+                "20:30",
+                6.5,
+                1005,
                 100,
                 "W",
-                2.3
+                2.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012552"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012609"
             },
             {
               "cells": [
                 "Valjevo",
-                "20:10",
-                4.6,
-                994.1,
-                91,
-                "WSW",
-                3.9
+                "20:30",
+                3.5,
+                995.1,
+                92,
+                "W",
+                3.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012558"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012613"
             },
             {
               "cells": [
                 "Beograd",
-                "20:10",
+                "20:30",
                 6.5,
-                998.1,
+                998.6,
                 100,
                 "W",
-                1.4
+                1.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012560"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012620"
             },
             {
               "cells": [
                 "Kragujevac",
-                "20:10",
-                6.8,
-                991.6,
+                "20:30",
+                6.7,
+                991.9,
                 100,
-                "N",
+                "NNW",
                 1.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012562"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012622"
             },
             {
               "cells": [
                 "S. Palanka",
-                "20:10",
+                "20:30",
                 6.8,
-                998.6,
+                999,
                 100,
                 "NW",
-                2
+                2.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012561"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012627"
             },
             {
               "cells": [
                 "V. Gradište",
-                "20:10",
-                7.1,
-                1002.1,
-                100,
-                "W",
-                4.1
+                "20:30",
+                6.8,
+                1002.7,
+                96,
+                "NW",
+                1.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012565"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012625"
             },
             {
               "cells": [
                 "Crni Vrh",
-                "20:10",
-                1.5,
-                889,
+                "20:30",
+                1.4,
+                889.5,
                 100,
                 "WNW",
-                13.7
+                14.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012554"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012610"
             },
             {
               "cells": [
                 "Negotin",
-                "20:10",
-                10.1,
-                1004.2,
-                74,
+                "20:30",
+                9.8,
+                1004.3,
+                76,
                 "W",
-                3.8
+                3.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012573"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012624"
             },
             {
               "cells": [
                 "Zlatibor",
-                "20:10",
-                1.1,
-                894.4,
+                "20:30",
+                0.7,
+                893.9,
                 100,
-                "N",
-                3.1
+                "NNE",
+                3.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012576"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012633"
             },
             {
               "cells": [
                 "Sjenica",
-                "20:10",
-                4.9,
-                892,
+                "20:30",
+                4.3,
+                892.2,
                 100,
-                "NW",
-                5.5
+                "N",
+                2.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012568"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012631"
             },
             {
               "cells": [
                 "Požega",
-                "20:10",
-                5.8,
-                977.1,
-                94,
+                "20:30",
+                5.5,
+                977.5,
+                96,
                 "NW",
-                2.9
+                2.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012572"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012626"
             },
             {
               "cells": [
                 "Kraljevo",
-                "20:10",
+                "20:30",
                 7,
-                987,
+                987.9,
                 100,
                 "W",
-                3.1
+                3.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012557"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012628"
             },
             {
               "cells": [
                 "Kopaonik",
-                "20:10",
-                6.2,
-                820.9,
+                "20:30",
+                6.1,
+                821.1,
                 100,
                 "SW",
-                3.2
+                4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012566"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012630"
             },
             {
               "cells": [
                 "Kuršumlija",
-                "20:10",
-                8.3,
-                965.9,
+                "20:30",
+                7.9,
+                966.3,
                 100,
-                "NW",
-                1.4
+                "N",
+                1.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012551"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012607"
             },
             {
               "cells": [
                 "Kruševac",
-                "20:10",
+                "20:30",
                 8.2,
-                992.6,
-                97,
-                "NNW",
-                4.3
+                993.1,
+                96,
+                "NW",
+                3.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012564"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012619"
             },
             {
               "cells": [
                 "Ćuprija",
-                "20:10",
+                "20:30",
                 7.2,
-                998.2,
+                998.6,
                 100,
                 "NW",
                 3.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012578"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012634"
             },
             {
               "cells": [
                 "Niš",
-                "20:10",
-                8.2,
-                986.7,
-                99,
+                "20:30",
+                8.1,
+                987.5,
+                97,
                 "WNW",
-                3.8
+                3.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012563"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012621"
             },
             {
               "cells": [
                 "Leskovac",
-                "20:10",
-                9.7,
-                982.9,
+                "20:30",
+                9.2,
+                983.4,
                 100,
-                "NNW",
-                3.8
+                "NW",
+                2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012555"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012615"
             },
             {
               "cells": [
                 "Zaječar",
-                "20:10",
-                10.3,
-                992.3,
+                "20:30",
+                10.1,
+                993,
                 100,
-                "SW",
-                1.5
+                "SSW",
+                1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012574"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012632"
             },
             {
               "cells": [
                 "Dimitrovgrad",
-                "20:10",
-                12.6,
-                955.8,
-                82,
-                "W",
-                3.3
+                "20:30",
+                11.9,
+                956.1,
+                86,
+                "WSW",
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012567"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012616"
             },
             {
               "cells": [
                 "Vranje",
-                "20:10",
-                15.9,
-                956.5,
-                72,
-                "NNE",
-                1.2
+                "20:30",
+                14.5,
+                956.9,
+                100,
+                "NE",
+                4.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012559"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9012612"
             }
           ]
         },
@@ -451,60 +451,60 @@
             {
               "cells": [
                 "Stara planina",
-                "20:15",
-                7.7,
-                831.9,
+                "20:25",
+                7.3,
+                832,
                 100,
-                "192",
-                5.6
+                "177",
+                2.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/stara_planina.php"
             },
             {
               "cells": [
                 "Košutnjak",
-                "20:15",
+                "20:25",
                 5.8,
-                988.8,
-                97,
-                "313",
-                2.2
+                989,
+                99,
+                "292",
+                1.5
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kosutnjak.php"
             },
             {
               "cells": [
                 "Pančevo",
-                "20:16",
+                "20:26",
                 5.7,
-                1001.6,
+                1001.8,
                 100,
-                "280",
-                0.3
+                "291",
+                1.5
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pancevo.php"
             },
             {
               "cells": [
                 "Kukavica",
-                "20:15",
-                8.1,
-                849.8,
+                "20:25",
+                8.6,
+                849.9,
                 100,
-                "216",
-                2.5
+                "232",
+                3.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kukavica.php"
             },
             {
               "cells": [
                 "Čačak",
-                "20:15",
-                6.5,
-                984.3,
+                "20:25",
+                6.2,
+                985.1,
                 100,
-                "282",
-                1.1
+                "280",
+                2.1
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/cacak.php"
             },
@@ -523,24 +523,24 @@
             {
               "cells": [
                 "Tamnava",
-                "20:15",
+                "20:25",
                 6.2,
-                1003.2,
+                1003.4,
                 100,
-                "274",
-                3.4
+                "279",
+                2.8
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/tamnava.php"
             },
             {
               "cells": [
                 "Baroševac",
-                "20:15",
+                "20:25",
                 5.6,
-                992,
+                992.3,
                 100,
                 "285",
-                3.8
+                3.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/barosevac.php"
             },
@@ -559,23 +559,23 @@
             {
               "cells": [
                 "Leposavić",
-                "20:15",
-                9.4,
-                954.9,
+                "20:25",
+                9.1,
+                955,
                 100,
-                "326",
-                2.7
+                "331",
+                3.1
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/leposavic.php"
             },
             {
               "cells": [
                 "Kosovska Mitrovica",
-                "20:15",
-                13.3,
-                942.4,
+                "20:25",
+                13.2,
+                942.2,
                 100,
-                "354",
+                "359",
                 0.5
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/mitrovica.php"
@@ -583,23 +583,23 @@
             {
               "cells": [
                 "Zvečan",
-                "20:15",
-                12.8,
-                947.9,
+                "20:25",
+                12.6,
+                947.8,
                 100,
-                "298",
-                0.2
+                "290",
+                0.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/zvecan.php"
             },
             {
               "cells": [
                 "Pirot",
-                "20:15",
-                11.3,
-                962.6,
+                "20:25",
+                10.9,
+                962.9,
                 100,
-                "294",
+                "286",
                 4.8
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pirot.php"
@@ -607,36 +607,36 @@
             {
               "cells": [
                 "Požarevac",
-                "20:15",
+                "20:25",
                 6.5,
-                1003.1,
+                1003.2,
                 100,
-                "286",
-                3.5
+                "285",
+                3.1
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pozarevac.php"
             },
             {
               "cells": [
                 "Kladovo-Karataš",
-                "20:15",
-                10.8,
-                999.5,
+                "20:25",
+                10.7,
+                999.4,
                 69,
-                "277",
-                6.7
+                "276",
+                7.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kladovo.php"
             },
             {
               "cells": [
                 "Bajina Bašta",
-                "20:20",
-                4.4,
+                "20:25",
+                4,
                 985,
                 100,
-                "91",
-                0.7
+                "29",
+                1
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/bbasta.php"
             },
@@ -655,36 +655,36 @@
             {
               "cells": [
                 "Krupanj",
-                "20:20",
-                2.2,
+                "20:30",
+                2,
                 981,
                 100,
-                "0",
-                0
+                "223",
+                0.5
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/krupanj.php"
             },
             {
               "cells": [
                 "Pasuljanske livade",
-                "20:20",
-                2.9,
-                927.4,
-                99,
-                "337",
-                4.1
+                "20:30",
+                2.8,
+                927.7,
+                100,
+                "344",
+                6.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/p_livade.php"
             },
             {
               "cells": [
                 "Sokobanja",
-                "20:15",
-                7.6,
-                971.3,
+                "20:25",
+                7.5,
+                971.5,
                 100,
-                "315",
-                1.2
+                "312",
+                1.7
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/sokobanja.php"
             }
@@ -697,8 +697,8 @@
     {
       "id": "padavine",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/padavine.php",
-      "fetchedAt": "2026-11-13T19:22:02.847Z",
-      "lastAttemptAt": "2026-11-13T19:22:02.847Z",
+      "fetchedAt": "2026-11-13T19:33:39.109Z",
+      "lastAttemptAt": "2026-11-13T19:33:39.109Z",
       "status": "ok",
       "issuedAt": "2026-11-13T10:13:01.000Z",
       "observedAt": "2026-11-13T06:00:00.000Z",
@@ -1744,8 +1744,8 @@
     {
       "id": "sneg",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/sneg.php",
-      "fetchedAt": "2026-11-13T19:22:03.548Z",
-      "lastAttemptAt": "2026-11-13T19:22:03.548Z",
+      "fetchedAt": "2026-11-13T19:33:39.665Z",
+      "lastAttemptAt": "2026-11-13T19:33:39.665Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": "2026-11-08T12:00:00.000Z",
@@ -2054,8 +2054,8 @@
     {
       "id": "evropa",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/evropa.php",
-      "fetchedAt": "2026-11-13T19:22:03.639Z",
-      "lastAttemptAt": "2026-11-13T19:22:03.639Z",
+      "fetchedAt": "2026-11-13T19:33:39.812Z",
+      "lastAttemptAt": "2026-11-13T19:33:39.812Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": "2026-11-13T19:00:00.000Z",
@@ -2593,8 +2593,8 @@
     {
       "id": "srbija",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/index.php",
-      "fetchedAt": "2026-11-13T19:22:04.380Z",
-      "lastAttemptAt": "2026-11-13T19:22:04.380Z",
+      "fetchedAt": "2026-11-13T19:33:40.602Z",
+      "lastAttemptAt": "2026-11-13T19:33:40.602Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -2816,8 +2816,8 @@
     {
       "id": "uv-indeks",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/uv1.php",
-      "fetchedAt": "2026-11-13T19:22:04.691Z",
-      "lastAttemptAt": "2026-11-13T19:22:04.691Z",
+      "fetchedAt": "2026-11-13T19:33:40.829Z",
+      "lastAttemptAt": "2026-11-13T19:33:40.829Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -3093,8 +3093,8 @@
     {
       "id": "bioprognoza",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/bioprognoza.php",
-      "fetchedAt": "2026-11-13T19:22:04.802Z",
-      "lastAttemptAt": "2026-11-13T19:22:04.802Z",
+      "fetchedAt": "2026-11-13T19:33:40.991Z",
+      "lastAttemptAt": "2026-11-13T19:33:40.991Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -3123,8 +3123,8 @@
     {
       "id": "dnevni-vodostaji",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
-      "fetchedAt": "2026-11-13T19:22:04.875Z",
-      "lastAttemptAt": "2026-11-13T19:22:04.875Z",
+      "fetchedAt": "2026-11-13T19:33:41.223Z",
+      "lastAttemptAt": "2026-11-13T19:33:41.223Z",
       "status": "ok",
       "issuedAt": "2026-11-13T08:32:09.000Z",
       "observedAt": "2026-11-13T06:00:00.000Z",
@@ -3970,8 +3970,8 @@
     {
       "id": "prognoza-voda",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/prognoza_voda.php",
-      "fetchedAt": "2026-11-13T19:22:04.977Z",
-      "lastAttemptAt": "2026-11-13T19:22:04.977Z",
+      "fetchedAt": "2026-11-13T19:33:41.354Z",
+      "lastAttemptAt": "2026-11-13T19:33:41.354Z",
       "status": "ok",
       "issuedAt": "2026-11-13T09:28:12.000Z",
       "observedAt": null,
@@ -4348,8 +4348,8 @@
     {
       "id": "mali-tokovi",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/hbv/index.php",
-      "fetchedAt": "2026-11-13T19:22:05.404Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.404Z",
+      "fetchedAt": "2026-11-13T19:33:41.650Z",
+      "lastAttemptAt": "2026-11-13T19:33:41.650Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -4578,11 +4578,11 @@
     {
       "id": "radar",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/radarska3.php",
-      "fetchedAt": "2026-11-13T19:22:05.499Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.499Z",
+      "fetchedAt": "2026-11-13T19:33:41.784Z",
+      "lastAttemptAt": "2026-11-13T19:33:41.784Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-13T19:00:00.000Z",
+      "observedAt": "2026-11-13T19:15:00.000Z",
       "validDates": [],
       "noteSr": "Originalni radarski kompozit. dBZ označava radarsku reflektivnost, a ne količinu padavina u milimetrima. Termine čitamo iz izvornih naziva datoteka u UTC. Slike se učitavaju direktno sa RHMZ-a.",
       "noteEn": "Original radar composite. dBZ represents radar reflectivity, not millimetres of rainfall. Frame times come from source UTC filenames. Images load directly from RHMZ.",
@@ -4590,10 +4590,6 @@
       "tables": [],
       "text": [],
       "images": [
-        {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111317150000dBZ.cappi.png",
-          "time": "2026-11-13T17:15:00.000Z"
-        },
         {
           "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111317300000dBZ.cappi.png",
           "time": "2026-11-13T17:30:00.000Z"
@@ -4621,14 +4617,18 @@
         {
           "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111319000000dBZ.cappi.png",
           "time": "2026-11-13T19:00:00.000Z"
+        },
+        {
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111319150000dBZ.cappi.png",
+          "time": "2026-11-13T19:15:00.000Z"
         }
       ]
     },
     {
       "id": "satelit",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/satelit_anim.php?type=Ser_com",
-      "fetchedAt": "2026-11-13T19:22:05.578Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.578Z",
+      "fetchedAt": "2026-11-13T19:33:41.911Z",
+      "lastAttemptAt": "2026-11-13T19:33:41.911Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -4668,8 +4668,8 @@
     {
       "id": "upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index.php",
-      "fetchedAt": "2026-11-13T19:22:05.659Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.659Z",
+      "fetchedAt": "2026-11-13T19:33:42.067Z",
+      "lastAttemptAt": "2026-11-13T19:33:42.067Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -4692,8 +4692,8 @@
     {
       "id": "najave",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
-      "fetchedAt": "2026-11-13T19:22:05.739Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.739Z",
+      "fetchedAt": "2026-11-13T19:33:42.207Z",
+      "lastAttemptAt": "2026-11-13T19:33:42.207Z",
       "status": "ok",
       "issuedAt": "2026-11-13T18:20:00.000Z",
       "observedAt": null,
@@ -4716,8 +4716,8 @@
     {
       "id": "hitna-upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index1.php",
-      "fetchedAt": "2026-11-13T19:22:05.807Z",
-      "lastAttemptAt": "2026-11-13T19:22:05.807Z",
+      "fetchedAt": "2026-11-13T19:33:42.341Z",
+      "lastAttemptAt": "2026-11-13T19:33:42.341Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,

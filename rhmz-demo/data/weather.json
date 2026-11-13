@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T19:22:00.907Z",
+  "generatedAt": "2026-11-13T19:33:36.078Z",
   "observations": {
-    "fetchedAt": "2026-11-13T19:22:00.907Z",
-    "lastAttemptAt": "2026-11-13T19:22:00.907Z",
+    "fetchedAt": "2026-11-13T19:33:36.078Z",
+    "lastAttemptAt": "2026-11-13T19:33:36.078Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/index.php",
     "observedAt": "2026-11-13T19:00:00.000Z",
@@ -321,8 +321,8 @@
     ]
   },
   "forecasts": {
-    "fetchedAt": "2026-11-13T19:22:00.907Z",
-    "lastAttemptAt": "2026-11-13T19:22:00.907Z",
+    "fetchedAt": "2026-11-13T19:33:36.078Z",
+    "lastAttemptAt": "2026-11-13T19:33:36.078Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13274",
     "cities": [
@@ -557,8 +557,8 @@
     ]
   },
   "water": {
-    "fetchedAt": "2026-11-13T19:22:00.907Z",
-    "lastAttemptAt": "2026-11-13T19:22:00.907Z",
+    "fetchedAt": "2026-11-13T19:33:36.078Z",
+    "lastAttemptAt": "2026-11-13T19:33:36.078Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
     "issuedAt": "2026-11-13T18:50:02.000Z",
@@ -1602,8 +1602,8 @@
     ]
   },
   "history": {
-    "fetchedAt": "2026-11-13T19:22:00.907Z",
-    "lastAttemptAt": "2026-11-13T19:22:00.907Z",
+    "fetchedAt": "2026-11-13T19:33:36.078Z",
+    "lastAttemptAt": "2026-11-13T19:33:36.078Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/data/hid_nrt_feed_rss_atom/42045_lat.xml",
     "stationId": "42045",
