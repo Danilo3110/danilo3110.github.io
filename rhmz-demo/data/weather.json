@@ -1,328 +1,328 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T01:05:38.750Z",
+  "generatedAt": "2026-11-16T08:02:05.475Z",
   "observations": {
-    "fetchedAt": "2026-11-16T01:05:38.750Z",
-    "lastAttemptAt": "2026-11-16T01:05:38.750Z",
+    "fetchedAt": "2026-11-16T08:02:05.475Z",
+    "lastAttemptAt": "2026-11-16T08:02:05.475Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/index.php",
-    "observedAt": "2026-11-16T00:00:00.000Z",
-    "issuedAt": "2026-11-16T00:07:00.000Z",
+    "observedAt": "2026-11-16T07:00:00.000Z",
+    "issuedAt": "2026-11-16T07:09:00.000Z",
     "sourceFormat": "html",
     "stations": [
       {
         "id": "13067",
         "name": "Palić",
-        "temperature": 6,
-        "pressure": 1004.9,
-        "windSpeed": 3,
-        "windDirection": "ESE",
+        "temperature": 5,
+        "pressure": 1001.8,
+        "windSpeed": 2,
+        "windDirection": "E",
         "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 4
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 3
       },
       {
         "id": "13160",
         "name": "Sombor",
-        "temperature": 6,
-        "pressure": 1006.4,
+        "temperature": 5,
+        "pressure": 1002.7,
         "windSpeed": 2,
         "windDirection": "ESE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 5
+        "humidity": 93,
+        "condition": "Sumaglica",
+        "apparentTemperature": 3
       },
       {
         "id": "13168",
         "name": "Novi Sad",
         "temperature": 7,
-        "pressure": 1006.3,
-        "windSpeed": 6,
+        "pressure": 1004,
+        "windSpeed": 5,
         "windDirection": "SE",
-        "humidity": 100,
-        "condition": "Pretežno vedro",
-        "apparentTemperature": 3
+        "humidity": 93,
+        "condition": "Oblačno",
+        "apparentTemperature": 4
       },
       {
         "id": "13173",
         "name": "Zrenjanin",
-        "temperature": 6,
-        "pressure": 1007.9,
+        "temperature": 7,
+        "pressure": 1004.4,
         "windSpeed": 7,
         "windDirection": "SSE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 2
+        "humidity": 87,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 3
       },
       {
         "id": "13174",
         "name": "Kikinda",
         "temperature": 7,
-        "pressure": 1007.8,
-        "windSpeed": 6,
+        "pressure": 1004.8,
+        "windSpeed": 5,
         "windDirection": "SSE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 3
+        "humidity": 87,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 4
       },
       {
         "id": "13180",
         "name": "B. Karlovac",
-        "temperature": 7,
-        "pressure": 1007.5,
-        "windSpeed": 10,
+        "temperature": 8,
+        "pressure": 1004.6,
+        "windSpeed": 7,
         "windDirection": "SE",
-        "humidity": 100,
-        "condition": "Oblačno",
-        "apparentTemperature": 2
+        "humidity": 81,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 4
       },
       {
         "id": "13262",
         "name": "Loznica",
-        "temperature": 6,
-        "pressure": 1002.2,
-        "windSpeed": null,
-        "windDirection": null,
-        "humidity": 100,
-        "condition": "Magla",
-        "apparentTemperature": 6
+        "temperature": 7,
+        "pressure": 999.1,
+        "windSpeed": 1,
+        "windDirection": "ESE",
+        "humidity": 93,
+        "condition": "Oblačno",
+        "apparentTemperature": 7
       },
       {
         "id": "13266",
         "name": "S. Mitrovica",
-        "temperature": 6,
-        "pressure": 1007.2,
-        "windSpeed": 3,
+        "temperature": 7,
+        "pressure": 1004,
+        "windSpeed": 4,
         "windDirection": "E",
-        "humidity": 100,
-        "condition": "Pretežno vedro",
+        "humidity": 93,
+        "condition": "Pretežno oblačno",
         "apparentTemperature": 4
       },
       {
         "id": "13269",
         "name": "Valjevo",
         "temperature": 6,
-        "pressure": 995.9,
-        "windSpeed": 1,
-        "windDirection": "NE",
-        "humidity": 100,
-        "condition": "Vedro",
+        "pressure": 993.8,
+        "windSpeed": null,
+        "windDirection": null,
+        "humidity": 93,
+        "condition": "Pretežno oblačno",
         "apparentTemperature": 6
       },
       {
         "id": "13274",
         "name": "Beograd",
-        "temperature": 6,
-        "pressure": 1002,
+        "temperature": 8,
+        "pressure": 998.9,
         "windSpeed": 4,
         "windDirection": "SE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 3
+        "humidity": 87,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 6
       },
       {
         "id": "13278",
         "name": "Kragujevac",
-        "temperature": 8,
-        "pressure": 996.9,
-        "windSpeed": 3,
-        "windDirection": "SSE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 6
+        "temperature": 7,
+        "pressure": 994.4,
+        "windSpeed": 1,
+        "windDirection": "SW",
+        "humidity": 93,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 7
       },
       {
         "id": "13279",
         "name": "S. Palanka",
-        "temperature": 6,
-        "pressure": 1004.4,
+        "temperature": 8,
+        "pressure": 1002.4,
         "windSpeed": 3,
-        "windDirection": "E",
-        "humidity": 100,
+        "windDirection": "ESE",
+        "humidity": 87,
         "condition": "Pretežno oblačno",
-        "apparentTemperature": 4
+        "apparentTemperature": 6
       },
       {
         "id": "13285",
         "name": "V. Gradište",
-        "temperature": 6,
-        "pressure": 1010.1,
-        "windSpeed": 3,
+        "temperature": 7,
+        "pressure": 1007.2,
+        "windSpeed": 6,
         "windDirection": "ESE",
-        "humidity": 87,
-        "condition": "Slaba kiša",
-        "apparentTemperature": 4
+        "humidity": 81,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 3
       },
       {
         "id": "13289",
         "name": "Crni Vrh",
         "temperature": 0,
-        "pressure": 899.1,
+        "pressure": 897.7,
         "windSpeed": null,
         "windDirection": null,
         "humidity": 100,
-        "condition": null,
+        "condition": "Magla",
         "apparentTemperature": 0
       },
       {
         "id": "13295",
         "name": "Negotin",
         "temperature": 6,
-        "pressure": 1017.9,
+        "pressure": 1015.4,
         "windSpeed": 1,
-        "windDirection": "NW",
-        "humidity": 100,
-        "condition": "Slaba kiša",
+        "windDirection": "N",
+        "humidity": 93,
+        "condition": "Rosulja (sipeća kiša)",
         "apparentTemperature": 6
       },
       {
         "id": "13367",
         "name": "Zlatibor",
-        "temperature": 4,
-        "pressure": 899.5,
-        "windSpeed": 5,
+        "temperature": 8,
+        "pressure": 897.5,
+        "windSpeed": 2,
         "windDirection": "W",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 0
+        "humidity": 87,
+        "condition": "Oblačno",
+        "apparentTemperature": 7
       },
       {
         "id": "13369",
         "name": "Sjenica",
         "temperature": 4,
-        "pressure": 899.6,
-        "windSpeed": 2,
-        "windDirection": "NW",
-        "humidity": 100,
-        "condition": "Delimično oblačno",
-        "apparentTemperature": 2
+        "pressure": 897.8,
+        "windSpeed": 1,
+        "windDirection": "WNW",
+        "humidity": 93,
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 4
       },
       {
         "id": "13370",
         "name": "Požega",
         "temperature": 4,
-        "pressure": 982,
-        "windSpeed": null,
-        "windDirection": null,
+        "pressure": 979.5,
+        "windSpeed": 1,
+        "windDirection": "WNW",
         "humidity": 100,
-        "condition": "Sumaglica",
+        "condition": "Magla",
         "apparentTemperature": 4
       },
       {
         "id": "13376",
         "name": "Kraljevo",
         "temperature": 7,
-        "pressure": 992.8,
-        "windSpeed": 2,
-        "windDirection": "SSE",
-        "humidity": 100,
-        "condition": "Oblačno",
-        "apparentTemperature": 6
+        "pressure": 990.7,
+        "windSpeed": 1,
+        "windDirection": "NW",
+        "humidity": 93,
+        "condition": "Sumaglica",
+        "apparentTemperature": 7
       },
       {
         "id": "13378",
         "name": "Kopaonik",
         "temperature": 4,
-        "pressure": 828.5,
-        "windSpeed": 5,
-        "windDirection": "WSW",
+        "pressure": 827.9,
+        "windSpeed": 3,
+        "windDirection": "SW",
         "humidity": 100,
-        "condition": "Magla",
-        "apparentTemperature": 0
+        "condition": "Oblačno",
+        "apparentTemperature": 1
       },
       {
         "id": "13382",
         "name": "Kuršumlija",
         "temperature": 7,
-        "pressure": 974,
+        "pressure": 972.2,
         "windSpeed": 1,
         "windDirection": "N",
-        "humidity": 100,
-        "condition": null,
+        "humidity": 93,
+        "condition": "Magla",
         "apparentTemperature": 7
       },
       {
         "id": "13383",
         "name": "Kruševac",
-        "temperature": 8,
-        "pressure": 999.3,
+        "temperature": 6,
+        "pressure": 997.4,
         "windSpeed": 1,
-        "windDirection": "ENE",
+        "windDirection": "S",
         "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 8
+        "condition": "Pretežno oblačno",
+        "apparentTemperature": 6
       },
       {
         "id": "13384",
         "name": "Ćuprija",
-        "temperature": 7,
-        "pressure": 1004.8,
+        "temperature": 8,
+        "pressure": 1002.6,
         "windSpeed": 3,
         "windDirection": "SE",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 5
+        "humidity": 81,
+        "condition": "Delimično oblačno",
+        "apparentTemperature": 6
       },
       {
         "id": "13388",
         "name": "Niš",
-        "temperature": 8,
-        "pressure": 995.8,
+        "temperature": 9,
+        "pressure": 993.7,
         "windSpeed": 2,
         "windDirection": "E",
-        "humidity": 93,
-        "condition": "Slaba kiša",
-        "apparentTemperature": 7
+        "humidity": 87,
+        "condition": "Delimično oblačno",
+        "apparentTemperature": 8
       },
       {
         "id": "13389",
         "name": "Leskovac",
-        "temperature": 8,
-        "pressure": 992.5,
-        "windSpeed": null,
-        "windDirection": null,
+        "temperature": 7,
+        "pressure": 990.3,
+        "windSpeed": 1,
+        "windDirection": "W",
         "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 8
+        "condition": "Delimično oblačno",
+        "apparentTemperature": 7
       },
       {
         "id": "13392",
         "name": "Zaječar",
         "temperature": 5,
-        "pressure": 1004.6,
-        "windSpeed": 2,
+        "pressure": 1003.4,
+        "windSpeed": 1,
         "windDirection": "N",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 3
+        "humidity": 93,
+        "condition": "Sumaglica",
+        "apparentTemperature": 5
       },
       {
         "id": "13397",
         "name": "Dimitrovgrad",
-        "temperature": 5,
-        "pressure": 968.3,
-        "windSpeed": 2,
-        "windDirection": "E",
-        "humidity": 100,
+        "temperature": 7,
+        "pressure": 966.6,
+        "windSpeed": 3,
+        "windDirection": "ESE",
+        "humidity": 93,
         "condition": "Oblačno",
-        "apparentTemperature": 3
+        "apparentTemperature": 5
       },
       {
         "id": "13489",
         "name": "Vranje",
-        "temperature": 9,
-        "pressure": 969.6,
-        "windSpeed": 4,
-        "windDirection": "W",
-        "humidity": 100,
-        "condition": null,
-        "apparentTemperature": 7
+        "temperature": 10,
+        "pressure": 968.3,
+        "windSpeed": 3,
+        "windDirection": "WSW",
+        "humidity": 94,
+        "condition": "Oblačno",
+        "apparentTemperature": 8
       }
     ]
   },
   "forecasts": {
-    "fetchedAt": "2026-11-16T01:05:38.750Z",
-    "lastAttemptAt": "2026-11-16T01:05:38.750Z",
+    "fetchedAt": "2026-11-16T08:02:05.475Z",
+    "lastAttemptAt": "2026-11-16T08:02:05.475Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13274",
     "cities": [
@@ -557,291 +557,291 @@
     ]
   },
   "water": {
-    "fetchedAt": "2026-11-16T01:05:38.750Z",
-    "lastAttemptAt": "2026-11-16T01:05:38.750Z",
+    "fetchedAt": "2026-11-16T08:02:05.475Z",
+    "lastAttemptAt": "2026-11-16T08:02:05.475Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
-    "issuedAt": "2026-11-16T00:50:02.000Z",
+    "issuedAt": "2026-11-16T07:50:02.000Z",
     "stations": [
       {
         "id": "42010",
         "name": "BEZDAN",
         "river": "DUNAV",
-        "stage": -86,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -77,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42015",
         "name": "APATIN",
         "river": "DUNAV",
-        "stage": -26,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -16,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42020",
         "name": "BOGOJEVO",
         "river": "DUNAV",
-        "stage": -37,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -27,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42030",
         "name": "BAČKA PALANKA",
         "river": "DUNAV",
-        "stage": -38,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -30,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42035",
         "name": "NOVI SAD",
         "river": "DUNAV",
-        "stage": -31,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -26,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42045",
         "name": "ZEMUN",
         "river": "DUNAV",
-        "stage": 194,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 195,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42050",
         "name": "PANČEVO",
         "river": "DUNAV",
-        "stage": 234,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 235,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42055",
         "name": "SMEDEREVO",
         "river": "DUNAV",
-        "stage": 427,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 433,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42060",
         "name": "BANATSKA PALANKA",
         "river": "DUNAV",
-        "stage": 662,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 676,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42065",
         "name": "VELIKO GRADIŠTE",
         "river": "DUNAV",
-        "stage": 721,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 733,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42070",
         "name": "GOLUBAC",
         "river": "DUNAV",
-        "stage": 656,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 665,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42095",
         "name": "PRAHOVO",
         "river": "DUNAV",
-        "stage": -62,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -59,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42401",
         "name": "JAŠA TOMIĆ",
         "river": "TAMIŠ",
-        "stage": 95,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 93,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42411",
         "name": "SEČANj",
         "river": "TAMIŠ",
-        "stage": 265,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 264,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42480",
         "name": "MARKOVIĆEVO",
         "river": "BRZAVA",
-        "stage": -143,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -141,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42520",
         "name": "GORNjAK",
         "river": "MLAVA",
-        "stage": 47,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 56,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42527",
         "name": "VELIKO SELO",
         "river": "MLAVA",
         "stage": 40,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42535",
         "name": "BRATINAC",
         "river": "MLAVA",
-        "stage": -12,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -13,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42540",
         "name": "KULA",
         "river": "VITOVNICA",
         "stage": 62,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42610",
         "name": "KUŠTILj",
         "river": "KARAŠ",
-        "stage": -2,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -4,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42615",
         "name": "DOBRIČEVO",
         "river": "KARAŠ",
-        "stage": 263,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 262,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42660",
         "name": "KUSIĆ",
         "river": "NERA",
-        "stage": 45,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 43,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42670",
         "name": "VRAČEV GAJ",
         "river": "NERA",
-        "stage": 51,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": 50,
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "42720",
         "name": "KUČEVO",
         "river": "PEK",
         "stage": 33,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42760",
         "name": "CRNAJKA",
         "river": "CRNAJKA",
         "stage": 28,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42901",
         "name": "ČOKONjAR",
         "river": "VELIKI TIMOK",
-        "stage": 51,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 65,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42911",
         "name": "BOGOVINA",
         "river": "CRNI TIMOK",
-        "stage": 4,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": 9,
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "42912",
         "name": "ZLOT",
         "river": "ZLOTSKA",
-        "stage": -2,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -1,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42914",
         "name": "GAMZIGRAD",
         "river": "CRNI TIMOK",
-        "stage": 38,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 39,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42921",
         "name": "KNjAŽEVAC",
         "river": "BELI TIMOK",
-        "stage": 39,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 38,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42925",
         "name": "VRATARNICA",
         "river": "BELI TIMOK",
-        "stage": 11,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 10,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42926",
         "name": "GRLIŠTE",
         "river": "GRLIŠKA",
         "stage": 94,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42929",
         "name": "ZAJEČAR",
         "river": "BELI TIMOK",
-        "stage": -83,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -82,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42931",
         "name": "RGOŠTE",
         "river": "SVRLjIŠKI TIMOK",
-        "stage": 56,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 57,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "42935",
         "name": "DONjA KAMENICA",
         "river": "TRGOVIŠKI TIMOK",
-        "stage": 18,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 17,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44010",
         "name": "NOVI KNEŽEVAC",
         "river": "TISA",
-        "stage": 170,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 169,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44020",
         "name": "SENTA",
         "river": "TISA",
-        "stage": 240,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 239,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44028",
         "name": "VRBICA",
         "river": "ZLATICA",
         "stage": 105,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "44035",
         "name": "BRANA NOVI BEČEJ GV",
         "river": "TISA",
-        "stage": 409,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": 412,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44040",
         "name": "TITEL",
         "river": "TISA",
-        "stage": 73,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 71,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44201",
@@ -854,708 +854,708 @@
         "id": "44211",
         "name": "SRPSKI ITEBEJ GV",
         "river": "PLOVNI BEGEJ",
-        "stage": 419,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 418,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "44212",
         "name": "SRPSKI ITEBEJ DV",
         "river": "PLOVNI BEGEJ",
         "stage": 210,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45084",
         "name": "JAMENA",
         "river": "SAVA",
-        "stage": 247,
-        "observedAt": "2026-11-15T18:00:00.000Z"
+        "stage": 312,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45090",
         "name": "SREMSKA MITROVICA",
         "river": "SAVA",
-        "stage": 96,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 126,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45094",
         "name": "ŠABAC",
         "river": "SAVA",
-        "stage": -27,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": -3,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45096",
         "name": "BELjIN",
         "river": "SAVA",
         "stage": 84,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45098",
         "name": "RAKOVICA",
         "river": "TOPČIDERSKA",
-        "stage": 31,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 30,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45099",
         "name": "BEOGRAD",
         "river": "SAVA",
-        "stage": 151,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 152,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45836",
         "name": "BRODAREVO",
         "river": "LIM",
-        "stage": 148,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 146,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45837",
         "name": "PRIJEPOLjE",
         "river": "LIM",
-        "stage": 108,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 106,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45838",
         "name": "PRIJEPOLjE",
         "river": "MILEŠEVKA",
         "stage": 13,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45839",
         "name": "BISTRICA",
         "river": "BISTRICA",
-        "stage": 39,
-        "observedAt": "2026-11-16T00:00:03.000Z"
+        "stage": 41,
+        "observedAt": "2026-11-16T07:00:03.000Z"
       },
       {
         "id": "45842",
         "name": "PRIBOJ",
         "river": "LIM",
-        "stage": 58,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 59,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45843",
         "name": "ČEDOVO",
         "river": "VAPA",
-        "stage": 93,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 96,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45865",
         "name": "BAJINA BAŠTA",
         "river": "DRINA",
-        "stage": 78,
-        "observedAt": "2026-11-15T14:00:00.000Z"
+        "stage": 7,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45882",
         "name": "RADALj",
         "river": "DRINA",
-        "stage": 87,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 105,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45885",
         "name": "BADOVINCI",
         "river": "DRINA",
-        "stage": -15,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -71,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45890",
         "name": "ZAVLAKA",
         "river": "JADAR",
         "stage": -13,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45892",
         "name": "LEŠNICA",
         "river": "JADAR",
         "stage": -14,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45902",
         "name": "DEGURIĆ",
         "river": "GRADAC",
-        "stage": -7,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": 8,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45903",
         "name": "SEDLARI",
         "river": "JABLANICA",
-        "stage": 47,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 46,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45904",
         "name": "BELO POLjE",
         "river": "OBNICA",
         "stage": 0,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45905",
         "name": "VALjEVO",
         "river": "KOLUBARA",
         "stage": 7,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45906",
         "name": "MIONICA",
         "river": "RIBNICA",
-        "stage": 15,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 21,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45908",
         "name": "SLOVAC",
         "river": "KOLUBARA",
         "stage": 115,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45909",
         "name": "BOGOVAĐA",
         "river": "LjIG",
-        "stage": 60,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": 58,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45910",
         "name": "BELI BROD",
         "river": "KOLUBARA",
-        "stage": 18,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 16,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45912",
         "name": "ZEOKE",
         "river": "PEŠTAN",
-        "stage": 81,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 80,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45914",
         "name": "KOCELjEVA",
         "river": "TAMNAVA",
-        "stage": 20,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 22,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45916",
         "name": "UB",
         "river": "UB",
-        "stage": 12,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": 11,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45917",
         "name": "ĆEMANOV MOST",
         "river": "TAMNAVA",
-        "stage": 41,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 54,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "45920",
         "name": "DRAŽEVAC",
         "river": "KOLUBARA",
-        "stage": 78,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 77,
+        "observedAt": "2026-11-16T06:30:00.000Z"
       },
       {
         "id": "47010",
         "name": "VARVARIN",
         "river": "VELIKA MORAVA",
-        "stage": -177,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": -170,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47025",
         "name": "PARAĆIN",
         "river": "CRNICA",
-        "stage": 7,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 8,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47029",
         "name": "ĆUPRIJA",
         "river": "RAVANICA",
-        "stage": 50,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 44,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47030",
         "name": "ĆUPRIJA",
         "river": "VELIKA MORAVA",
-        "stage": -92,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -85,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47035",
         "name": "MAJUR",
         "river": "LUGOMIR",
         "stage": 29,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47038",
         "name": "JAGODINA",
         "river": "BELICA",
-        "stage": 53,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 48,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47040",
         "name": "BAGRDAN",
         "river": "VELIKA MORAVA",
-        "stage": -7,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -4,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47057",
         "name": "BATOČINA",
         "river": "LEPENICA",
-        "stage": 54,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 69,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47063",
         "name": "MANASTIR MANASIJA",
         "river": "RESAVA",
         "stage": 21,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47067",
         "name": "SVILAJNAC",
         "river": "RESAVA",
         "stage": -49,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47075",
         "name": "SMEDEREVSKA PALANKA",
         "river": "JASENICA",
-        "stage": 49,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 50,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47076",
         "name": "SMEDEREVSKA PALANKA",
         "river": "KUBRŠNICA",
-        "stage": 75,
-        "observedAt": "2026-11-16T00:15:00.000Z"
+        "stage": 73,
+        "observedAt": "2026-11-16T07:15:00.000Z"
       },
       {
         "id": "47090",
         "name": "LjUBIČEVSKI MOST",
         "river": "VELIKA MORAVA",
-        "stage": -385,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -381,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47101",
         "name": "KRATOVSKA STENA",
         "river": "ZAPADNA MORAVA",
-        "stage": 253,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 254,
+        "observedAt": "2026-11-16T06:00:00.000Z"
       },
       {
         "id": "47105",
         "name": "GUČA",
         "river": "BJELICA",
         "stage": 53,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47112",
         "name": "PRIJEVOR",
         "river": "KAMENICA",
-        "stage": 46,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 47,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47115",
         "name": "ČAČAK",
         "river": "ZAPADNA MORAVA",
         "stage": 28,
-        "observedAt": "2026-11-15T23:50:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47121",
         "name": "BRĐANI",
         "river": "DIČINA",
-        "stage": 63,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 65,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47150",
         "name": "TRSTENIK",
         "river": "ZAPADNA MORAVA",
-        "stage": -44,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -42,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47156",
         "name": "BORAČ",
         "river": "BORAČKA",
-        "stage": 43,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 45,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47168",
         "name": "RAVNI",
         "river": "RASINA",
         "stage": 47,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47175",
         "name": "BIVOLjE",
         "river": "RASINA",
-        "stage": 6,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 7,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47195",
         "name": "JASIKA",
         "river": "ZAPADNA MORAVA",
-        "stage": -102,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -101,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47260",
         "name": "RAŠKA",
         "river": "IBAR",
-        "stage": 186,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 183,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47265",
         "name": "NOVI PAZAR",
         "river": "RAŠKA",
-        "stage": 19,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 18,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47269",
         "name": "RAŠKA",
         "river": "RAŠKA",
-        "stage": 81,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 79,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47278",
         "name": "BILjANOVAC",
         "river": "JOŠANICA",
         "stage": -2,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47285",
         "name": "MLANČA",
         "river": "STUDENICA",
-        "stage": 23,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 24,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47288",
         "name": "UŠĆE",
         "river": "STUDENICA",
-        "stage": -13,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -8,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47290",
         "name": "UŠĆE",
         "river": "IBAR",
-        "stage": 88,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 87,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47294",
         "name": "BOGUTOVAC",
         "river": "LOPATNICA",
-        "stage": 121,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 123,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47296",
         "name": "MATARUŠKA BANjA",
         "river": "IBAR",
-        "stage": 13,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 15,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47299",
         "name": "KRALjEVO",
         "river": "IBAR",
         "stage": 29,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47350",
         "name": "ARILjE",
         "river": "MORAVICA",
-        "stage": -31,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -27,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47445",
         "name": "ŠENGOLj",
         "river": "ĐETINjA",
-        "stage": -231,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -233,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47495",
         "name": "POŽEGA",
         "river": "SKRAPEŽ",
-        "stage": 42,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 46,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47528",
         "name": "VRANjSKI PRIBOJ",
         "river": "JUŽNA MORAVA",
         "stage": -180,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47530",
         "name": "VLADIČIN HAN",
         "river": "JUŽNA MORAVA",
-        "stage": 19,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 20,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47540",
         "name": "GRDELICA",
         "river": "JUŽNA MORAVA",
-        "stage": 16,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 21,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47548",
         "name": "PUKOVAC",
         "river": "PUSTA",
-        "stage": 14,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 12,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47550",
         "name": "KORVINGRAD",
         "river": "JUŽNA MORAVA",
-        "stage": -176,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -179,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47562",
         "name": "GORNjA TOPONICA",
         "river": "TOPONIČKA",
         "stage": 89,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "47570",
         "name": "ALEKSINAC",
         "river": "JUŽNA MORAVA",
-        "stage": -110,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -106,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47580",
         "name": "ŽUČKOVAC",
         "river": "MORAVICA",
-        "stage": 43,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 44,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47589",
         "name": "ALEKSINAC",
         "river": "MORAVICA",
-        "stage": 15,
-        "observedAt": "2026-11-16T00:15:00.000Z"
+        "stage": 18,
+        "observedAt": "2026-11-16T07:15:00.000Z"
       },
       {
         "id": "47590",
         "name": "MOJSINjE",
         "river": "JUŽNA MORAVA",
-        "stage": 23,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": 26,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47620",
         "name": "SVOĐE",
         "river": "LUŽNICA",
-        "stage": -64,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -63,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47630",
         "name": "SVOĐE",
         "river": "VLASINA",
-        "stage": 34,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 35,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47640",
         "name": "VLASOTINCE",
         "river": "VLASINA",
-        "stage": 14,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 15,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47665",
         "name": "LESKOVAC",
         "river": "VETERNICA",
-        "stage": 37,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 36,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47720",
         "name": "SIJARINSKA BANjA",
         "river": "JABLANICA",
         "stage": 36,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47740",
         "name": "PEČENjEVCE",
         "river": "JABLANICA",
-        "stage": 36,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": 33,
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "47850",
         "name": "PEPELjEVAC",
         "river": "TOPLICA",
         "stage": 5,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47855",
         "name": "VISOKA",
         "river": "KOSANICA",
-        "stage": -37,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "stage": -38,
+        "observedAt": "2026-11-16T06:00:00.000Z"
       },
       {
         "id": "47880",
         "name": "PROKUPLjE",
         "river": "TOPLICA",
-        "stage": -38,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -35,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47890",
         "name": "DOLjEVAC",
         "river": "TOPLICA",
-        "stage": 2,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 1,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47910",
         "name": "DIMITROVGRAD",
         "river": "NIŠAVA",
         "stage": 50,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47911",
         "name": "MRTVINE",
         "river": "GABERSKA",
         "stage": 55,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47912",
         "name": "STRAZIMIROVCI",
         "river": "JERMA",
         "stage": 34,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47914",
         "name": "TRNSKI ODOROVCI",
         "river": "JERMA",
-        "stage": 61,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 62,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47920",
         "name": "PIROT",
         "river": "NIŠAVA",
         "stage": -73,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47939",
         "name": "IZATOVAC",
         "river": "VISOČICA",
         "stage": 20,
-        "observedAt": "2026-11-15T22:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47945",
         "name": "STANIČENjE",
         "river": "TEMSKA",
-        "stage": 28,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 29,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47950",
         "name": "BELA PALANKA",
         "river": "NIŠAVA",
-        "stage": 36,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 37,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47975",
         "name": "RADIKINA BARA",
         "river": "KUTINSKA",
-        "stage": 17,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 16,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "47990",
         "name": "NIŠ",
         "river": "NIŠAVA",
-        "stage": 59,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 60,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "63410",
         "name": "BARBACE",
         "river": "PČINjA",
-        "stage": -24,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": -23,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "64109",
         "name": "RIBARCE",
         "river": "DRAGOVIŠTICA",
         "stage": 29,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "64111",
         "name": "RIBARCE",
         "river": "BRANKOVAČKA",
         "stage": 31,
-        "observedAt": "2026-11-15T23:00:00.000Z"
+        "observedAt": "2026-11-16T05:00:00.000Z"
       },
       {
         "id": "64129",
@@ -1568,83 +1568,55 @@
         "id": "99073",
         "name": "GORNjA GOREVNICA",
         "river": "ČEMERNICA",
-        "stage": 55,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 56,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "99079",
         "name": "GRADINA",
         "river": "MORAVICA",
-        "stage": 102,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 107,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "99108",
         "name": "RADOBUĐA",
         "river": "VELIKI RZAV",
-        "stage": 86,
-        "observedAt": "2026-11-15T23:30:00.000Z"
+        "stage": 106,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "99241",
         "name": "KRUŠČICA",
         "river": "MALI RZAV",
-        "stage": 37,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 44,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "99266",
         "name": "KRUŠČICA",
         "river": "VELIKI RZAV",
-        "stage": 93,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "stage": 102,
+        "observedAt": "2026-11-16T07:00:00.000Z"
       },
       {
         "id": "99302",
         "name": "MOROVIĆ",
         "river": "STUDVA",
         "stage": 208,
-        "observedAt": "2026-11-16T00:00:00.000Z"
+        "observedAt": "2026-11-16T07:00:00.000Z"
       }
     ]
   },
   "history": {
-    "fetchedAt": "2026-11-16T01:05:38.750Z",
-    "lastAttemptAt": "2026-11-16T01:05:38.750Z",
+    "fetchedAt": "2026-11-16T08:02:05.475Z",
+    "lastAttemptAt": "2026-11-16T08:02:05.475Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/data/hid_nrt_feed_rss_atom/42045_lat.xml",
     "stationId": "42045",
     "name": "Zemun",
     "river": "Dunav",
     "points": [
-      {
-        "time": "2026-11-09T01:00:00.000Z",
-        "stage": 194
-      },
-      {
-        "time": "2026-11-09T02:00:00.000Z",
-        "stage": 193
-      },
-      {
-        "time": "2026-11-09T03:00:00.000Z",
-        "stage": 192
-      },
-      {
-        "time": "2026-11-09T04:00:00.000Z",
-        "stage": 192
-      },
-      {
-        "time": "2026-11-09T05:00:00.000Z",
-        "stage": 192
-      },
-      {
-        "time": "2026-11-09T06:00:00.000Z",
-        "stage": 192
-      },
-      {
-        "time": "2026-11-09T07:00:00.000Z",
-        "stage": 193
-      },
       {
         "time": "2026-11-09T08:00:00.000Z",
         "stage": 193
@@ -2288,6 +2260,34 @@
       {
         "time": "2026-11-16T00:00:00.000Z",
         "stage": 194
+      },
+      {
+        "time": "2026-11-16T01:00:00.000Z",
+        "stage": 193
+      },
+      {
+        "time": "2026-11-16T02:00:00.000Z",
+        "stage": 192
+      },
+      {
+        "time": "2026-11-16T03:00:00.000Z",
+        "stage": 192
+      },
+      {
+        "time": "2026-11-16T04:00:00.000Z",
+        "stage": 191
+      },
+      {
+        "time": "2026-11-16T05:00:00.000Z",
+        "stage": 193
+      },
+      {
+        "time": "2026-11-16T06:00:00.000Z",
+        "stage": 194
+      },
+      {
+        "time": "2026-11-16T07:00:00.000Z",
+        "stage": 195
       }
     ]
   }
