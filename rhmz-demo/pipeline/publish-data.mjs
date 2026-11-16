@@ -1,11 +1,15 @@
 import { readFile } from 'node:fs/promises';
 
-// Only these two fixed paths are published, together in one commit on the existing branch.
+// Only these three fixed paths are published, together in one commit on the existing branch.
 const repository = process.env.GITHUB_REPOSITORY;
 const token = process.env.GH_TOKEN;
 if (repository !== 'Danilo3110/danilo3110.github.io' || !token)
   throw new Error('Unexpected deployment context');
-const paths = ['rhmz-demo/data/weather.json', 'rhmz-demo/data/products.json'];
+const paths = [
+  'rhmz-demo/data/weather.json',
+  'rhmz-demo/data/products.json',
+  'rhmz-demo/data/content.json',
+];
 const headers = {
   Authorization: `Bearer ${token}`,
   Accept: 'application/vnd.github+json',
@@ -28,7 +32,8 @@ const parent = await api(`git/commits/${ref.object.sha}`);
 const entries = [];
 for (const path of paths) {
   const content = await readFile(path);
-  if (content.byteLength > 2_000_000) throw new Error('Data file exceeds publication limit');
+  if (content.byteLength > (path.endsWith('/content.json') ? 5_000_000 : 2_000_000))
+    throw new Error('Data file exceeds publication limit');
   if (JSON.parse(content.toString('utf8')).schemaVersion !== 1)
     throw new Error('Unexpected data format');
   const blob = await api('git/blobs', {
