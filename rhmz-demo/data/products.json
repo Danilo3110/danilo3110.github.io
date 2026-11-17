@@ -5570,7 +5570,15 @@
         {
           "heading": "Meteorološke najave",
           "body": "NAJAVE RHMZ Meteorološka najava UTORAK, 17.11.2026. u 23:45 h Naoblačenje sa kišom koje je zahvatilo Vojvodinu, zapadnu i centralnu Srbiju tokom noći proširiće se i na većinu ostalih predela Srbije. Više padavina očekuje se na severu i severoistoku zemlјe, gde može pasti više od 20 mm kiše za 12 h. U Beogradu tokom noći oblačno sa kišom. Vetar slab i umeren, južni i jugozapadni, a u planinskim predelima jugozapadne i južne Srbije jak, povremeno i olujni zapadni i jugozapadni. TOPLO, PAD TEMPERATURE U SUBOTU Sutra promenlјivo i vetrovito, mestimično sa kišom i plјuskovima sa grmlјavinom koji će lokalno biti izraženi. U severnim i centralnim predelima očekuje se količina padavina od 30 do 50 mm za 24 sata. Vetar južni i jugozapadni, slab i umeren, povremeno i jak, u planinskim predelima na jugu povremeno i olujni, a sredinom dana na severu kratkotrajno jak zapadni i severozapadni. Najniža temperatura od 8 do 14 °S, a najviša od 16 °S do 21 °S. Do petka toplo sa maksimalnom temperaturom u većini mesta od 16 do 21 °S. Od subote temperatura u padu. Tokom celog perioda promenlјivo, povremeno sa kišom i lokalnim plјuskovima izraženijim početkom sledeće sedmice, kada se na planinama kratkotrajno očekuje i sneg. Najava je za period od: 23:49 17.11.2026. do: 23:49 24.11.2026. Hidrološka najava Na Savi narednih dana vodostaji će biti u većem porastu bez dostizanja granica redovne odbrane od poplava. Za više detalja pogledajte: Prognoza voda Najava je za period od: 10:07 17.11.2026. do: 10:07 19.11.2026.",
-          "date": null
+          "date": null,
+          "english": {
+            "heading": "Weather and hydrological advisories · 17 November 2026, 23:45",
+            "body": "RHMZ advisory issued 17 November at 23:45: rain in Vojvodina and western and central Serbia spreads to most other areas overnight. Northern and northeastern areas may receive over 20 mm in 12 hours; Belgrade is cloudy with rain. Southerly and southwesterly winds are weak to moderate, with strong, occasionally storm-force westerly and southwesterly winds on southwestern and southern mountains. Wednesday brings rain, locally intense thunderstorms and 30–50 mm over 24 hours in northern and central areas. Winds may strengthen, with storm-force gusts on southern mountains and briefly strong west to northwest winds in the north around midday. Lows: 8–14 °C; highs: 16–21 °C. Highs remain mostly 16–21 °C through Friday, then fall from Saturday. Rain and showers intensify early the following week, with brief mountain snow. Weather advisory validity: 17 November 23:49 to 24 November 23:49. Sava stages are expected to rise substantially, below regular flood-defence thresholds. Hydrological advisory validity: 17 November 10:07 to 19 November 10:07. All times are Europe/Belgrade.",
+            "kind": "reviewed-summary",
+            "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
+            "checkedAt": "2026-11-17T22:58:17.633Z",
+            "sourceHash": "e948827fa721c58564a109046b90265a2c75d55a82efb75ab68a88b8a67bb6a4"
+          }
         }
       ],
       "images": []
