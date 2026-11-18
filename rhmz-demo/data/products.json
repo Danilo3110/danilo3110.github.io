@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T22:54:54.031Z",
+  "generatedAt": "2026-11-18T02:56:23.712Z",
   "products": [
     {
       "id": "automatske-stanice",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/automatske.php",
-      "fetchedAt": "2026-11-17T22:54:48.459Z",
-      "lastAttemptAt": "2026-11-17T22:54:48.459Z",
+      "fetchedAt": "2026-11-18T02:56:18.610Z",
+      "lastAttemptAt": "2026-11-18T02:56:18.610Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-17T22:50:00.000Z",
+      "observedAt": "2026-11-18T02:50:00.000Z",
       "validDates": [
-        "2026-11-17"
+        "2026-11-18"
       ],
       "noteSr": "Termini su lokalni (Europe/Belgrade). Državna mreža ima zajednički termin; dopunska mreža prikazuje termin svake stanice. Pritisak je na visini stanice. Detalji vode do originalnog zapisa merenja.",
       "noteEn": "Times are local (Europe/Belgrade). The national network shares one observation time; supplementary stations have individual times. Pressure is station-level pressure. Details open the original measurement record.",
@@ -66,338 +66,338 @@
             {
               "cells": [
                 "Palić",
-                "23:50",
-                11,
-                988.7,
+                "03:50",
+                11.2,
+                985.3,
                 100,
-                "NW",
-                1.5
+                "SE",
+                2.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029275"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029943"
             },
             {
               "cells": [
                 "Sombor",
-                "23:50",
-                11.4,
-                989.8,
+                "03:50",
+                10.4,
+                987.5,
                 100,
-                "S",
-                1.9
+                "SE",
+                3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029255"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029937"
             },
             {
               "cells": [
                 "Novi Sad",
-                "23:50",
-                11.9,
-                990.6,
+                "03:50",
+                11.3,
+                988,
                 100,
-                "WSW",
-                1
+                "ENE",
+                3.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029272"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029934"
             },
             {
               "cells": [
                 "Zrenjanin",
-                "23:50",
+                "03:50",
                 11.2,
-                991.9,
+                989.6,
                 100,
-                "SSE",
-                1.8
+                "ESE",
+                2.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029252"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029923"
             },
             {
               "cells": [
                 "Kikinda",
-                "23:50",
-                11.3,
-                991.2,
+                "03:50",
+                11.1,
+                988.4,
                 100,
-                "S",
-                1.4
+                "SSE",
+                5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029259"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029932"
             },
             {
               "cells": [
                 "B. Karlovac",
-                "23:50",
-                11.1,
-                991.9,
+                "03:50",
+                11.3,
+                988.6,
                 100,
-                "ESE",
-                1.9
+                "S",
+                7.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029248"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029925"
             },
             {
               "cells": [
                 "Loznica",
-                "23:50",
+                "03:50",
                 12.8,
-                987.1,
+                983.6,
                 100,
-                "ENE",
-                0.6
+                "E",
+                1.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029258"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029926"
             },
             {
               "cells": [
                 "S. Mitrovica",
-                "23:50",
-                11.7,
-                991.5,
+                "03:50",
+                11,
+                988.6,
                 100,
-                "SSE",
-                1.5
+                "E",
+                2.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029251"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029921"
             },
             {
               "cells": [
                 "Valjevo",
-                "23:50",
-                11.9,
-                981,
+                "03:50",
+                11.4,
+                978.2,
                 100,
-                "NNW",
-                1
+                "SW",
+                0.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029249"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029928"
             },
             {
               "cells": [
                 "Beograd",
-                "23:50",
-                11.8,
-                986.6,
+                "03:50",
+                12.3,
+                983.1,
                 100,
-                "S",
-                1.7
+                "SSE",
+                3.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029254"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029920"
             },
             {
               "cells": [
                 "Kragujevac",
-                "23:50",
-                12.7,
-                982.1,
+                "03:50",
+                11.7,
+                979.3,
                 100,
-                "SE",
-                0.9
+                "S",
+                2.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029264"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029922"
             },
             {
               "cells": [
                 "S. Palanka",
-                "23:50",
-                11.6,
-                988.8,
+                "03:50",
+                11.2,
+                985.9,
                 100,
                 "ESE",
-                2.1
+                2.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029262"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029939"
             },
             {
               "cells": [
                 "V. Gradište",
-                "23:50",
-                10.4,
-                993.6,
+                "03:50",
+                10.7,
+                991,
                 100,
-                "E",
-                1.4
+                "ESE",
+                1.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029270"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029941"
             },
             {
               "cells": [
                 "Crni Vrh",
-                "23:50",
-                8.3,
-                886.8,
-                86,
-                "WSW",
-                6.9
+                "03:50",
+                7.1,
+                884.3,
+                100,
+                "S",
+                5.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029250"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029927"
             },
             {
               "cells": [
                 "Negotin",
-                "23:50",
-                10.7,
-                998.8,
+                "03:50",
+                12.2,
+                996.3,
                 100,
-                "NNW",
-                0.5
+                "S",
+                1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029273"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029946"
             },
             {
               "cells": [
                 "Zlatibor",
-                "23:50",
-                10.8,
-                886.9,
-                66,
+                "03:50",
+                10.2,
+                884.6,
+                73,
                 "W",
-                6.8
+                5.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029256"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029924"
             },
             {
               "cells": [
                 "Sjenica",
-                "23:50",
-                10.8,
-                887.6,
-                74,
-                "ESE",
-                6.9
+                "03:50",
+                10.4,
+                885.2,
+                96,
+                "SSW",
+                2.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029257"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029944"
             },
             {
               "cells": [
                 "Požega",
-                "23:50",
-                11.1,
-                966.6,
+                "03:50",
+                9.8,
+                964.2,
                 99,
                 "N",
-                0
+                0.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029265"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029940"
             },
             {
               "cells": [
                 "Kraljevo",
-                "23:50",
-                11.4,
-                977.4,
-                99,
-                "E",
-                1.4
+                "03:50",
+                11.5,
+                975,
+                100,
+                "ESE",
+                3.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029269"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029935"
             },
             {
               "cells": [
                 "Kopaonik",
-                "23:50",
-                4.5,
-                818.4,
-                94,
-                "SW",
-                5.6
+                "03:50",
+                4.7,
+                816,
+                100,
+                "WSW",
+                4.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029268"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029945"
             },
             {
               "cells": [
                 "Kuršumlija",
-                "23:50",
+                "03:50",
                 14.9,
-                959.8,
-                85,
-                "SSW",
-                3.1
+                957.4,
+                94,
+                "S",
+                2.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029267"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029942"
             },
             {
               "cells": [
                 "Kruševac",
-                "23:50",
-                14.4,
-                984.1,
-                68,
-                "N",
-                0
+                "03:50",
+                11.6,
+                981.9,
+                100,
+                "ENE",
+                0.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029261"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029931"
             },
             {
               "cells": [
                 "Ćuprija",
-                "23:50",
-                11.8,
-                989.8,
+                "03:50",
+                11.1,
+                987.3,
                 100,
-                "N",
-                0
+                "SE",
+                1.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029260"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029936"
             },
             {
               "cells": [
                 "Niš",
-                "23:50",
-                15.7,
-                981.4,
-                54,
-                "SE",
-                1.5
+                "03:50",
+                11.1,
+                979.7,
+                100,
+                "E",
+                0.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029266"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029930"
             },
             {
               "cells": [
                 "Leskovac",
-                "23:50",
-                12.8,
-                978.8,
-                88,
-                "ESE",
-                1.2
+                "03:50",
+                10.9,
+                976.4,
+                100,
+                "NW",
+                0.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029253"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029929"
             },
             {
               "cells": [
                 "Zaječar",
-                "23:50",
-                13.7,
-                986.6,
-                74,
-                "N",
-                0
+                "03:50",
+                11.2,
+                984.9,
+                100,
+                "S",
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029274"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029947"
             },
             {
               "cells": [
                 "Dimitrovgrad",
-                "23:50",
-                6.7,
-                954.2,
-                95,
-                "SE",
-                3.3
+                "03:50",
+                8.9,
+                952.3,
+                84,
+                "ESE",
+                1.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029271"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029938"
             },
             {
               "cells": [
                 "Vranje",
-                "23:50",
-                6.9,
-                957,
+                "03:50",
+                8.3,
+                954.3,
                 100,
-                "SSW",
+                "NE",
                 0.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029263"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9029933"
             }
           ]
         },
@@ -451,47 +451,47 @@
             {
               "cells": [
                 "Stara planina",
-                "23:45",
-                3.8,
-                829.3,
+                "03:55",
+                3.4,
+                827.8,
                 100,
-                "141",
-                11.4
+                "185",
+                6
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/stara_planina.php"
             },
             {
               "cells": [
                 "Košutnjak",
-                "23:45",
-                11.4,
-                977.9,
-                98,
-                "214",
-                1.6
+                "03:55",
+                12,
+                974.5,
+                100,
+                "154",
+                3.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kosutnjak.php"
             },
             {
               "cells": [
                 "Pančevo",
-                "23:46",
-                10.8,
-                991.2,
+                "03:56",
+                10.2,
+                987.8,
                 1,
-                "132",
-                0.5
+                "177",
+                0.4
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pancevo.php"
             },
             {
               "cells": [
                 "Kukavica",
-                "23:45",
-                6.1,
-                847.4,
-                80,
-                "237",
+                "03:55",
+                5.7,
+                845,
+                100,
+                "236",
                 7.4
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kukavica.php"
@@ -499,23 +499,23 @@
             {
               "cells": [
                 "Čačak",
-                "23:45",
-                10.5,
-                974.6,
+                "03:55",
+                9.8,
+                972.1,
                 100,
-                "164",
-                1
+                "282",
+                0
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/cacak.php"
             },
             {
               "cells": [
                 "Slatina-Čačak",
-                "23:05",
-                10,
+                "03:05",
+                7.9,
                 null,
                 98,
-                "301",
+                "330",
                 0.6
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/slatina.php"
@@ -523,24 +523,24 @@
             {
               "cells": [
                 "Tamnava",
-                "23:45",
-                11.4,
-                991,
-                100,
-                "99",
-                1.3
+                "03:55",
+                12.2,
+                987.6,
+                1,
+                "132",
+                3.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/tamnava.php"
             },
             {
               "cells": [
                 "Baroševac",
-                "23:45",
-                11.4,
-                980.6,
+                "03:55",
+                12.2,
+                977.5,
                 100,
-                "92",
-                0.5
+                "114",
+                2.7
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/barosevac.php"
             },
@@ -559,84 +559,84 @@
             {
               "cells": [
                 "Leposavić",
-                "23:45",
-                13.2,
-                952.1,
-                82,
-                "147",
-                4.6
+                "03:55",
+                13,
+                948.6,
+                100,
+                "159",
+                2.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/leposavic.php"
             },
             {
               "cells": [
                 "Kosovska Mitrovica",
-                "23:45",
-                12.2,
-                941.1,
-                93,
-                "169",
-                4.2
+                "03:55",
+                11.7,
+                937.9,
+                100,
+                "330",
+                0.4
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/mitrovica.php"
             },
             {
               "cells": [
                 "Zvečan",
-                "23:45",
-                12.4,
-                946.8,
+                "03:55",
+                12.3,
+                943.4,
                 100,
-                "169",
-                2.3
+                "173",
+                0.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/zvecan.php"
             },
             {
               "cells": [
                 "Pirot",
-                "23:45",
-                8.9,
-                960.3,
+                "03:55",
+                8.7,
+                958.6,
                 100,
-                "145",
-                0.8
+                "292",
+                1.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pirot.php"
             },
             {
               "cells": [
                 "Požarevac",
-                "23:45",
-                12.4,
-                993.3,
+                "03:55",
+                11.7,
+                990.3,
                 100,
-                "178",
-                3.5
+                "166",
+                2.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pozarevac.php"
             },
             {
               "cells": [
                 "Kladovo-Karataš",
-                "23:45",
-                9.7,
-                995.5,
-                89,
-                "303",
-                2.5
+                "03:55",
+                8.9,
+                993.5,
+                100,
+                "231",
+                0.5
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kladovo.php"
             },
             {
               "cells": [
                 "Bajina Bašta",
-                "23:45",
-                13.2,
-                973,
+                "03:45",
+                13.4,
+                970,
                 100,
-                "125",
-                1.6
+                "288",
+                0.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/bbasta.php"
             },
@@ -655,36 +655,36 @@
             {
               "cells": [
                 "Krupanj",
-                "23:50",
-                12.4,
-                967,
+                "03:50",
+                11.6,
+                964,
                 100,
-                "204",
-                0.4
+                "275",
+                0.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/krupanj.php"
             },
             {
               "cells": [
                 "Pasuljanske livade",
-                "23:50",
-                10,
-                922.4,
+                "03:55",
+                8.9,
+                919.8,
                 99,
-                "203",
-                2.8
+                "184",
+                3.7
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/p_livade.php"
             },
             {
               "cells": [
                 "Sokobanja",
-                "23:45",
-                15.1,
-                964.8,
-                61,
-                "236",
-                2.2
+                "03:55",
+                10.8,
+                962.9,
+                100,
+                "151",
+                1.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/sokobanja.php"
             }
@@ -697,8 +697,8 @@
     {
       "id": "padavine",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/padavine.php",
-      "fetchedAt": "2026-11-17T22:54:48.909Z",
-      "lastAttemptAt": "2026-11-17T22:54:48.909Z",
+      "fetchedAt": "2026-11-18T02:56:18.923Z",
+      "lastAttemptAt": "2026-11-18T02:56:18.923Z",
       "status": "ok",
       "issuedAt": "2026-11-17T10:13:01.000Z",
       "observedAt": "2026-11-17T06:00:00.000Z",
@@ -2545,8 +2545,8 @@
     {
       "id": "sneg",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/sneg.php",
-      "fetchedAt": "2026-11-17T22:54:49.585Z",
-      "lastAttemptAt": "2026-11-17T22:54:49.585Z",
+      "fetchedAt": "2026-11-18T02:56:19.619Z",
+      "lastAttemptAt": "2026-11-18T02:56:19.619Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": "2026-11-15T18:00:00.000Z",
@@ -2854,11 +2854,11 @@
     {
       "id": "evropa",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/evropa.php",
-      "fetchedAt": "2026-11-17T22:54:49.819Z",
-      "lastAttemptAt": "2026-11-17T22:54:49.819Z",
+      "fetchedAt": "2026-11-18T02:56:19.805Z",
+      "lastAttemptAt": "2026-11-18T02:56:19.805Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-17T22:00:00.000Z",
+      "observedAt": "2026-11-18T01:00:00.000Z",
       "validDates": [],
       "noteSr": "",
       "noteEn": "",
@@ -2907,10 +2907,10 @@
             {
               "cells": [
                 "Amsterdam",
-                10,
+                11,
                 978,
-                "SW",
-                7,
+                "W",
+                9,
                 null
               ]
             },
@@ -2918,7 +2918,7 @@
               "cells": [
                 "Atina",
                 19,
-                1013,
+                1011,
                 "N",
                 4,
                 null
@@ -2928,9 +2928,9 @@
               "cells": [
                 "Banja Luka",
                 15,
-                1001,
-                "S",
-                2,
+                1000,
+                "N",
+                1,
                 "Slaba kiša"
               ]
             },
@@ -2947,20 +2947,20 @@
             {
               "cells": [
                 "Beč",
-                11,
+                8,
                 994,
                 "W",
-                2,
+                3,
                 null
               ]
             },
             {
               "cells": [
                 "Berlin",
-                6,
-                985,
+                9,
+                983,
                 "S",
-                2,
+                3,
                 null
               ]
             },
@@ -2968,17 +2968,7 @@
               "cells": [
                 "Bolonja",
                 7,
-                1002,
-                "NW",
-                1,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Bon",
-                9,
-                984,
+                1001,
                 "SW",
                 3,
                 null
@@ -2986,71 +2976,81 @@
             },
             {
               "cells": [
+                "Bon",
+                11,
+                983,
+                "W",
+                7,
+                null
+              ]
+            },
+            {
+              "cells": [
                 "Bratislava",
-                13,
+                6,
                 995,
-                "SW",
-                5,
-                "Delimično oblačno"
+                "00",
+                0,
+                "Pretežno vedro"
               ]
             },
             {
               "cells": [
                 "Brisel",
                 10,
-                982,
+                984,
                 "SW",
-                9,
-                "Pretežno oblačno"
+                8,
+                "Delimično oblačno"
               ]
             },
             {
               "cells": [
                 "Budimpešta",
-                13,
-                997,
+                12,
+                996,
                 "SW",
-                4,
+                3,
                 null
               ]
             },
             {
               "cells": [
                 "Bukurešt",
-                6,
-                1005,
+                5,
+                1003,
                 "NW",
-                1,
+                0,
                 null
               ]
             },
             {
               "cells": [
                 "Cirih",
-                14,
-                995,
+                13,
+                993,
                 "SW",
-                6,
+                9,
                 null
               ]
             },
             {
               "cells": [
                 "Dubrovnik",
-                17,
-                1008,
+                16,
+                1006,
                 "SE",
-                7,
-                "Oblačno"
+                4,
+                "Umerena kiša"
               ]
             },
             {
               "cells": [
                 "Frankfurt",
-                14,
-                987,
+                13,
+                985,
                 "SW",
-                8,
+                10,
                 null
               ]
             },
@@ -3058,29 +3058,29 @@
               "cells": [
                 "Helsinki",
                 6,
-                988,
+                987,
                 "SE",
-                3,
+                4,
                 "Rosulja (sipeća kiša)"
               ]
             },
             {
               "cells": [
                 "Insbruk",
-                4,
-                998,
-                "00",
-                3,
+                5,
+                995,
+                "W",
+                7,
                 null
               ]
             },
             {
               "cells": [
                 "Kairo",
-                18,
+                16,
                 1019,
                 "NE",
-                4,
+                3,
                 "Vedro"
               ]
             },
@@ -3088,39 +3088,29 @@
               "cells": [
                 "Kijev",
                 5,
-                998,
-                "E",
+                996,
+                "SE",
                 1,
-                "Slaba kiša"
+                "Magla"
               ]
             },
             {
               "cells": [
                 "Kopenhagen",
                 5,
-                985,
+                982,
                 "E",
-                5,
-                "Pretežno oblačno"
-              ]
-            },
-            {
-              "cells": [
-                "Krit",
-                16,
-                1016,
-                "S",
                 6,
-                "Pretežno vedro"
+                "Slaba kiša"
               ]
             },
             {
               "cells": [
                 "Larnaka",
-                16,
-                1017,
+                15,
+                1016,
                 "NW",
-                2,
+                3,
                 null
               ]
             },
@@ -3130,16 +3120,16 @@
                 16,
                 1012,
                 "SW",
-                8,
+                7,
                 null
               ]
             },
             {
               "cells": [
                 "Milano",
-                8,
-                1002,
-                "W",
+                7,
+                1001,
+                "N",
                 2,
                 "Oblačno"
               ]
@@ -3148,9 +3138,9 @@
               "cells": [
                 "Minhen",
                 9,
-                994,
-                "SW",
-                1,
+                991,
+                "S",
+                4,
                 null
               ]
             },
@@ -3158,27 +3148,27 @@
               "cells": [
                 "Minsk",
                 5,
-                994,
-                "SW",
-                1,
-                "Slaba kiša"
+                993,
+                "00",
+                0,
+                "Oblačno"
               ]
             },
             {
               "cells": [
                 "Moskva",
                 0,
-                1008,
+                1005,
                 "SE",
-                2,
+                3,
                 null
               ]
             },
             {
               "cells": [
                 "Nica",
-                15,
-                1003,
+                14,
+                1001,
                 null,
                 null,
                 "Pretežno oblačno"
@@ -3186,18 +3176,8 @@
             },
             {
               "cells": [
-                "Nikšić",
-                10,
-                1009,
-                "S",
-                6,
-                "Slaba kiša"
-              ]
-            },
-            {
-              "cells": [
                 "Oslo",
-                -3,
+                -4,
                 null,
                 "N",
                 5,
@@ -3207,18 +3187,18 @@
             {
               "cells": [
                 "Palermo",
-                21,
-                1013,
+                22,
+                1011,
                 "S",
-                8,
-                "Vedro"
+                10,
+                null
               ]
             },
             {
               "cells": [
                 "Pariz",
-                12,
-                989,
+                11,
+                992,
                 null,
                 null,
                 null
@@ -3228,17 +3208,37 @@
               "cells": [
                 "Podgorica",
                 14,
-                1010,
-                "00",
-                0,
-                "Slaba kiša"
+                1007,
+                "SE",
+                1,
+                "Umerena kiša"
               ]
             },
             {
               "cells": [
                 "Prag",
-                10,
-                991,
+                9,
+                988,
+                "S",
+                3,
+                "Oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Rijeka",
+                14,
+                999,
+                "SE",
+                3,
+                "Oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Rim",
+                19,
+                1005,
                 "SW",
                 5,
                 "Delimično oblačno"
@@ -3246,29 +3246,9 @@
             },
             {
               "cells": [
-                "Rijeka",
-                15,
-                1001,
-                "S",
-                5,
-                "Oblačno"
-              ]
-            },
-            {
-              "cells": [
-                "Rim",
-                18,
-                1007,
-                "SW",
-                5,
-                "Umerena kiša"
-              ]
-            },
-            {
-              "cells": [
                 "Rodos",
-                18,
-                1016,
+                17,
+                1015,
                 null,
                 null,
                 "Pretežno vedro"
@@ -3278,8 +3258,8 @@
               "cells": [
                 "Sankt Peterburg",
                 3,
-                994,
-                "E",
+                993,
+                "SE",
                 2,
                 "Slaba kiša"
               ]
@@ -3287,19 +3267,19 @@
             {
               "cells": [
                 "Segedin",
-                14,
+                11,
                 999,
-                "SW",
-                8,
+                "S",
+                6,
                 null
               ]
             },
             {
               "cells": [
                 "Skoplje",
-                8,
-                1010,
-                "N",
+                7,
+                1008,
+                "SW",
                 1,
                 "Pretežno oblačno"
               ]
@@ -3307,10 +3287,10 @@
             {
               "cells": [
                 "Sofija",
-                11,
-                1006,
+                13,
+                1005,
                 "NE",
-                2,
+                3,
                 "Delimično oblačno"
               ]
             },
@@ -3327,71 +3307,81 @@
             {
               "cells": [
                 "Split",
-                16,
-                1005,
-                "SE",
-                3,
-                "Slaba kiša"
+                15,
+                1003,
+                "SW",
+                2,
+                "Umerena kiša"
               ]
             },
             {
               "cells": [
                 "Stokholm",
                 2,
-                988,
+                987,
                 "NW",
-                2,
+                3,
                 null
               ]
             },
             {
               "cells": [
                 "Temišvar",
-                13,
+                11,
                 1001,
-                "S",
-                3,
+                "SW",
+                2,
                 "Pljusak kiše"
               ]
             },
             {
               "cells": [
                 "Tunis",
-                19,
-                1015,
-                "SW",
-                1,
-                "Pretežno vedro"
+                16,
+                1014,
+                "S",
+                2,
+                "Delimično oblačno"
               ]
             },
             {
               "cells": [
                 "Varšava",
+                5,
+                988,
+                "E",
                 4,
-                990,
-                "SE",
-                3,
-                "Oblačno"
+                "Slaba kiša"
+              ]
+            },
+            {
+              "cells": [
+                "Venecija",
+                8,
+                1001,
+                "W",
+                2,
+                "Pretežno oblačno"
               ]
             },
             {
               "cells": [
                 "Ženeva",
-                14,
+                12,
                 999,
                 "SW",
-                7,
+                11,
                 null
               ]
             },
             {
               "cells": [
                 "Đenova",
-                16,
-                1001,
+                15,
+                1000,
                 "NE",
-                2,
-                "Pretežno oblačno"
+                3,
+                "Delimično oblačno"
               ]
             }
           ]
@@ -3404,8 +3394,8 @@
       "id": "srbija",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/index.php",
       "fetchedAt": "2026-11-17T22:54:50.812Z",
-      "lastAttemptAt": "2026-11-17T22:54:50.812Z",
-      "status": "ok",
+      "lastAttemptAt": "2026-11-18T02:56:15.798Z",
+      "status": "error",
       "issuedAt": null,
       "observedAt": null,
       "validDates": [
@@ -3627,8 +3617,8 @@
       "id": "uv-indeks",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/uv1.php",
       "fetchedAt": "2026-11-17T22:54:51.177Z",
-      "lastAttemptAt": "2026-11-17T22:54:51.177Z",
-      "status": "ok",
+      "lastAttemptAt": "2026-11-18T02:56:15.798Z",
+      "status": "error",
       "issuedAt": null,
       "observedAt": null,
       "validDates": [
@@ -3903,33 +3893,20 @@
     {
       "id": "bioprognoza",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/bioprognoza.php",
-      "fetchedAt": "2026-11-17T22:54:51.407Z",
-      "lastAttemptAt": "2026-11-17T22:54:51.407Z",
+      "fetchedAt": "2026-11-18T02:56:21.033Z",
+      "lastAttemptAt": "2026-11-18T02:56:21.033Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
       "validDates": [
-        "2026-11-17",
-        "2026-11-18"
+        "2026-11-18",
+        "2026-11-19"
       ],
       "noteSr": "Izvorni tekst RHMZ-a na srpskom jeziku. Datum važenja je naveden uz svaki izveštaj; vreme izdavanja nije zasebno potvrđeno.",
       "noteEn": "Each forecast has a validity date; an independent issue time has not been verified. Where available, the English view displays a reviewed summary or the separately published official English edition.",
       "attribution": "RHMZ Srbije",
       "tables": [],
       "text": [
-        {
-          "heading": "Biometeorološka prognoza za Srbiju za: 17.11.2026. - UTORAK",
-          "body": "Očekivana biometeorološka situacija može doprineti pojačanju tegoba kod srčanih bolesnika i osoba sa respiratornim obolјenjima. Od meteoropatskih reakcija moguća je nervoza i pospanost. U saobraćaju se savetuje dodatan oprez.",
-          "date": "2026-11-17",
-          "english": {
-            "heading": "Biometeorological forecast: 17.11.2026. - TUESDAY",
-            "body": "The expected biometeorological conditions may lead to an intensification of symptoms in individuals with heart conditions or respiratory diseases. Possible weather-related reactions include nervousness and drowsiness. Extra caution is advised in traffic.",
-            "kind": "official-edition",
-            "sourceUrl": "https://www.hidmet.gov.rs/eng/prognoza/bioprognoza.php",
-            "checkedAt": "2026-11-17T22:54:51.631Z",
-            "sourceHash": null
-          }
-        },
         {
           "heading": "Biometeorološka prognoza za Srbiju za: 18.11.2026. - SREDA",
           "body": "Relativno nepovolјne biometeorološke prilike za većinu hronično obolelih. Oprez se savetuje astmatičarima, kao i srčanim i psihičkim bolesnicima. Reumatski bolovi i nesanica su očekivani kao meteoropatske reakcije. Učesnicima u saobraćaju se preporučuje pojačana pažnja.",
@@ -3939,7 +3916,20 @@
             "body": "Relatively unfavourable biometeorological conditions for the majority of chronically sick. Caution is advised to asthmatics, as well as cardiac and patients with mental difficulties. Rheumatic pains and insomnia are expected as meteorophatric reactions. Increased caution is recommended to participants in traffic.",
             "kind": "official-edition",
             "sourceUrl": "https://www.hidmet.gov.rs/eng/prognoza/bioprognoza.php",
-            "checkedAt": "2026-11-17T22:54:51.631Z",
+            "checkedAt": "2026-11-18T02:56:21.242Z",
+            "sourceHash": null
+          }
+        },
+        {
+          "heading": "Biometeorološka prognoza za Srbiju za: 19.11.2026. - ČETVRTAK",
+          "body": "Nepovolјna biometeorološka situacija može doprineti značajnom pojačanju tegoba kod osoba sa kardio vaskularnim obolјenjima, kao i kod astmatičara i reumatičara. Osetlјive osobe mogu imati meteoropatske reakcije u vidu razdražlјivosti, pospanosti i bolova u kostima i zglobovima. U saobraćaju je neophodan naročit oprez.",
+          "date": "2026-11-19",
+          "english": {
+            "heading": "Biometeorological forecast: 19.11.2026. - THURSDAY",
+            "body": "Unfavorable biometeorological conditions may lead to a significant intensification of symptoms in individuals with cardiovascular diseases, as well as in those suffering from asthma or rheumatic conditions. Sensitive individuals may experience weather-related reactions, such as irritability, drowsiness, and pain in the bones and joints. Extra caution is advised in traffic.",
+            "kind": "official-edition",
+            "sourceUrl": "https://www.hidmet.gov.rs/eng/prognoza/bioprognoza.php",
+            "checkedAt": "2026-11-18T02:56:21.242Z",
             "sourceHash": null
           }
         }
@@ -3949,8 +3939,8 @@
     {
       "id": "dnevni-vodostaji",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
-      "fetchedAt": "2026-11-17T22:54:52.036Z",
-      "lastAttemptAt": "2026-11-17T22:54:52.036Z",
+      "fetchedAt": "2026-11-18T02:56:21.556Z",
+      "lastAttemptAt": "2026-11-18T02:56:21.556Z",
       "status": "ok",
       "issuedAt": "2026-11-17T08:12:39.000Z",
       "observedAt": "2026-11-17T06:00:00.000Z",
@@ -4796,8 +4786,8 @@
     {
       "id": "prognoza-voda",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/prognoza_voda.php",
-      "fetchedAt": "2026-11-17T22:54:52.551Z",
-      "lastAttemptAt": "2026-11-17T22:54:52.551Z",
+      "fetchedAt": "2026-11-18T02:56:22.514Z",
+      "lastAttemptAt": "2026-11-18T02:56:22.514Z",
       "status": "ok",
       "issuedAt": "2026-11-17T09:15:12.000Z",
       "observedAt": null,
@@ -5174,8 +5164,8 @@
     {
       "id": "mali-tokovi",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/hbv/index.php",
-      "fetchedAt": "2026-11-17T22:54:52.913Z",
-      "lastAttemptAt": "2026-11-17T22:54:52.913Z",
+      "fetchedAt": "2026-11-18T02:56:22.812Z",
+      "lastAttemptAt": "2026-11-18T02:56:22.812Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -5404,11 +5394,11 @@
     {
       "id": "radar",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/radarska3.php",
-      "fetchedAt": "2026-11-17T22:54:53.137Z",
-      "lastAttemptAt": "2026-11-17T22:54:53.137Z",
+      "fetchedAt": "2026-11-18T02:56:22.989Z",
+      "lastAttemptAt": "2026-11-18T02:56:22.989Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-17T22:45:00.000Z",
+      "observedAt": "2026-11-18T02:45:00.000Z",
       "validDates": [],
       "noteSr": "Originalni radarski kompozit. dBZ označava radarsku reflektivnost, a ne količinu padavina u milimetrima. Termine čitamo iz izvornih naziva datoteka u UTC. Slike se učitavaju direktno sa RHMZ-a.",
       "noteEn": "Original radar composite. dBZ represents radar reflectivity, not millimetres of rainfall. Frame times come from source UTC filenames. Images load directly from RHMZ.",
@@ -5417,44 +5407,44 @@
       "text": [],
       "images": [
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111721000000dBZ.cappi.png",
-          "time": "2026-11-17T21:00:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111801000000dBZ.cappi.png",
+          "time": "2026-11-18T01:00:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111721150000dBZ.cappi.png",
-          "time": "2026-11-17T21:15:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111801150000dBZ.cappi.png",
+          "time": "2026-11-18T01:15:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111721300000dBZ.cappi.png",
-          "time": "2026-11-17T21:30:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111801300000dBZ.cappi.png",
+          "time": "2026-11-18T01:30:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111721450000dBZ.cappi.png",
-          "time": "2026-11-17T21:45:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111801450000dBZ.cappi.png",
+          "time": "2026-11-18T01:45:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111722000000dBZ.cappi.png",
-          "time": "2026-11-17T22:00:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111802000000dBZ.cappi.png",
+          "time": "2026-11-18T02:00:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111722150000dBZ.cappi.png",
-          "time": "2026-11-17T22:15:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111802150000dBZ.cappi.png",
+          "time": "2026-11-18T02:15:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111722300000dBZ.cappi.png",
-          "time": "2026-11-17T22:30:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111802300000dBZ.cappi.png",
+          "time": "2026-11-18T02:30:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111722450000dBZ.cappi.png",
-          "time": "2026-11-17T22:45:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026111802450000dBZ.cappi.png",
+          "time": "2026-11-18T02:45:00.000Z"
         }
       ]
     },
     {
       "id": "satelit",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/satelit_anim.php?type=Ser_com",
-      "fetchedAt": "2026-11-17T22:54:53.350Z",
-      "lastAttemptAt": "2026-11-17T22:54:53.350Z",
+      "fetchedAt": "2026-11-18T02:56:23.158Z",
+      "lastAttemptAt": "2026-11-18T02:56:23.158Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -5494,19 +5484,19 @@
     {
       "id": "upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index.php",
-      "fetchedAt": "2026-11-17T22:54:53.582Z",
-      "lastAttemptAt": "2026-11-17T22:54:53.582Z",
+      "fetchedAt": "2026-11-18T02:56:23.342Z",
+      "lastAttemptAt": "2026-11-18T02:56:23.342Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
       "validFrom": "2026-11-17T21:02:00.000Z",
-      "validUntil": "2026-11-19T22:14:00.000Z",
+      "validUntil": "2026-11-19T23:01:00.000Z",
       "validPeriods": [
         {
           "sr": "Meteorološko upozorenje",
           "en": "Weather warning",
           "from": "2026-11-17T21:02:00.000Z",
-          "until": "2026-11-19T22:14:00.000Z"
+          "until": "2026-11-19T23:01:00.000Z"
         },
         {
           "sr": "Hidrološko upozorenje",
@@ -5523,16 +5513,8 @@
       "text": [
         {
           "heading": "Meteorološka i hidrološka upozorenja",
-          "body": "UPOZORENJA RHMZ Meteorološko upozorenje UPOZORENJE ZA PODRUČJE SRBIJE NA LOKALNO OBILNE PLјUSKOVE SA GRMLјAVINOM (za 18.11.2026. god) U sredu (18.11.) promenlјivo i nestabilno sa plјuskovima i grmlјavinom. Lokalno se očekuju i obilne padavine i to u oblasti od južne Bačke, Srema, Podrinja, preko područja Beograda i centralne Srbije, do istoka i jugoistoka zemlјe, gde može pasti od 30 do 50 mm kiše, lokalno i više. UPOZORENJE ZA PODRUČJE BEOGRADA NA LOKALNO OBILNE PLјUSKOVE SA GRMLјAVINOM (za 18.11.2026. godine) U sredu (18.11.) promenlјivo i nestabilno sa plјuskovima i grmlјavinom. U pojedinim delovima grada lokalno se očekuju i obilne padavine i to više od 30 mm kiše za 12 h. UPOZORENJE ZA PODRUČJE SRBIJE NA JAK I OLUJNI VETAR (za 18. I 19.11.2026. god) U sredu (18.11.) u brdsko-planinskim predelima jugozapadne i južne Srbije, kao i u zoni najjačih plјuskova, a u četvrtak krajem dana (19.11.) i u ostalim predelima duvaće jak i olujni pretežno zapadni i jugozapadni vetar. Upozorenje je za period od: 22:02 17.11.2026. do: 23:14 19.11.2026. Hidrološko upozorenje Na Dunavu i na Tisi kod Titela vodostaji će se narednih dana kretati ispod niskih plovidbenih nivoa. Za više detalja pogledajte: Prognoza voda Upozorenje je za period od: 10:06 17.11.2026. do: 10:06 19.11.2026. RHMZ Srbije 17.11.2026 Trenutno nema aktuelnog agrometeorološkog upozorenja. RHMZ Srbije 17.11.2026 Trenutno nema vanredne agrometeorološke informacije.",
-          "date": null,
-          "english": {
-            "heading": "Meteorological and hydrological warnings · 17 November 2026",
-            "body": "The retrieved RHMZ report warns of locally heavy showers and thunderstorms on Wednesday 18 November. From southern Bačka, Srem and Podrinje through Belgrade and central Serbia to eastern and southeastern Serbia, 30–50 mm of rain is expected, locally more. A separate Belgrade warning mentions over 30 mm in 12 hours in parts of the city. Strong to storm-force mainly westerly and southwesterly winds are forecast on 18–19 November: on Wednesday in southwestern and southern hills and mountains and the strongest showers, and late Thursday also elsewhere. Weather warning validity: 17 November 22:02 to 19 November 23:14. Danube stages and the Tisa stage at Titel are expected to remain below low-navigation levels; hydrological warning validity: 17 November 10:06 to 19 November 10:06. The snapshot lists no agrometeorological warning or extraordinary agrometeorological information. All times are Europe/Belgrade. Check the official service for the current status.",
-            "kind": "reviewed-summary",
-            "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index.php",
-            "checkedAt": "2026-11-17T22:32:17.016Z",
-            "sourceHash": "3e206a093c11709d6a71aead32fed6c9879527a13a47ad45465e51de357b6b3e"
-          }
+          "body": "UPOZORENJA RHMZ Meteorološko upozorenje UPOZORENJE ZA PODRUČJE SRBIJE NA LOKALNO OBILNE PLјUSKOVE SA GRMLјAVINOM (za 18.11.2026. god) Danas (18.11.) promenlјivo i nestabilno sa plјuskovima i grmlјavinom. Lokalno se očekuju i obilne padavine i to u oblasti od južne Bačke, Srema, Podrinja, preko područja Beograda i centralne Srbije, do istoka i jugoistoka zemlјe, gde može pasti od 30 do 50 mm kiše, lokalno i više. UPOZORENJE ZA PODRUČJE BEOGRADA NA LOKALNO OBILNE PLјUSKOVE SA GRMLјAVINOM (za 18.11.2026. godine) Danas (18.11.) promenlјivo i nestabilno sa plјuskovima i grmlјavinom. U pojedinim delovima grada lokalno se očekuju i obilne padavine i to više od 30 mm kiše za 12 h. UPOZORENJE ZA PODRUČJE SRBIJE NA JAK I OLUJNI VETAR (za 18. I 19.11.2026. god) Danas (18.11.) u brdsko-planinskim predelima jugozapadne i južne Srbije, kao i u zoni najjačih plјuskova, a sutra krajem dana (19.11.) i u ostalim predelima duvaće jak i olujni pretežno zapadni i jugozapadni vetar. Upozorenje je za period od: 22:02 17.11.2026. do: 00:01 20.11.2026. Hidrološko upozorenje Na Dunavu i na Tisi kod Titela vodostaji će se narednih dana kretati ispod niskih plovidbenih nivoa. Za više detalja pogledajte: Prognoza voda Upozorenje je za period od: 10:06 17.11.2026. do: 10:06 19.11.2026. RHMZ Srbije 18.11.2026 Trenutno nema aktuelnog agrometeorološkog upozorenja. RHMZ Srbije 18.11.2026 Trenutno nema vanredne agrometeorološke informacije.",
+          "date": null
         }
       ],
       "images": []
@@ -5540,19 +5522,19 @@
     {
       "id": "najave",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
-      "fetchedAt": "2026-11-17T22:54:53.808Z",
-      "lastAttemptAt": "2026-11-17T22:54:53.808Z",
+      "fetchedAt": "2026-11-18T02:56:23.535Z",
+      "lastAttemptAt": "2026-11-18T02:56:23.535Z",
       "status": "ok",
-      "issuedAt": "2026-11-17T22:45:00.000Z",
+      "issuedAt": "2026-11-18T02:20:00.000Z",
       "observedAt": null,
-      "validFrom": "2026-11-17T22:49:00.000Z",
-      "validUntil": "2026-11-24T22:49:00.000Z",
+      "validFrom": "2026-11-18T02:23:00.000Z",
+      "validUntil": "2026-11-25T02:23:00.000Z",
       "validPeriods": [
         {
           "sr": "Meteorološka najava",
           "en": "Weather advisory",
-          "from": "2026-11-17T22:49:00.000Z",
-          "until": "2026-11-24T22:49:00.000Z"
+          "from": "2026-11-18T02:23:00.000Z",
+          "until": "2026-11-25T02:23:00.000Z"
         },
         {
           "sr": "Hidrološka najava",
@@ -5569,16 +5551,8 @@
       "text": [
         {
           "heading": "Meteorološke najave",
-          "body": "NAJAVE RHMZ Meteorološka najava UTORAK, 17.11.2026. u 23:45 h Naoblačenje sa kišom koje je zahvatilo Vojvodinu, zapadnu i centralnu Srbiju tokom noći proširiće se i na većinu ostalih predela Srbije. Više padavina očekuje se na severu i severoistoku zemlјe, gde može pasti više od 20 mm kiše za 12 h. U Beogradu tokom noći oblačno sa kišom. Vetar slab i umeren, južni i jugozapadni, a u planinskim predelima jugozapadne i južne Srbije jak, povremeno i olujni zapadni i jugozapadni. TOPLO, PAD TEMPERATURE U SUBOTU Sutra promenlјivo i vetrovito, mestimično sa kišom i plјuskovima sa grmlјavinom koji će lokalno biti izraženi. U severnim i centralnim predelima očekuje se količina padavina od 30 do 50 mm za 24 sata. Vetar južni i jugozapadni, slab i umeren, povremeno i jak, u planinskim predelima na jugu povremeno i olujni, a sredinom dana na severu kratkotrajno jak zapadni i severozapadni. Najniža temperatura od 8 do 14 °S, a najviša od 16 °S do 21 °S. Do petka toplo sa maksimalnom temperaturom u većini mesta od 16 do 21 °S. Od subote temperatura u padu. Tokom celog perioda promenlјivo, povremeno sa kišom i lokalnim plјuskovima izraženijim početkom sledeće sedmice, kada se na planinama kratkotrajno očekuje i sneg. Najava je za period od: 23:49 17.11.2026. do: 23:49 24.11.2026. Hidrološka najava Na Savi narednih dana vodostaji će biti u većem porastu bez dostizanja granica redovne odbrane od poplava. Za više detalja pogledajte: Prognoza voda Najava je za period od: 10:07 17.11.2026. do: 10:07 19.11.2026.",
-          "date": null,
-          "english": {
-            "heading": "Weather and hydrological advisories · 17 November 2026, 23:45",
-            "body": "RHMZ advisory issued 17 November at 23:45: rain in Vojvodina and western and central Serbia spreads to most other areas overnight. Northern and northeastern areas may receive over 20 mm in 12 hours; Belgrade is cloudy with rain. Southerly and southwesterly winds are weak to moderate, with strong, occasionally storm-force westerly and southwesterly winds on southwestern and southern mountains. Wednesday brings rain, locally intense thunderstorms and 30–50 mm over 24 hours in northern and central areas. Winds may strengthen, with storm-force gusts on southern mountains and briefly strong west to northwest winds in the north around midday. Lows: 8–14 °C; highs: 16–21 °C. Highs remain mostly 16–21 °C through Friday, then fall from Saturday. Rain and showers intensify early the following week, with brief mountain snow. Weather advisory validity: 17 November 23:49 to 24 November 23:49. Sava stages are expected to rise substantially, below regular flood-defence thresholds. Hydrological advisory validity: 17 November 10:07 to 19 November 10:07. All times are Europe/Belgrade.",
-            "kind": "reviewed-summary",
-            "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
-            "checkedAt": "2026-11-17T22:58:17.633Z",
-            "sourceHash": "e948827fa721c58564a109046b90265a2c75d55a82efb75ab68a88b8a67bb6a4"
-          }
+          "body": "NAJAVE RHMZ Meteorološka najava SREDA, 18.11.2026. u 03:20 h Oblačno, u Banatu, centralnoj, istočnoj, jugoistočnoj i jugozapadnoj Srbiji sa kišom. Više padavina očekuje se na severoistoku zemlјe, gde može pasti više od 20 mm kiše. U Beogradu oblačno sa kišom. Vetar slab i umeren, južni i jugozapadni, a u planinskim predelima jugozapadne i južne Srbije jak, povremeno i olujni zapadni i jugozapadni. Danas promenlјivo i toplo za ovo doba godine, ali nestabilno, mestimično sa kišom i plјuskovima sa grmlјavinom. Lokalno se očekuju obilne padavine i to u oblasti od južne Bačke, Srema, Podrinja, preko područja Beograda i centralne Srbije, do istoka i jugoistoka zemlјe, gde može pasti od 30 do 50 mm kiše, lokalno i više. Vetar slab i umeren, u Vojvodini sredinom dana i jak, a u planinskim predelima jugozapadne i južne Srbije povremeno i olujni, jugozapadni i zapadni. Najniža temperatura od 8 do 14 °S, a najviša od 16 °S do 21 °S. VREME NAREDNIH DANA Do petka toplo sa maksimalnom temperaturom u većini mesta od 16 do 21 °S. Od subote temperatura u padu. Tokom celog perioda promenlјivo, povremeno sa kišom i lokalnim plјuskovima izraženijim početkom sledeće sedmice, kada se na planinama kratkotrajno očekuje i sneg. Najava je za period od: 03:23 18.11.2026. do: 03:23 25.11.2026. Hidrološka najava Na Savi narednih dana vodostaji će biti u većem porastu bez dostizanja granica redovne odbrane od poplava. Za više detalja pogledajte: Prognoza voda Najava je za period od: 10:07 17.11.2026. do: 10:07 19.11.2026.",
+          "date": null
         }
       ],
       "images": []
@@ -5586,8 +5560,8 @@
     {
       "id": "hitna-upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index1.php",
-      "fetchedAt": "2026-11-17T22:54:54.030Z",
-      "lastAttemptAt": "2026-11-17T22:54:54.030Z",
+      "fetchedAt": "2026-11-18T02:56:23.711Z",
+      "lastAttemptAt": "2026-11-18T02:56:23.711Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -5600,16 +5574,8 @@
       "text": [
         {
           "heading": "Hitna upozorenja",
-          "body": "HITNO UPOZORENJE RHMZ RHMZ Srbije 17.11.2026 Trenutno nema hitnog upozorenja.",
-          "date": null,
-          "english": {
-            "heading": "Urgent warnings · 17 November 2026",
-            "body": "The retrieved RHMZ report dated 17 November 2026 lists no urgent warning. This periodic snapshot does not confirm the current warning status. Check the official service before making decisions.",
-            "kind": "reviewed-summary",
-            "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index1.php",
-            "checkedAt": "2026-11-17T22:32:17.017Z",
-            "sourceHash": "5523f75b19b41218a02d5bc85ae5f37e90e43b64f80775db30b6a987ad50143f"
-          }
+          "body": "HITNO UPOZORENJE RHMZ RHMZ Srbije 18.11.2026 Trenutno nema hitnog upozorenja.",
+          "date": null
         }
       ],
       "images": []
