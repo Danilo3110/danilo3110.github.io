@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T11:18:38.874Z",
+  "generatedAt": "2026-11-19T11:20:58.726Z",
   "products": [
     {
       "id": "automatske-stanice",
@@ -5525,7 +5525,15 @@
         {
           "heading": "Meteorološke najave",
           "body": "NAJAVE RHMZ Meteorološka najava ČETVRTAK, 19.11.2026. u 11:35 h POSLE PODNE NOVO NAOBLAČENJE SA KIŠOM SA ZAPADA, A UVEČE I OLUJNI UDARI VETRA Posle podne i uveče oblačno, mestimično sa kišom i lokalnim plјuskovima uz skretanje vetra na umeren i jak zapadni i severozapadni. Uveče na području Vojvodine, zapadne i centralne Srbije, kao i na području Beograda udari vetra će biti olujni, ponegde i orkanski, od 80 do 110 km/h. U toku noći ka petku prestanak padavina i razvedravanje, UZ SLABLјENJE VETRA. ČESTA PROLAZNA NAOBLAČENJA SA KIŠOM, OD SUBOTE POSTEPEN PAD TEMPERATURE Narednih dana promenlјivo, povremeno sa kišom i lokalnim plјuskovima. U petak toplo sa maksimalnom temperaturom u većini mesta od 16 do 20 °S, a od subote temperatura u postepenom padu. Najava je za period od: 11:38 19.11.2026. do: 11:38 26.11.2026. Hidrološka najava Na Savi narednih dana vodostaji će biti u većem porastu bez dostizanja granica redovne odbrane od poplava. Za više detalja pogledajte: Prognoza voda Najava je za period od: 11:31 18.11.2026. do: 11:31 20.11.2026.",
-          "date": null
+          "date": null,
+          "english": {
+            "heading": "Weather and hydrological advisories",
+            "body": "RHMZ advisory issued on 19 November at 11:35: cloud and rain spread from the west during the afternoon and evening, with local showers and winds turning moderate to strong westerly and northwesterly. Evening gusts in Vojvodina, western and central Serbia, and Belgrade may reach storm force and locally hurricane force, at 80–110 km/h. Rain stops and skies clear overnight into Friday, with weakening winds. The following days remain changeable, with occasional rain and local showers. Friday stays warm, with maxima of 16–20 °C in most places; temperatures gradually fall from Saturday. The published weather-advisory period is 19 November at 11:38 to 26 November at 11:38, Europe/Belgrade. The separate hydrological advisory forecasts a substantial rise of the Sava in the coming days without reaching regular flood-defence thresholds; its published period is 18 November at 11:31 to 20 November at 11:31. Check RHMZ for the current status.",
+            "kind": "reviewed-summary",
+            "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
+            "checkedAt": "2026-11-19T11:20:58.726Z",
+            "sourceHash": "7c555677ebdbf1cf6cff556d3b9bf88a62a75868ddbaf3ae851fa95fc882f659"
+          }
         }
       ],
       "images": []
