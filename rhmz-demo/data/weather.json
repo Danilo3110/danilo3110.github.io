@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T10:35:29.896Z",
+  "generatedAt": "2026-11-19T11:18:29.280Z",
   "observations": {
-    "fetchedAt": "2026-11-19T10:35:29.896Z",
-    "lastAttemptAt": "2026-11-19T10:35:29.896Z",
+    "fetchedAt": "2026-11-19T11:18:29.280Z",
+    "lastAttemptAt": "2026-11-19T11:18:29.280Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/index.php",
     "observedAt": "2026-11-19T10:00:00.000Z",
@@ -321,247 +321,247 @@
     ]
   },
   "forecasts": {
-    "fetchedAt": "2026-11-19T10:35:29.896Z",
-    "lastAttemptAt": "2026-11-19T10:35:29.896Z",
+    "fetchedAt": "2026-11-19T11:18:29.280Z",
+    "lastAttemptAt": "2026-11-19T11:18:29.280Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13274",
     "cities": [
       {
         "cityId": "13274",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13274",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
           {
-            "date": "2026-11-19",
-            "high": 19,
-            "low": 12,
-            "condition": 6
-          },
-          {
             "date": "2026-11-20",
-            "high": 19,
+            "high": 20,
             "low": 10,
             "condition": 6
           },
           {
             "date": "2026-11-21",
-            "high": 15,
-            "low": 9,
+            "high": 16,
+            "low": 8,
             "condition": 6
           },
           {
             "date": "2026-11-22",
-            "high": 12,
-            "low": 5,
+            "high": 14,
+            "low": 4,
             "condition": 6
           },
           {
             "date": "2026-11-23",
             "high": 9,
-            "low": 5,
+            "low": 6,
             "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 8,
+            "low": 2,
+            "condition": 10
           }
         ]
       },
       {
         "cityId": "13168",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13168",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
-          {
-            "date": "2026-11-19",
-            "high": 17,
-            "low": 8,
-            "condition": 6
-          },
           {
             "date": "2026-11-20",
             "high": 18,
-            "low": 8,
+            "low": 7,
             "condition": 6
           },
           {
             "date": "2026-11-21",
             "high": 14,
-            "low": 7,
-            "condition": 6
+            "low": 6,
+            "condition": 10
           },
           {
             "date": "2026-11-22",
             "high": 12,
-            "low": 3,
+            "low": 2,
             "condition": 6
           },
           {
             "date": "2026-11-23",
-            "high": 8,
-            "low": 4,
-            "condition": 6
+            "high": 7,
+            "low": 5,
+            "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 7,
+            "low": -1,
+            "condition": 10
           }
         ]
       },
       {
         "cityId": "13388",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13388",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
-          {
-            "date": "2026-11-19",
-            "high": 19,
-            "low": 9,
-            "condition": 6
-          },
           {
             "date": "2026-11-20",
             "high": 19,
             "low": 8,
-            "condition": 6
+            "condition": 10
           },
           {
             "date": "2026-11-21",
-            "high": 15,
-            "low": 6,
+            "high": 17,
+            "low": 7,
             "condition": 6
           },
           {
             "date": "2026-11-22",
-            "high": 12,
-            "low": 4,
+            "high": 14,
+            "low": 5,
             "condition": 6
           },
           {
             "date": "2026-11-23",
-            "high": 9,
-            "low": 6,
+            "high": 11,
+            "low": 9,
             "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 7,
+            "low": 2,
+            "condition": 10
           }
         ]
       },
       {
         "cityId": "13278",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13278",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
           {
-            "date": "2026-11-19",
-            "high": 19,
-            "low": 9,
-            "condition": 6
-          },
-          {
             "date": "2026-11-20",
-            "high": 19,
-            "low": 8,
+            "high": 20,
+            "low": 6,
             "condition": 6
           },
           {
             "date": "2026-11-21",
-            "high": 15,
+            "high": 17,
             "low": 7,
             "condition": 6
           },
           {
             "date": "2026-11-22",
-            "high": 12,
-            "low": 3,
+            "high": 13,
+            "low": 4,
             "condition": 6
           },
           {
             "date": "2026-11-23",
-            "high": 9,
-            "low": 5,
+            "high": 10,
+            "low": 8,
             "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 8,
+            "low": 1,
+            "condition": 10
           }
         ]
       },
       {
         "cityId": "13367",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13367",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
-          {
-            "date": "2026-11-19",
-            "high": 14,
-            "low": 8,
-            "condition": 6
-          },
           {
             "date": "2026-11-20",
             "high": 13,
-            "low": 6,
+            "low": 5,
             "condition": 6
           },
           {
             "date": "2026-11-21",
-            "high": 10,
+            "high": 11,
             "low": 5,
             "condition": 6
           },
           {
             "date": "2026-11-22",
-            "high": 8,
+            "high": 10,
             "low": 2,
             "condition": 6
           },
           {
             "date": "2026-11-23",
             "high": 5,
-            "low": 1,
+            "low": 3,
             "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 3,
+            "low": -3,
+            "condition": 10
           }
         ]
       },
       {
         "cityId": "13481",
         "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/stanica.php?mp_id=13481",
-        "issuedAt": "2026-11-18T10:48:00.000Z",
-        "issuedText": "Prognoza ažurirana: 18.11. 11:48.",
+        "issuedAt": "2026-11-19T11:12:00.000Z",
+        "issuedText": "Prognoza ažurirana: 19.11. 12:12.",
         "days": [
-          {
-            "date": "2026-11-19",
-            "high": 17,
-            "low": 9,
-            "condition": 6
-          },
           {
             "date": "2026-11-20",
             "high": 18,
             "low": 7,
-            "condition": 6
+            "condition": 4
           },
           {
             "date": "2026-11-21",
-            "high": 14,
+            "high": 15,
             "low": 5,
             "condition": 6
           },
           {
             "date": "2026-11-22",
-            "high": 11,
+            "high": 12,
             "low": 4,
             "condition": 6
           },
           {
             "date": "2026-11-23",
-            "high": 8,
-            "low": 4,
+            "high": 9,
+            "low": 7,
             "condition": 9
+          },
+          {
+            "date": "2026-11-24",
+            "high": 7,
+            "low": 1,
+            "condition": 10
           }
         ]
       }
     ]
   },
   "water": {
-    "fetchedAt": "2026-11-19T10:35:29.896Z",
-    "lastAttemptAt": "2026-11-19T10:35:29.896Z",
+    "fetchedAt": "2026-11-19T11:18:29.280Z",
+    "lastAttemptAt": "2026-11-19T11:18:29.280Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
-    "issuedAt": "2026-11-19T09:50:02.000Z",
+    "issuedAt": "2026-11-19T10:50:01.000Z",
     "stations": [
       {
         "id": "42010",
@@ -1443,7 +1443,7 @@
         "name": "VISOKA",
         "river": "KOSANICA",
         "stage": -40,
-        "observedAt": "2026-11-19T08:00:00.000Z"
+        "observedAt": "2026-11-19T09:00:00.000Z"
       },
       {
         "id": "47880",
@@ -1609,18 +1609,14 @@
     ]
   },
   "history": {
-    "fetchedAt": "2026-11-19T10:35:29.896Z",
-    "lastAttemptAt": "2026-11-19T10:35:29.896Z",
+    "fetchedAt": "2026-11-19T11:18:29.280Z",
+    "lastAttemptAt": "2026-11-19T11:18:29.280Z",
     "status": "ok",
     "sourceUrl": "https://www.hidmet.gov.rs/data/hid_nrt_feed_rss_atom/42045_lat.xml",
     "stationId": "42045",
     "name": "Zemun",
     "river": "Dunav",
     "points": [
-      {
-        "time": "2026-11-12T10:00:00.000Z",
-        "stage": 194
-      },
       {
         "time": "2026-11-12T11:00:00.000Z",
         "stage": 193
