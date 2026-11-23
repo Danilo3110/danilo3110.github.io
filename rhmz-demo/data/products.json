@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:51:17.054Z",
+  "generatedAt": "2026-11-23T12:57:46.258Z",
   "products": [
     {
       "id": "automatske-stanice",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/automatske.php",
-      "fetchedAt": "2026-11-23T02:51:12.065Z",
-      "lastAttemptAt": "2026-11-23T02:51:12.065Z",
+      "fetchedAt": "2026-11-23T12:57:41.511Z",
+      "lastAttemptAt": "2026-11-23T12:57:41.511Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-23T02:40:00.000Z",
+      "observedAt": "2026-11-23T12:50:00.000Z",
       "validDates": [
         "2026-11-23"
       ],
@@ -66,338 +66,338 @@
             {
               "cells": [
                 "Palić",
-                "03:40",
-                4.3,
-                991.7,
-                100,
-                "NNW",
-                5.8
+                "13:50",
+                5.3,
+                1003.3,
+                54,
+                "WNW",
+                4.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050017"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051731"
             },
             {
               "cells": [
                 "Sombor",
-                "03:40",
-                4.9,
-                994.6,
-                100,
-                "NW",
-                6.6
+                "13:50",
+                6.7,
+                1006.6,
+                43,
+                "WNW",
+                7.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050029"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051735"
             },
             {
               "cells": [
                 "Novi Sad",
-                "03:40",
-                7.5,
-                991.2,
-                100,
-                "NNW",
-                8.7
+                "13:50",
+                5.6,
+                1006.2,
+                64,
+                "NW",
+                7.8
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050024"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051726"
             },
             {
               "cells": [
                 "Zrenjanin",
-                "03:40",
-                8.4,
-                991.1,
-                100,
-                "N",
-                3.3
+                "13:50",
+                5.4,
+                1006.1,
+                74,
+                "NW",
+                5.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050022"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051734"
             },
             {
               "cells": [
                 "Kikinda",
-                "03:40",
-                6.8,
-                992,
+                "13:50",
+                5.2,
+                1005.3,
                 100,
-                "NNW",
-                6.3
+                "WNW",
+                7.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050012"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051715"
             },
             {
               "cells": [
                 "B. Karlovac",
-                "03:40",
-                7.9,
-                988.8,
-                100,
-                "NNE",
-                1.5
+                "13:50",
+                6.1,
+                1004.3,
+                91,
+                "WNW",
+                7.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050008"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051719"
             },
             {
               "cells": [
                 "Loznica",
-                "03:40",
-                9.6,
-                987.3,
-                100,
-                "W",
-                1.8
+                "13:50",
+                5.7,
+                1003.4,
+                57,
+                "NW",
+                3.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050011"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051723"
             },
             {
               "cells": [
                 "S. Mitrovica",
-                "03:40",
-                8.5,
-                991.6,
-                100,
-                "NNW",
-                5.3
+                "13:50",
+                6,
+                1007.3,
+                67,
+                "WNW",
+                4.4
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050010"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051713"
             },
             {
               "cells": [
                 "Valjevo",
-                "03:40",
-                8.9,
-                979.6,
-                100,
-                "WSW",
-                2.4
+                "13:50",
+                5.6,
+                996.2,
+                62,
+                "W",
+                3.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050009"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051714"
             },
             {
               "cells": [
                 "Beograd",
-                "03:40",
-                8.2,
-                983.6,
-                100,
-                "NNE",
-                1.8
+                "13:50",
+                5.3,
+                1000.4,
+                55,
+                "NW",
+                3.5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050005"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051717"
             },
             {
               "cells": [
                 "Kragujevac",
-                "03:40",
-                10.6,
-                978.6,
+                "13:50",
+                4.2,
+                994.1,
                 100,
-                "SSW",
-                3.3
+                "NW",
+                5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050023"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051732"
             },
             {
               "cells": [
                 "S. Palanka",
-                "03:40",
-                9.6,
-                984.7,
-                100,
-                "SE",
-                1.3
+                "13:50",
+                5.2,
+                1001,
+                88,
+                "WNW",
+                6.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050018"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051738"
             },
             {
               "cells": [
                 "V. Gradište",
-                "03:40",
-                7.9,
-                989.8,
-                92,
-                "ESE",
-                2.2
+                "13:50",
+                5.6,
+                1004.6,
+                73,
+                "NW",
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050020"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051739"
             },
             {
               "cells": [
                 "Crni Vrh",
-                "03:40",
-                3.1,
-                881.8,
+                "13:50",
+                -2.4,
+                888.8,
                 100,
-                "SE",
-                5.6
+                "NW",
+                7.6
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050006"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051716"
             },
             {
               "cells": [
                 "Negotin",
-                "03:40",
+                "13:50",
                 6.3,
-                996.5,
-                100,
-                "NW",
-                0.6
+                1006.5,
+                65,
+                "W",
+                5.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050014"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051724"
             },
             {
               "cells": [
                 "Zlatibor",
-                "03:40",
-                5.6,
-                884.2,
-                85,
-                "W",
-                5.5
+                "13:50",
+                -2,
+                896.3,
+                89,
+                "NNE",
+                1.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050025"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051736"
             },
             {
               "cells": [
                 "Sjenica",
-                "03:40",
-                5,
-                885.5,
+                "13:50",
+                -0.8,
+                894.8,
                 100,
-                "SW",
-                4.8
+                "NW",
+                4.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050026"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051729"
             },
             {
               "cells": [
                 "Požega",
-                "03:40",
-                6.9,
-                964.2,
-                99,
+                "13:50",
+                4.1,
+                979.7,
+                70,
                 "W",
-                0.7
+                3.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050019"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051722"
             },
             {
               "cells": [
                 "Kraljevo",
-                "03:40",
-                10.6,
-                974,
-                89,
-                "WNW",
-                0.9
+                "13:50",
+                4.6,
+                990.1,
+                79,
+                "W",
+                3.3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050030"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051733"
             },
             {
               "cells": [
                 "Kopaonik",
-                "03:40",
-                1.1,
-                814.5,
-                100,
-                "W",
-                5.5
+                "13:50",
+                -5.4,
+                820.9,
+                96,
+                "NNW",
+                2.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050013"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051725"
             },
             {
               "cells": [
                 "Kuršumlija",
-                "03:40",
-                11.5,
-                957.6,
+                "13:50",
+                4.7,
+                968.2,
                 100,
-                "WSW",
-                2.5
+                "NE",
+                5
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050016"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051727"
             },
             {
               "cells": [
                 "Kruševac",
-                "03:40",
-                12.1,
-                981.8,
-                94,
-                "W",
-                5
+                "13:50",
+                5.1,
+                995.7,
+                80,
+                "WNW",
+                6.2
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050015"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051718"
             },
             {
               "cells": [
                 "Ćuprija",
-                "03:40",
-                10.7,
-                986.2,
+                "13:50",
+                4.9,
+                1000.8,
                 100,
-                "SSW",
-                2.1
+                "W",
+                4.1
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050032"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051720"
             },
             {
               "cells": [
                 "Niš",
-                "03:40",
-                12,
-                977.5,
-                83,
-                "WSW",
-                1.7
+                "13:50",
+                4.8,
+                990.5,
+                85,
+                "WNW",
+                2.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050031"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051730"
             },
             {
               "cells": [
                 "Leskovac",
-                "03:40",
-                11.1,
-                974.3,
+                "13:50",
+                5.1,
+                986.9,
                 100,
-                "S",
-                1.3
+                "NNW",
+                3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050007"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051712"
             },
             {
               "cells": [
                 "Zaječar",
-                "03:40",
-                5.9,
-                984.1,
-                100,
-                "N",
-                1.4
+                "13:50",
+                6.2,
+                995,
+                76,
+                "WNW",
+                2.7
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050021"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051721"
             },
             {
               "cells": [
                 "Dimitrovgrad",
-                "03:40",
-                8.9,
-                949,
-                77,
-                "SE",
-                1.7
+                "13:50",
+                3.7,
+                958.8,
+                90,
+                "W",
+                4.9
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050028"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051728"
             },
             {
               "cells": [
                 "Vranje",
-                "03:40",
-                11.1,
-                952.4,
+                "13:50",
+                4.7,
+                961.8,
                 100,
-                "W",
-                5.3
+                "NNE",
+                3
               ],
-              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9050027"
+              "href": "https://www.hidmet.gov.rs/latin/osmotreni/automatske_stanice_detalj.php?as_id=9051737"
             }
           ]
         },
@@ -451,96 +451,96 @@
             {
               "cells": [
                 "Stara planina",
-                "03:45",
-                2.3,
-                824.5,
+                "13:55",
+                -5,
+                829.4,
                 100,
-                "164",
-                11.6
+                "299",
+                3.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/stara_planina.php"
             },
             {
               "cells": [
                 "Košutnjak",
-                "03:45",
-                7.6,
-                974.7,
-                100,
-                "28",
-                1
+                "13:55",
+                4.8,
+                991.2,
+                65,
+                "319",
+                2.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kosutnjak.php"
             },
             {
               "cells": [
                 "Pančevo",
-                "03:46",
-                7,
-                987.6,
-                1,
-                "61",
-                0.7
+                "13:56",
+                4.7,
+                1004.4,
+                0,
+                "243",
+                0.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pancevo.php"
             },
             {
               "cells": [
                 "Kukavica",
-                "03:45",
-                4.6,
-                841.8,
+                "13:55",
+                -2.9,
+                849.1,
                 100,
-                "236",
-                12.8
+                "333",
+                2.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kukavica.php"
             },
             {
               "cells": [
                 "Čačak",
-                "03:45",
-                9.1,
-                970.8,
-                100,
-                "45",
-                2.3
+                "13:55",
+                5.2,
+                987.4,
+                76,
+                "302",
+                2.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/cacak.php"
             },
             {
               "cells": [
                 "Slatina-Čačak",
-                "03:05",
-                7.5,
+                "13:05",
+                1.9,
                 null,
                 98,
-                "236",
-                1.7
+                "268",
+                2.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/slatina.php"
             },
             {
               "cells": [
                 "Tamnava",
-                "03:45",
-                9.3,
-                988.6,
-                75,
-                "267",
-                2.4
+                "13:55",
+                5.5,
+                1005.7,
+                64,
+                "302",
+                4.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/tamnava.php"
             },
             {
               "cells": [
                 "Baroševac",
-                "03:45",
-                9,
-                977.9,
-                100,
-                "278",
-                2.3
+                "13:55",
+                4.9,
+                994.3,
+                68,
+                "307",
+                4.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/barosevac.php"
             },
@@ -559,84 +559,84 @@
             {
               "cells": [
                 "Leposavić",
-                "03:45",
-                8.8,
-                949,
+                "13:55",
+                4.1,
+                959.2,
                 100,
-                "149",
-                0.9
+                "12",
+                1.8
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/leposavic.php"
             },
             {
               "cells": [
                 "Kosovska Mitrovica",
-                "03:45",
-                8.4,
-                937.7,
-                100,
-                "191",
-                0.7
+                "13:55",
+                4.4,
+                946.2,
+                90,
+                "1",
+                1.9
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/mitrovica.php"
             },
             {
               "cells": [
                 "Zvečan",
-                "03:45",
-                9.6,
-                943.2,
+                "13:55",
+                4.4,
+                952.2,
                 100,
-                "273",
-                1.6
+                "332",
+                1.2
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/zvecan.php"
             },
             {
               "cells": [
                 "Pirot",
-                "03:45",
-                10.4,
-                955.2,
+                "13:55",
+                2.9,
+                966.2,
                 100,
-                "195",
-                1.5
+                "301",
+                4
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pirot.php"
             },
             {
               "cells": [
                 "Požarevac",
-                "03:45",
-                8.5,
-                989.3,
+                "13:55",
+                5.6,
+                1005.5,
                 100,
-                "78",
-                1.3
+                "300",
+                5.4
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/pozarevac.php"
             },
             {
               "cells": [
                 "Kladovo-Karataš",
-                "03:45",
-                6.6,
-                993.2,
-                91,
-                "195",
-                1.4
+                "13:55",
+                7.1,
+                1000.9,
+                52,
+                "297",
+                7.1
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/kladovo.php"
             },
             {
               "cells": [
                 "Bajina Bašta",
-                "03:45",
-                9,
-                971,
-                100,
-                "108",
-                1.1
+                "13:45",
+                5.5,
+                988,
+                79,
+                "315",
+                1.7
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/bbasta.php"
             },
@@ -655,36 +655,36 @@
             {
               "cells": [
                 "Krupanj",
-                "03:50",
-                8.6,
-                967,
-                100,
-                "251",
-                1.6
+                "13:50",
+                4.5,
+                983,
+                79,
+                "227",
+                4.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/krupanj.php"
             },
             {
               "cells": [
                 "Pasuljanske livade",
-                "03:45",
-                7.4,
-                917.1,
+                "13:50",
+                -0.4,
+                928.9,
                 100,
-                "195",
-                4.2
+                "304",
+                3.3
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/p_livade.php"
             },
             {
               "cells": [
                 "Sokobanja",
-                "03:45",
-                11.9,
-                960.1,
-                95,
-                "230",
-                5.2
+                "13:55",
+                3,
+                974.2,
+                100,
+                "293",
+                3.7
               ],
               "href": "https://www.hidmet.gov.rs/latin/osmotreni/sokobanja.php"
             }
@@ -697,15 +697,15 @@
     {
       "id": "padavine",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/padavine.php",
-      "fetchedAt": "2026-11-23T02:51:12.462Z",
-      "lastAttemptAt": "2026-11-23T02:51:12.462Z",
+      "fetchedAt": "2026-11-23T12:57:41.752Z",
+      "lastAttemptAt": "2026-11-23T12:57:41.752Z",
       "status": "ok",
-      "issuedAt": "2026-11-22T10:13:01.000Z",
-      "observedAt": "2026-11-22T06:00:00.000Z",
+      "issuedAt": "2026-11-23T10:13:01.000Z",
+      "observedAt": "2026-11-23T06:00:00.000Z",
       "validDates": [
-        "2026-11-22"
+        "2026-11-23"
       ],
-      "noteSr": "Količina padavina za 24 časa do 07:00 po lokalnom vremenu na označeni datum. Izvorni izveštaj: Podaci ažurirani: 2026-11-22T11:13:01+01:00 Padavine mm za 24 časa Sneg možete pogledati ovde Podaci se odnose na period 24 časa 07:00 (06:00 UTC) prethodnog dana, do 07:00 (06:00 UTC) danas Podaci se ažuriraju u 09:14 po lokalnom vremenu Kliknite na naziv stanice za grafički prikaz",
+      "noteSr": "Količina padavina za 24 časa do 07:00 po lokalnom vremenu na označeni datum. Izvorni izveštaj: Podaci ažurirani: 2026-11-23T11:13:01+01:00 Padavine mm za 24 časa Sneg možete pogledati ovde Podaci se odnose na period 24 časa 07:00 (06:00 UTC) prethodnog dana, do 07:00 (06:00 UTC) danas Podaci se ažuriraju u 09:14 po lokalnom vremenu Kliknite na naziv stanice za grafički prikaz",
       "noteEn": "24-hour precipitation ending at 07:00 local time on the displayed date. Snow is a separate measurement in centimetres. Missing readings remain unavailable.",
       "attribution": "RHMZ Srbije",
       "tables": [
@@ -740,7 +740,7 @@
             {
               "cells": [
                 "Banatski Karlovac",
-                null,
+                25.6,
                 "Dunav",
                 "Alibunar"
               ]
@@ -748,7 +748,7 @@
             {
               "cells": [
                 "Beograd-Vračar",
-                null,
+                15,
                 "Sava",
                 "Beograd-Savski Venac"
               ]
@@ -756,7 +756,7 @@
             {
               "cells": [
                 "Crni Vrh",
-                null,
+                14.2,
                 "Timok",
                 "Bor"
               ]
@@ -764,7 +764,7 @@
             {
               "cells": [
                 "Ćuprija",
-                5,
+                4.4,
                 "Velika Morava",
                 "Ćuprija"
               ]
@@ -772,7 +772,7 @@
             {
               "cells": [
                 "Dimitrovgrad",
-                3.7,
+                1.7,
                 "Nišava",
                 "Dimitrovgrad"
               ]
@@ -780,7 +780,7 @@
             {
               "cells": [
                 "Kikinda",
-                null,
+                22.5,
                 "Tisa",
                 "Kikinda"
               ]
@@ -788,7 +788,7 @@
             {
               "cells": [
                 "Kopaonik",
-                1.2,
+                7.1,
                 "Ibar",
                 "Raška"
               ]
@@ -796,7 +796,7 @@
             {
               "cells": [
                 "Kragujevac",
-                0.2,
+                4.3,
                 "Velika Morava",
                 "Kragujevac"
               ]
@@ -804,7 +804,7 @@
             {
               "cells": [
                 "Kraljevo",
-                2.7,
+                4.9,
                 "Ibar",
                 "Kraljevo"
               ]
@@ -812,7 +812,7 @@
             {
               "cells": [
                 "Kruševac",
-                0.9,
+                2.1,
                 "Zapadna Morava",
                 "Kruševac"
               ]
@@ -820,7 +820,7 @@
             {
               "cells": [
                 "Kuršumlija",
-                1.8,
+                1.5,
                 "Toplica",
                 "Kuršumlija"
               ]
@@ -828,7 +828,7 @@
             {
               "cells": [
                 "Leskovac",
-                2.9,
+                2.8,
                 "Južna Morava",
                 "Leskovac"
               ]
@@ -836,7 +836,7 @@
             {
               "cells": [
                 "Loznica",
-                null,
+                14.2,
                 "Drina",
                 "Loznica"
               ]
@@ -844,7 +844,7 @@
             {
               "cells": [
                 "Negotin",
-                0.1,
+                14.7,
                 "Dunav",
                 "Negotin"
               ]
@@ -852,7 +852,7 @@
             {
               "cells": [
                 "Niš",
-                0.3,
+                2.4,
                 "Nišava",
                 "Niš"
               ]
@@ -860,7 +860,7 @@
             {
               "cells": [
                 "Palić",
-                0.2,
+                16.1,
                 "Tisa",
                 "Subotica"
               ]
@@ -868,7 +868,7 @@
             {
               "cells": [
                 "Požega",
-                5,
+                10,
                 "Zapadna Morava",
                 "Požega"
               ]
@@ -876,7 +876,7 @@
             {
               "cells": [
                 "Rimski Šančevi",
-                null,
+                28.9,
                 "Dunav",
                 "Novi Sad"
               ]
@@ -884,7 +884,7 @@
             {
               "cells": [
                 "Sjenica",
-                0.4,
+                14.1,
                 "Uvac",
                 "Sjenica"
               ]
@@ -892,7 +892,7 @@
             {
               "cells": [
                 "Smederevska Palanka",
-                null,
+                10.4,
                 "Jasenica",
                 "Smederevska Palanka"
               ]
@@ -900,7 +900,7 @@
             {
               "cells": [
                 "Sombor",
-                null,
+                28.1,
                 "Dunav",
                 "Sombor"
               ]
@@ -908,7 +908,7 @@
             {
               "cells": [
                 "Sremska Mitrovica",
-                null,
+                24.7,
                 "Sava",
                 "Sremska Mitrovica"
               ]
@@ -916,7 +916,7 @@
             {
               "cells": [
                 "Valjevo",
-                0.2,
+                12,
                 "Kolubara",
                 "Valjevo"
               ]
@@ -924,7 +924,7 @@
             {
               "cells": [
                 "Veliko Gradište",
-                null,
+                13.8,
                 "Dunav",
                 "Veliko Gradište"
               ]
@@ -932,7 +932,7 @@
             {
               "cells": [
                 "Vranje",
-                0.2,
+                3.8,
                 "Južna Morava",
                 "Vranje"
               ]
@@ -940,7 +940,7 @@
             {
               "cells": [
                 "Zaječar",
-                null,
+                7.6,
                 "Timok",
                 "Zaječar"
               ]
@@ -948,7 +948,7 @@
             {
               "cells": [
                 "Zlatibor",
-                0.1,
+                18.4,
                 "Rzav",
                 "Zlatibor"
               ]
@@ -956,7 +956,7 @@
             {
               "cells": [
                 "Zrenjanin",
-                null,
+                25.3,
                 "Begej",
                 "Zrenjanin"
               ]
@@ -999,35 +999,116 @@
           "rows": [
             {
               "cells": [
-                "RC Bešnjaja",
-                11.4,
+                "Crnča",
+                17.8,
                 null,
-                "Velika Morava",
-                "Kragujevac"
+                "Drina",
+                "Ljubovija"
               ]
             },
             {
               "cells": [
-                "Kaona",
-                8.4,
+                "Sikole",
+                15.5,
                 null,
-                "Ibar",
-                "Kraljevo"
+                "Timok",
+                "Negotin"
               ]
             },
             {
               "cells": [
-                "Sokobanja",
-                3.8,
+                "RC Petrovac",
+                15.2,
                 null,
-                "Južna Morava",
-                "Sokobanja"
+                "Mlava",
+                "Petrovac na Mlavi"
+              ]
+            },
+            {
+              "cells": [
+                "RC Sjenica",
+                15.1,
+                null,
+                "Uvac",
+                "Sjenica"
+              ]
+            },
+            {
+              "cells": [
+                "Beograd-Senjak",
+                15.1,
+                null,
+                "Sava",
+                "Beograd-Savski Venac"
+              ]
+            },
+            {
+              "cells": [
+                "Beograd Košutnjak",
+                14.6,
+                null,
+                "Sava",
+                "Beograd-Čukarica"
+              ]
+            },
+            {
+              "cells": [
+                "RC Valjevo",
+                13.1,
+                null,
+                "Kolubara",
+                "Valjevo"
+              ]
+            },
+            {
+              "cells": [
+                "Sopot",
+                13,
+                null,
+                "Kubršnica",
+                "Beograd Sopot"
+              ]
+            },
+            {
+              "cells": [
+                "Suvodol",
+                12.9,
+                null,
+                "Dunav",
+                "Smederevo"
+              ]
+            },
+            {
+              "cells": [
+                "RC Bukulja",
+                12,
+                null,
+                "Kubršnica",
+                "Aranđelovac"
+              ]
+            },
+            {
+              "cells": [
+                "Blaževo",
+                9.4,
+                null,
+                "Toplica",
+                "Brus"
+              ]
+            },
+            {
+              "cells": [
+                "RC Užice",
+                8.8,
+                null,
+                "Zapadna Morava",
+                "Užice"
               ]
             },
             {
               "cells": [
                 "Knjaževac",
-                3.1,
+                7,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1035,8 +1116,80 @@
             },
             {
               "cells": [
+                "Kaona",
+                6.4,
+                null,
+                "Ibar",
+                "Kraljevo"
+              ]
+            },
+            {
+              "cells": [
+                "Predajane",
+                5.8,
+                null,
+                "Južna Morava",
+                "Leskovac"
+              ]
+            },
+            {
+              "cells": [
+                "Vojska",
+                5.8,
+                null,
+                "Velika Morava",
+                "Svilajnac"
+              ]
+            },
+            {
+              "cells": [
+                "Sokobanja",
+                5.8,
+                null,
+                "Južna Morava",
+                "Sokobanja"
+              ]
+            },
+            {
+              "cells": [
+                "Čumić",
+                5.5,
+                null,
+                "Velika Morava",
+                "Kragujevac"
+              ]
+            },
+            {
+              "cells": [
+                "Bunar",
+                5.5,
+                null,
+                "Velika Morava",
+                "Jagodina"
+              ]
+            },
+            {
+              "cells": [
+                "Ratković",
+                5.5,
+                null,
+                "Velika Morava",
+                "Rekovac"
+              ]
+            },
+            {
+              "cells": [
+                "Rekovac",
+                5.2,
+                null,
+                "Velika Morava",
+                "Rekovac"
+              ]
+            },
+            {
+              "cells": [
                 "Jošanička Banja",
-                2.7,
+                4.5,
                 null,
                 "Ibar",
                 "Raška"
@@ -1045,7 +1198,7 @@
             {
               "cells": [
                 "Pirot",
-                1.9,
+                4,
                 null,
                 "Nišava",
                 "Pirot"
@@ -1053,17 +1206,8 @@
             },
             {
               "cells": [
-                "RC Užice",
-                1.5,
-                null,
-                "Zapadna Morava",
-                "Užice"
-              ]
-            },
-            {
-              "cells": [
                 "RC Kruševac",
-                1.2,
+                3,
                 null,
                 "Zapadna Morava",
                 "Kruševac"
@@ -1071,56 +1215,29 @@
             },
             {
               "cells": [
-                "Bunar",
-                0.5,
-                null,
-                "Velika Morava",
-                "Jagodina"
-              ]
-            },
-            {
-              "cells": [
-                "Rekovac",
-                0.4,
-                null,
-                "Velika Morava",
-                "Rekovac"
-              ]
-            },
-            {
-              "cells": [
-                "Jagodina",
-                0.4,
-                null,
-                "Velika Morava",
-                "Jagodina"
-              ]
-            },
-            {
-              "cells": [
-                "Sikole",
-                0.4,
+                "Minićevo",
+                2.4,
                 null,
                 "Timok",
-                "Negotin"
+                "Knjaževac"
               ]
             },
             {
               "cells": [
-                "RC Sjenica",
-                0.2,
+                "RC Kukavica",
+                1.7,
                 null,
-                "Uvac",
-                "Sjenica"
+                "Južna Morava",
+                "Leskovac"
               ]
             },
             {
               "cells": [
-                "Crnča",
-                0.1,
+                "RC Bešnjaja",
+                0.7,
                 null,
-                "Drina",
-                "Ljubovija"
+                "Velika Morava",
+                "Kragujevac"
               ]
             }
           ]
@@ -1161,8 +1278,35 @@
           "rows": [
             {
               "cells": [
+                "Donja Ljubata",
+                2.1,
+                null,
+                "Dragovištica",
+                "Bosilegrad"
+              ]
+            },
+            {
+              "cells": [
+                "Donje Tlamino",
+                2.8,
+                null,
+                "Dragovištica",
+                "Bosilegrad"
+              ]
+            },
+            {
+              "cells": [
+                "Božica",
+                0.9,
+                null,
+                "Dragovištica",
+                "Surdulica"
+              ]
+            },
+            {
+              "cells": [
                 "Jagodići",
-                3.9,
+                18.4,
                 null,
                 "Drina",
                 "Bajina Bašta"
@@ -1170,8 +1314,161 @@
             },
             {
               "cells": [
+                "Šljivovica",
+                11,
+                null,
+                "Drina",
+                "Čajetina"
+              ]
+            },
+            {
+              "cells": [
+                "Lipnički Šor",
+                13.5,
+                null,
+                "Drina",
+                "Loznica"
+              ]
+            },
+            {
+              "cells": [
+                "Donja Borina",
+                14.2,
+                null,
+                "Drina",
+                "Mali Zvornik"
+              ]
+            },
+            {
+              "cells": [
+                "Ilandža",
+                33,
+                null,
+                "Dunav",
+                "Alibunar"
+              ]
+            },
+            {
+              "cells": [
+                "Vrčin 2",
+                16,
+                null,
+                "Dunav",
+                "Beograd-Grocka"
+              ]
+            },
+            {
+              "cells": [
+                "Čortanovci",
+                22.5,
+                null,
+                "Dunav",
+                "Inđija"
+              ]
+            },
+            {
+              "cells": [
+                "Ruski Krstur",
+                30.3,
+                null,
+                "Dunav",
+                "Kula"
+              ]
+            },
+            {
+              "cells": [
+                "Miroč",
+                19.9,
+                null,
+                "Dunav",
+                "Majdanpek"
+              ]
+            },
+            {
+              "cells": [
+                "Rudna Glava",
+                23.6,
+                null,
+                "Dunav",
+                "Majdanpek"
+              ]
+            },
+            {
+              "cells": [
+                "Plavna",
+                22.6,
+                null,
+                "Dunav",
+                "Negotin"
+              ]
+            },
+            {
+              "cells": [
+                "Prahovo",
+                15.8,
+                null,
+                "Dunav",
+                "Negotin"
+              ]
+            },
+            {
+              "cells": [
+                "Rumenka",
+                28.7,
+                null,
+                "Dunav",
+                "Novi Sad"
+              ]
+            },
+            {
+              "cells": [
+                "Stepanovićevo",
+                29,
+                null,
+                "Dunav",
+                "Novi Sad"
+              ]
+            },
+            {
+              "cells": [
+                "Deronje",
+                33.2,
+                null,
+                "Dunav",
+                "Odžaci"
+              ]
+            },
+            {
+              "cells": [
+                "Mala Krsna",
+                10.6,
+                null,
+                "Dunav",
+                "Smederevo"
+              ]
+            },
+            {
+              "cells": [
+                "Bezdan",
+                22,
+                null,
+                "Dunav",
+                "Sombor"
+              ]
+            },
+            {
+              "cells": [
+                "Riđica",
+                22,
+                null,
+                "Dunav",
+                "Sombor"
+              ]
+            },
+            {
+              "cells": [
                 "Studenica",
-                3.6,
+                11.8,
                 null,
                 "Ibar",
                 "Kraljevo"
@@ -1180,7 +1477,7 @@
             {
               "cells": [
                 "Ušće",
-                0.7,
+                5.3,
                 null,
                 "Ibar",
                 "Kraljevo"
@@ -1188,8 +1485,62 @@
             },
             {
               "cells": [
+                "Ribarići",
+                2.8,
+                null,
+                "Ibar",
+                "Tutin"
+              ]
+            },
+            {
+              "cells": [
+                "Dvorska",
+                19,
+                null,
+                "Jadar",
+                "Krupanj"
+              ]
+            },
+            {
+              "cells": [
+                "Draginac",
+                16,
+                null,
+                "Jadar",
+                "Loznica"
+              ]
+            },
+            {
+              "cells": [
+                "Joševa",
+                19.6,
+                null,
+                "Jadar",
+                "Loznica"
+              ]
+            },
+            {
+              "cells": [
+                "Lešnica",
+                12.1,
+                null,
+                "Jadar",
+                "Loznica"
+              ]
+            },
+            {
+              "cells": [
+                "Klisura",
+                2.5,
+                null,
+                "Jerma",
+                "Surdulica"
+              ]
+            },
+            {
+              "cells": [
                 "Glogovica",
-                5.8,
+                2.7,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1198,7 +1549,7 @@
             {
               "cells": [
                 "Moravac",
-                1.5,
+                0.1,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1207,7 +1558,7 @@
             {
               "cells": [
                 "Porodin",
-                4.2,
+                6.8,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1216,7 +1567,7 @@
             {
               "cells": [
                 "Rsovac",
-                4.8,
+                5.1,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1225,7 +1576,7 @@
             {
               "cells": [
                 "Subotinac",
-                0.1,
+                2,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1234,7 +1585,7 @@
             {
               "cells": [
                 "Vrćenovica",
-                2.3,
+                2.9,
                 null,
                 "Južna Morava",
                 "Aleksinac"
@@ -1243,7 +1594,7 @@
             {
               "cells": [
                 "Rujište",
-                2.2,
+                3.3,
                 null,
                 "Južna Morava",
                 "Boljevac"
@@ -1252,7 +1603,7 @@
             {
               "cells": [
                 "Bogojevce",
-                2.2,
+                5.5,
                 null,
                 "Južna Morava",
                 "Leskovac"
@@ -1260,8 +1611,17 @@
             },
             {
               "cells": [
+                "Balajnac",
+                2.3,
+                null,
+                "Južna Morava",
+                "Merošina"
+              ]
+            },
+            {
+              "cells": [
                 "Jezero",
-                10.5,
+                7,
                 null,
                 "Južna Morava",
                 "Soko Banja"
@@ -1270,7 +1630,7 @@
             {
               "cells": [
                 "Šarbanovac",
-                3.3,
+                2.7,
                 null,
                 "Južna Morava",
                 "Soko Banja"
@@ -1278,8 +1638,17 @@
             },
             {
               "cells": [
+                "Vlasina Okruglica",
+                3.5,
+                null,
+                "Juzna Morava",
+                "Surdulica"
+              ]
+            },
+            {
+              "cells": [
                 "Mrtvica",
-                0.2,
+                0.7,
                 null,
                 "Južna Morava",
                 "Vladičin Han"
@@ -1287,8 +1656,62 @@
             },
             {
               "cells": [
+                "Stubline",
+                13.6,
+                null,
+                "Kolubara",
+                "Beograd Obrenovac"
+              ]
+            },
+            {
+              "cells": [
+                "Sibnica",
+                13.3,
+                null,
+                "Kolubara",
+                "Beograd Sopot"
+              ]
+            },
+            {
+              "cells": [
+                "Prkosava",
+                15.5,
+                null,
+                "Kolubara",
+                "Lazarevac"
+              ]
+            },
+            {
+              "cells": [
+                "Stepojevac",
+                13.5,
+                null,
+                "Kolubara",
+                "Lazarevac"
+              ]
+            },
+            {
+              "cells": [
+                "Liplje",
+                13.5,
+                null,
+                "Kolubara",
+                "Ljig"
+              ]
+            },
+            {
+              "cells": [
+                "Štavica",
+                7.5,
+                null,
+                "Kolubara",
+                "Ljig"
+              ]
+            },
+            {
+              "cells": [
                 "Brežđe",
-                0.3,
+                12.6,
                 null,
                 "Kolubara",
                 "Mionica"
@@ -1296,8 +1719,89 @@
             },
             {
               "cells": [
-                "Miljkovac",
-                12.6,
+                "Osečenica",
+                14.3,
+                null,
+                "Kolubara",
+                "Mionica"
+              ]
+            },
+            {
+              "cells": [
+                "Pambukovica",
+                13.2,
+                null,
+                "Kolubara",
+                "Ub"
+              ]
+            },
+            {
+              "cells": [
+                "Ub",
+                13.1,
+                null,
+                "Kolubara",
+                "Ub"
+              ]
+            },
+            {
+              "cells": [
+                "Lukavac",
+                14.3,
+                null,
+                "Kolubara",
+                "Valjevo"
+              ]
+            },
+            {
+              "cells": [
+                "Majinović",
+                22.3,
+                null,
+                "Kolubara",
+                "Valjevo"
+              ]
+            },
+            {
+              "cells": [
+                "Kusadak",
+                9.3,
+                null,
+                "Kubršnica",
+                "Smederevska Palanka"
+              ]
+            },
+            {
+              "cells": [
+                "Belosavci",
+                12,
+                null,
+                "Kubršnica",
+                "Topola"
+              ]
+            },
+            {
+              "cells": [
+                "Jošanica",
+                23,
+                null,
+                "Mlava",
+                "Žagubica"
+              ]
+            },
+            {
+              "cells": [
+                "Vitanovac",
+                13.8,
+                null,
+                "Nišava",
+                "Bela Palanka"
+              ]
+            },
+            {
+              "cells": [
+                "Brenica",
+                4.1,
                 null,
                 "Nišava",
                 "Niš"
@@ -1305,8 +1809,62 @@
             },
             {
               "cells": [
+                "Čamurlija",
+                3.5,
+                null,
+                "Nišava",
+                "Niš"
+              ]
+            },
+            {
+              "cells": [
+                "Miljkovac",
+                6.4,
+                null,
+                "Nišava",
+                "Niš"
+              ]
+            },
+            {
+              "cells": [
+                "Vlaole",
+                25.2,
+                null,
+                "Pek",
+                "Majdanpek"
+              ]
+            },
+            {
+              "cells": [
+                "Vranovina",
+                6.3,
+                null,
+                "Raška",
+                "Novi Pazar"
+              ]
+            },
+            {
+              "cells": [
+                "Melaje",
+                9.8,
+                null,
+                "Raška",
+                "Tutin"
+              ]
+            },
+            {
+              "cells": [
+                "Reževiće",
+                5.9,
+                null,
+                "Raška",
+                "Tutin"
+              ]
+            },
+            {
+              "cells": [
                 "Bjeluša",
-                2.9,
+                19.9,
                 null,
                 "Rzav",
                 "Arilje"
@@ -1314,8 +1872,89 @@
             },
             {
               "cells": [
+                "Bogatić",
+                21,
+                null,
+                "Sava",
+                "Bogatić"
+              ]
+            },
+            {
+              "cells": [
+                "Mačv Pričinović",
+                26.7,
+                null,
+                "Sava",
+                "Bogatić"
+              ]
+            },
+            {
+              "cells": [
+                "Lipolist",
+                18,
+                null,
+                "Sava",
+                "Šabac"
+              ]
+            },
+            {
+              "cells": [
+                "Ljuba",
+                28.5,
+                null,
+                "Sava",
+                "Šid"
+              ]
+            },
+            {
+              "cells": [
+                "Šid",
+                41.6,
+                null,
+                "Sava",
+                "Šid"
+              ]
+            },
+            {
+              "cells": [
+                "Donje Crniljevo",
+                12.6,
+                null,
+                "Tamnava",
+                "Vladimirci"
+              ]
+            },
+            {
+              "cells": [
+                "Kaona",
+                11.4,
+                null,
+                "Tamnava",
+                "Vladimirci"
+              ]
+            },
+            {
+              "cells": [
+                "Podgorac",
+                8.9,
+                null,
+                "Timok",
+                "Boljevac"
+              ]
+            },
+            {
+              "cells": [
+                "Zlot",
+                10.5,
+                null,
+                "Timok",
+                "Bor"
+              ]
+            },
+            {
+              "cells": [
                 "Beli Potok",
-                4.6,
+                1.8,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1323,8 +1962,8 @@
             },
             {
               "cells": [
-                "Manjinac",
-                3.3,
+                "Donja Kamenica",
+                6.5,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1333,7 +1972,7 @@
             {
               "cells": [
                 "Ošljane",
-                0.6,
+                9.4,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1342,7 +1981,7 @@
             {
               "cells": [
                 "Papratna G.Kamen",
-                4.6,
+                8.8,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1351,7 +1990,7 @@
             {
               "cells": [
                 "Radičevac",
-                1,
+                6,
                 null,
                 "Timok",
                 "Knjaževac"
@@ -1359,8 +1998,26 @@
             },
             {
               "cells": [
+                "Vina",
+                6,
+                null,
+                "Timok",
+                "Knjaževac"
+              ]
+            },
+            {
+              "cells": [
+                "Popovica",
+                16.9,
+                null,
+                "Timok",
+                "Negotin"
+              ]
+            },
+            {
+              "cells": [
                 "Niševac",
-                5.3,
+                9.8,
                 null,
                 "Timok",
                 "Svrljig"
@@ -1369,7 +2026,7 @@
             {
               "cells": [
                 "Tijovac",
-                5,
+                6,
                 null,
                 "Timok",
                 "Svrljig"
@@ -1377,8 +2034,53 @@
             },
             {
               "cells": [
-                "Subotica",
-                0.1,
+                "Rgotina",
+                10.2,
+                null,
+                "Timok",
+                "Zaječar"
+              ]
+            },
+            {
+              "cells": [
+                "Vratarnica",
+                6.2,
+                null,
+                "Timok",
+                "Zaječar"
+              ]
+            },
+            {
+              "cells": [
+                "Bačko Gradište",
+                35.1,
+                null,
+                "Tisa",
+                "Bečej"
+              ]
+            },
+            {
+              "cells": [
+                "Kula",
+                30.5,
+                null,
+                "Tisa",
+                "Kula"
+              ]
+            },
+            {
+              "cells": [
+                "Lipar",
+                29,
+                null,
+                "Tisa",
+                "Kula"
+              ]
+            },
+            {
+              "cells": [
+                "Bajmok",
+                20.3,
                 null,
                 "Tisa",
                 "Subotica"
@@ -1386,8 +2088,80 @@
             },
             {
               "cells": [
+                "Subotica",
+                16,
+                null,
+                "Tisa",
+                "Subotica"
+              ]
+            },
+            {
+              "cells": [
+                "Lok",
+                26.1,
+                null,
+                "Tisa",
+                "Titel"
+              ]
+            },
+            {
+              "cells": [
+                "Mošorin",
+                22.8,
+                null,
+                "Tisa",
+                "Titel"
+              ]
+            },
+            {
+              "cells": [
+                "Aradac",
+                24.3,
+                null,
+                "Tisa",
+                "Zrenjanin"
+              ]
+            },
+            {
+              "cells": [
+                "Crna Bara",
+                15.6,
+                null,
+                "Tise",
+                "Čoka"
+              ]
+            },
+            {
+              "cells": [
+                "Ostojićevo",
+                25,
+                null,
+                "Tise",
+                "Čoka"
+              ]
+            },
+            {
+              "cells": [
+                "Bašaid",
+                26.8,
+                null,
+                "Tise",
+                "Kikinda"
+              ]
+            },
+            {
+              "cells": [
+                "Mokrin",
+                19.5,
+                null,
+                "Tise",
+                "Kikinda"
+              ]
+            },
+            {
+              "cells": [
                 "Barbatovac",
-                0.5,
+                3,
                 null,
                 "Toplica",
                 "Blace"
@@ -1396,7 +2170,7 @@
             {
               "cells": [
                 "Pridvorica",
-                0.5,
+                2.5,
                 null,
                 "Toplica",
                 "Blace"
@@ -1404,8 +2178,35 @@
             },
             {
               "cells": [
+                "Donja Bresnica",
+                3.6,
+                null,
+                "Toplica",
+                "Prokuplje"
+              ]
+            },
+            {
+              "cells": [
+                "Velika Plana",
+                3,
+                null,
+                "Toplica",
+                "Prokuplje"
+              ]
+            },
+            {
+              "cells": [
                 "Ponorac",
-                0.3,
+                9,
+                null,
+                "Uvac",
+                "Sjenica"
+              ]
+            },
+            {
+              "cells": [
+                "Rasno",
+                12,
                 null,
                 "Uvac",
                 "Sjenica"
@@ -1414,7 +2215,7 @@
             {
               "cells": [
                 "Brestovo",
-                4,
+                4.7,
                 null,
                 "Velika Morava",
                 "Despotovac"
@@ -1423,7 +2224,7 @@
             {
               "cells": [
                 "Despotovac",
-                4.1,
+                5,
                 null,
                 "Velika Morava",
                 "Despotovac"
@@ -1431,8 +2232,26 @@
             },
             {
               "cells": [
+                "Strmosten",
+                14.1,
+                null,
+                "Velika Morava",
+                "Despotovac"
+              ]
+            },
+            {
+              "cells": [
+                "Glogovac",
+                6,
+                null,
+                "Velika Morava",
+                "Jagodina"
+              ]
+            },
+            {
+              "cells": [
                 "Knić",
-                0.4,
+                4.7,
                 null,
                 "Velika Morava",
                 "Knić"
@@ -1441,7 +2260,7 @@
             {
               "cells": [
                 "Botunje",
-                2,
+                5,
                 null,
                 "Velika Morava",
                 "Kragujevac"
@@ -1450,7 +2269,7 @@
             {
               "cells": [
                 "Ilićevo",
-                1.6,
+                4.5,
                 null,
                 "Velika Morava",
                 "Kragujevac"
@@ -1458,8 +2277,80 @@
             },
             {
               "cells": [
+                "Krežbinac",
+                3.6,
+                null,
+                "Velika Morava",
+                "Paraćin"
+              ]
+            },
+            {
+              "cells": [
+                "Trešnjevica",
+                0.5,
+                null,
+                "Velika Morava",
+                "Paraćin"
+              ]
+            },
+            {
+              "cells": [
+                "Rača KG",
+                7,
+                null,
+                "Velika Morava",
+                "Rača"
+              ]
+            },
+            {
+              "cells": [
+                "Gložane",
+                8.5,
+                null,
+                "Velika Morava",
+                "Svilajnac"
+              ]
+            },
+            {
+              "cells": [
+                "Roćevac",
+                13.5,
+                null,
+                "Velika Morava",
+                "Svilajnac"
+              ]
+            },
+            {
+              "cells": [
+                "Varvarin",
+                2.9,
+                null,
+                "Velika Morava",
+                "Varvarin"
+              ]
+            },
+            {
+              "cells": [
+                "Krnjevo",
+                12,
+                null,
+                "Velika Morava",
+                "Velika Plana"
+              ]
+            },
+            {
+              "cells": [
+                "Golemo Selo",
+                1,
+                null,
+                "Veternica",
+                "Vranje"
+              ]
+            },
+            {
+              "cells": [
                 "Donji Stupanj",
-                0.8,
+                1.3,
                 null,
                 "Zapadna Morava",
                 "Aleksandrovac"
@@ -1468,7 +2359,7 @@
             {
               "cells": [
                 "Pleš",
-                2.2,
+                2.6,
                 null,
                 "Zapadna Morava",
                 "Aleksandrovac"
@@ -1477,7 +2368,7 @@
             {
               "cells": [
                 "Vlajkovci",
-                1,
+                5,
                 null,
                 "Zapadna Morava",
                 "Brus"
@@ -1486,7 +2377,7 @@
             {
               "cells": [
                 "Katrga",
-                1.5,
+                5.2,
                 null,
                 "Zapadna Morava",
                 "Čačak"
@@ -1495,7 +2386,7 @@
             {
               "cells": [
                 "Mojsinje",
-                1,
+                8,
                 null,
                 "Zapadna Morava",
                 "Čačak"
@@ -1504,7 +2395,7 @@
             {
               "cells": [
                 "Koštunići",
-                5,
+                8.8,
                 null,
                 "Zapadna Morava",
                 "Gornji Milanovac"
@@ -1513,7 +2404,7 @@
             {
               "cells": [
                 "Bjeloperica",
-                2.2,
+                4.4,
                 null,
                 "Zapadna Morava",
                 "Kosjerić"
@@ -1522,7 +2413,7 @@
             {
               "cells": [
                 "Godačica",
-                1.1,
+                7.1,
                 null,
                 "Zapadna Morava",
                 "Kraljevo"
@@ -1530,8 +2421,17 @@
             },
             {
               "cells": [
+                "Brana Ćelije",
+                2.1,
+                null,
+                "Zapadna Morava",
+                "Kruševac"
+              ]
+            },
+            {
+              "cells": [
                 "Ribare",
-                4.1,
+                2.8,
                 null,
                 "Zapadna Morava",
                 "Kruševac"
@@ -1540,10 +2440,19 @@
             {
               "cells": [
                 "Duškovci",
-                3.8,
+                5.7,
                 null,
                 "Zapadna Morava",
                 "Požega"
+              ]
+            },
+            {
+              "cells": [
+                "Skržuti",
+                11.3,
+                null,
+                "Zapadna Morava",
+                "Užice"
               ]
             }
           ]
@@ -1555,13 +2464,14 @@
     {
       "id": "sneg",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/sneg.php",
-      "fetchedAt": "2026-11-23T02:51:13.153Z",
-      "lastAttemptAt": "2026-11-23T02:51:13.153Z",
+      "fetchedAt": "2026-11-23T12:57:42.632Z",
+      "lastAttemptAt": "2026-11-23T12:57:42.632Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-22T06:00:00.000Z",
+      "observedAt": "2026-11-23T12:00:00.000Z",
       "validDates": [
         "2026-11-22",
+        "2026-11-23",
         "2026-11-15"
       ],
       "noteSr": "Svaka kolona ima svoj datum i termin u UTC. Prazno polje znači da podatak nije objavljen; ne znači da snega nema. Datum starog izveštaja se ne menja pri preuzimanju.",
@@ -1585,14 +2495,14 @@
               "kind": "number"
             },
             {
-              "sr": "06:00 UTC · 22.11.2026",
-              "en": "06:00 UTC · 22.11.2026",
+              "sr": "06:00 UTC · 23.11.2026",
+              "en": "06:00 UTC · 23.11.2026",
               "unit": "cm",
               "kind": "number"
             },
             {
-              "sr": "12:00 UTC · 15.11.2026",
-              "en": "12:00 UTC · 15.11.2026",
+              "sr": "12:00 UTC · 23.11.2026",
+              "en": "12:00 UTC · 23.11.2026",
               "unit": "cm",
               "kind": "number"
             },
@@ -1726,7 +2636,7 @@
                 "Crni Vrh",
                 null,
                 null,
-                null,
+                4,
                 null
               ]
             },
@@ -1744,7 +2654,7 @@
                 "Zlatibor",
                 null,
                 null,
-                5,
+                1,
                 1
               ]
             },
@@ -1753,7 +2663,7 @@
                 "Sjenica",
                 null,
                 null,
-                2,
+                null,
                 null
               ]
             },
@@ -1779,8 +2689,8 @@
               "cells": [
                 "Kopaonik",
                 1,
-                1,
                 null,
+                3,
                 null
               ]
             },
@@ -1865,11 +2775,11 @@
     {
       "id": "evropa",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/evropa.php",
-      "fetchedAt": "2026-11-23T02:51:13.341Z",
-      "lastAttemptAt": "2026-11-23T02:51:13.341Z",
+      "fetchedAt": "2026-11-23T12:57:42.778Z",
+      "lastAttemptAt": "2026-11-23T12:57:42.778Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-23T01:00:00.000Z",
+      "observedAt": "2026-11-23T12:00:00.000Z",
       "validDates": [],
       "noteSr": "",
       "noteEn": "",
@@ -1918,40 +2828,50 @@
             {
               "cells": [
                 "Amsterdam",
-                -1,
-                1021,
-                "00",
-                0,
+                6,
+                1026,
+                "SW",
+                3,
                 null
               ]
             },
             {
               "cells": [
                 "Atina",
-                16,
-                1015,
-                "00",
-                0,
+                22,
+                1009,
+                "W",
+                8,
                 null
               ]
             },
             {
               "cells": [
                 "Banja Luka",
-                8,
-                1002,
-                "N",
+                9,
+                1018,
+                "S",
                 1,
-                "Umerena kiša"
+                "Delimično oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Bar",
+                16,
+                1009,
+                "W",
+                5,
+                "Pretežno vedro"
               ]
             },
             {
               "cells": [
                 "Barselona",
-                13,
-                1024,
-                "N",
-                4,
+                17,
+                1026,
+                "NW",
+                5,
                 null
               ]
             },
@@ -1959,7 +2879,7 @@
               "cells": [
                 "Beč",
                 3,
-                1011,
+                1019,
                 "NW",
                 4,
                 null
@@ -1968,8 +2888,8 @@
             {
               "cells": [
                 "Berlin",
-                2,
-                1014,
+                3,
+                1019,
                 "NW",
                 6,
                 null
@@ -1978,19 +2898,19 @@
             {
               "cells": [
                 "Bolonja",
-                7,
-                1006,
-                "W",
-                3,
-                "Vedro"
+                9,
+                1016,
+                "NW",
+                1,
+                "Delimično oblačno"
               ]
             },
             {
               "cells": [
                 "Bon",
-                -3,
-                1020,
-                "SE",
+                -1,
+                1027,
+                "W",
                 1,
                 null
               ]
@@ -1999,7 +2919,127 @@
               "cells": [
                 "Bratislava",
                 4,
+                1016,
+                "NW",
+                14,
+                "Pretežno vedro"
+              ]
+            },
+            {
+              "cells": [
+                "Brisel",
+                3,
+                1027,
+                "NE",
+                2,
+                "Vedro"
+              ]
+            },
+            {
+              "cells": [
+                "Budimpešta",
+                5,
+                1015,
+                "NW",
+                7,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Bukurešt",
+                9,
+                1002,
+                "W",
+                2,
+                "Slaba kiša"
+              ]
+            },
+            {
+              "cells": [
+                "Cirih",
+                5,
+                1023,
+                "NE",
+                2,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Dubrovnik",
+                13,
                 1010,
+                "NE",
+                5,
+                "Pretežno vedro"
+              ]
+            },
+            {
+              "cells": [
+                "Frankfurt",
+                4,
+                1025,
+                "NE",
+                2,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Helsinki",
+                1,
+                1008,
+                "N",
+                7,
+                "Oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Herceg Novi",
+                14,
+                1008,
+                "E",
+                3,
+                "Delimično oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Insbruk",
+                4,
+                1021,
+                "00",
+                3,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Kairo",
+                24,
+                1018,
+                "N",
+                4,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Kijev",
+                2,
+                1006,
+                "00",
+                0,
+                "Pretežno oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Kopenhagen",
+                2,
+                1018,
                 "NW",
                 5,
                 "Pretežno oblačno"
@@ -2007,161 +3047,61 @@
             },
             {
               "cells": [
-                "Brisel",
-                1,
-                1020,
-                "NE",
-                2,
-                "Magla"
-              ]
-            },
-            {
-              "cells": [
-                "Budimpešta",
-                4,
-                1006,
-                "N",
-                3,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Bukurešt",
-                6,
-                1007,
-                "N",
-                1,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Cirih",
-                4,
-                1017,
-                "SE",
-                3,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Dubrovnik",
-                12,
-                1004,
-                "NW",
-                9,
-                "Grmljavina sa kišom"
-              ]
-            },
-            {
-              "cells": [
-                "Frankfurt",
-                -2,
-                1018,
-                "E",
-                1,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Helsinki",
-                0,
-                1002,
-                "N",
-                5,
-                "Umeren sneg"
-              ]
-            },
-            {
-              "cells": [
-                "Insbruk",
-                3,
-                1014,
-                "00",
-                2,
-                "Rosulja (sipeća kiša)"
-              ]
-            },
-            {
-              "cells": [
-                "Kairo",
-                16,
-                1020,
-                "NE",
-                2,
-                "Vedro"
-              ]
-            },
-            {
-              "cells": [
-                "Kijev",
-                1,
-                1008,
-                "SW",
-                1,
-                "Vedro"
-              ]
-            },
-            {
-              "cells": [
-                "Kopenhagen",
-                1,
-                1015,
-                "NW",
-                5,
-                "Vedro"
-              ]
-            },
-            {
-              "cells": [
                 "Krit",
-                13,
-                1019,
-                "S",
-                5,
+                23,
+                1016,
+                "NW",
+                3,
                 "Vedro"
               ]
             },
             {
               "cells": [
                 "Larnaka",
-                16,
-                1018,
-                "NW",
-                3,
+                23,
+                1019,
+                "S",
+                4,
                 null
               ]
             },
             {
               "cells": [
                 "Madrid",
-                4,
-                1031,
-                "N",
+                11,
+                1026,
+                "NW",
                 2,
                 null
               ]
             },
             {
               "cells": [
-                "Milano",
-                7,
-                1006,
+                "Malta",
+                21,
+                1021,
                 "W",
+                10,
+                null
+              ]
+            },
+            {
+              "cells": [
+                "Milano",
+                10,
+                1016,
+                "SE",
                 3,
-                "Magla"
+                "Vedro"
               ]
             },
             {
               "cells": [
                 "Minhen",
-                0,
-                1016,
-                "W",
-                1,
+                2,
+                1023,
+                "NW",
+                3,
                 null
               ]
             },
@@ -2169,40 +3109,40 @@
               "cells": [
                 "Minsk",
                 1,
-                1001,
-                "W",
-                2,
-                "Umeren sneg"
-              ]
-            },
-            {
-              "cells": [
-                "Moskva",
-                0,
                 1004,
-                "S",
-                1,
-                "Pljusak snega"
-              ]
-            },
-            {
-              "cells": [
-                "Nica",
-                16,
-                1008,
-                null,
-                null,
+                "NW",
+                2,
                 "Pretežno oblačno"
               ]
             },
             {
               "cells": [
-                "Nikšić",
-                12,
-                1000,
+                "Moskva",
+                2,
+                1005,
                 "S",
-                8,
-                "Grmljavina sa kišom"
+                1,
+                "Oblačno"
+              ]
+            },
+            {
+              "cells": [
+                "Nica",
+                18,
+                1015,
+                null,
+                null,
+                "Vedro"
+              ]
+            },
+            {
+              "cells": [
+                "Nikšić",
+                7,
+                1011,
+                "N",
+                6,
+                "Pretežno oblačno"
               ]
             },
             {
@@ -2211,7 +3151,7 @@
                 -1,
                 null,
                 "N",
-                7,
+                9,
                 null
               ]
             },
@@ -2219,180 +3159,150 @@
               "cells": [
                 "Palermo",
                 19,
-                1018,
+                1019,
                 "W",
-                11,
-                "Vedro"
+                12,
+                null
               ]
             },
             {
               "cells": [
                 "Pariz",
-                8,
-                1014,
+                6,
+                1024,
                 null,
                 null,
-                "Oblačno"
+                "Pretežno vedro"
+              ]
+            },
+            {
+              "cells": [
+                "Pljevlja",
+                1,
+                null,
+                "N",
+                2,
+                "Slab sneg"
               ]
             },
             {
               "cells": [
                 "Podgorica",
-                19,
-                1002,
-                "SW",
-                9,
-                "Grmljavina sa gradom"
+                12,
+                1010,
+                "N",
+                7,
+                "Oblačno"
               ]
             },
             {
               "cells": [
                 "Prag",
-                0,
-                1014,
-                "W",
-                3,
+                1,
+                1021,
+                "NW",
+                6,
                 "Pretežno oblačno"
               ]
             },
             {
               "cells": [
                 "Rijeka",
-                8,
-                1004,
-                "SW",
-                5,
-                "Slaba kiša"
+                12,
+                1016,
+                "NE",
+                4,
+                "Pretežno oblačno"
               ]
             },
             {
               "cells": [
                 "Rim",
-                15,
-                1009,
-                null,
-                null,
-                "Delimično oblačno"
+                18,
+                1014,
+                "W",
+                2,
+                "Pretežno vedro"
               ]
             },
             {
               "cells": [
                 "Rodos",
-                17,
-                1019,
-                "SW",
-                5,
-                "Vedro"
+                22,
+                1017,
+                "S",
+                3,
+                "Delimično oblačno"
               ]
             },
             {
               "cells": [
                 "Sankt Peterburg",
                 1,
-                998,
-                "W",
-                1,
-                "Jak sneg"
+                1001,
+                "N",
+                2,
+                "Slaba kiša"
               ]
             },
             {
               "cells": [
                 "Segedin",
-                6,
-                1003,
-                "N",
-                6,
+                5,
+                1014,
+                "NW",
+                8,
                 null
               ]
             },
             {
               "cells": [
                 "Skoplje",
-                13,
-                1005,
-                "SE",
-                5,
-                "Delimično oblačno"
+                10,
+                1010,
+                "N",
+                7,
+                "Pretežno oblačno"
               ]
             },
             {
               "cells": [
                 "Sofija",
-                13,
-                1007,
-                "NW",
-                2,
-                "Delimično oblačno"
+                7,
+                1008,
+                "W",
+                4,
+                "Pljusak kiše"
               ]
             },
             {
               "cells": [
                 "Solun",
-                15,
-                1010,
-                "SE",
-                4,
+                21,
+                1005,
+                "W",
+                5,
                 "Pretežno vedro"
               ]
             },
             {
               "cells": [
-                "Split",
-                15,
-                1002,
-                "W",
-                7,
-                "Oblačno"
-              ]
-            },
-            {
-              "cells": [
-                "Stokholm",
-                1,
-                1009,
-                "N",
-                4,
-                null
-              ]
-            },
-            {
-              "cells": [
-                "Temišvar",
-                9,
-                1002,
-                "NE",
-                1,
-                "Slaba kiša"
-              ]
-            },
-            {
-              "cells": [
-                "Tunis",
-                19,
-                1021,
-                "NW",
-                4,
-                "Delimično oblačno"
-              ]
-            },
-            {
-              "cells": [
                 "Ženeva",
+                8,
+                1023,
+                "SW",
                 7,
-                1017,
-                "S",
-                4,
                 null
               ]
             },
             {
               "cells": [
                 "Đenova",
-                10,
-                1006,
+                19,
+                1014,
                 "NE",
-                2,
-                "Pretežno oblačno"
+                4,
+                "Pretežno vedro"
               ]
             }
           ]
@@ -2404,16 +3314,17 @@
     {
       "id": "srbija",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/index.php",
-      "fetchedAt": "2026-11-23T02:51:14.168Z",
-      "lastAttemptAt": "2026-11-23T02:51:14.168Z",
+      "fetchedAt": "2026-11-23T12:57:43.665Z",
+      "lastAttemptAt": "2026-11-23T12:57:43.665Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
       "validDates": [
         "2026-11-23",
-        "2026-11-24"
+        "2026-11-24",
+        "2026-11-25"
       ],
-      "noteSr": "Prognoza ažurirana: 22.11. 12:42. Za prvi dan minimum nije objavljen. Godina datuma bez godine određuje se prema najbližem datumu preuzimanja.",
+      "noteSr": "Prognoza ažurirana: 23.11. 12:20. Za prvi dan minimum nije objavljen. Godina datuma bez godine određuje se prema najbližem datumu preuzimanja.",
       "noteEn": "No minimum is published for the first day. Source dates omit the year; the nearest calendar year to retrieval is used. Check the source for the issue time.",
       "attribution": "RHMZ Srbije",
       "tables": [
@@ -2454,117 +3365,167 @@
               "sr": "2026-11-24 · pojava",
               "en": "2026-11-24 · weather",
               "kind": "condition"
+            },
+            {
+              "sr": "2026-11-25 · min.",
+              "en": "2026-11-25 · min",
+              "unit": "°C",
+              "kind": "number"
+            },
+            {
+              "sr": "2026-11-25 · maks.",
+              "en": "2026-11-25 · max",
+              "unit": "°C",
+              "kind": "number"
+            },
+            {
+              "sr": "2026-11-25 · pojava",
+              "en": "2026-11-25 · weather",
+              "kind": "condition"
             }
           ],
           "rows": [
             {
               "cells": [
                 "Palić",
-                6,
-                8,
+                7,
+                10,
                 -3,
-                5,
-                4
+                6,
+                3,
+                -6,
+                4,
+                10
               ]
             },
             {
               "cells": [
                 "Novi Sad",
                 6,
-                8,
+                10,
                 -2,
-                6,
-                4
+                5,
+                3,
+                -3,
+                5,
+                6
               ]
             },
             {
               "cells": [
                 "Loznica",
                 7,
-                9,
+                10,
                 -2,
-                8,
-                4
+                9,
+                3,
+                -4,
+                7,
+                6
               ]
             },
             {
               "cells": [
                 "Beograd",
-                8,
-                9,
+                5,
+                10,
                 -1,
                 6,
-                4
+                3,
+                -1,
+                8,
+                6
               ]
             },
             {
               "cells": [
                 "Kragujevac",
-                10,
-                9,
+                5,
+                8,
                 -2,
                 7,
-                4
+                3,
+                -6,
+                7,
+                6
               ]
             },
             {
               "cells": [
                 "Negotin",
-                10,
-                8,
+                9,
+                18,
                 2,
                 8,
-                3
+                18,
+                -4,
+                7,
+                13
               ]
             },
             {
               "cells": [
                 "Zlatibor",
-                6,
-                13,
+                -1,
+                14,
+                -6,
+                1,
+                3,
+                -6,
+                4,
+                6
+              ]
+            },
+            {
+              "cells": [
+                "Kraljevo",
+                5,
+                8,
+                -2,
+                8,
+                3,
                 -5,
+                5,
+                6
+              ]
+            },
+            {
+              "cells": [
+                "Kopaonik",
+                -2,
+                14,
+                -11,
+                -5,
+                3,
+                -10,
                 1,
                 10
               ]
             },
             {
               "cells": [
-                "Kraljevo",
-                9,
-                9,
-                -2,
-                7,
-                4
-              ]
-            },
-            {
-              "cells": [
-                "Kopaonik",
-                2,
-                14,
-                -11,
-                -5,
-                4
-              ]
-            },
-            {
-              "cells": [
                 "Niš",
-                11,
-                9,
+                8,
+                8,
                 -1,
                 7,
-                4
+                3,
+                -4,
+                8,
+                10
               ]
             },
             {
               "cells": [
                 "Priština",
-                9,
-                9,
+                11,
+                8,
                 -3,
+                5,
+                3,
+                -7,
                 6,
-                4
+                10
               ]
             }
           ]
@@ -2576,15 +3537,15 @@
     {
       "id": "uv-indeks",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/uv1.php",
-      "fetchedAt": "2026-11-22T21:51:11.908Z",
-      "lastAttemptAt": "2026-11-23T02:51:08.703Z",
-      "status": "error",
+      "fetchedAt": "2026-11-23T12:57:43.953Z",
+      "lastAttemptAt": "2026-11-23T12:57:43.953Z",
+      "status": "ok",
       "issuedAt": null,
       "observedAt": null,
       "validDates": [
-        "2026-11-22",
         "2026-11-23",
-        "2026-11-24"
+        "2026-11-24",
+        "2026-11-25"
       ],
       "noteSr": "UV indeks je bezdimenziona veličina: 0–2 nizak, 3–5 umeren, 6–7 visok, 8–10 vrlo visok, 11+ ekstreman. Izvor podataka DWD, objavljeno na RHMZ-u. Vreme izdavanja nije navedeno.",
       "noteEn": "The UV index is dimensionless: 0–2 low, 3–5 moderate, 6–7 high, 8–10 very high, 11+ extreme. Data: DWD, published by RHMZ. Issue time is not stated.",
@@ -2601,12 +3562,6 @@
               "kind": "text"
             },
             {
-              "sr": "2026-11-22",
-              "en": "2026-11-22",
-              "unit": "UV",
-              "kind": "number"
-            },
-            {
               "sr": "2026-11-23",
               "en": "2026-11-23",
               "unit": "UV",
@@ -2615,6 +3570,12 @@
             {
               "sr": "2026-11-24",
               "en": "2026-11-24",
+              "unit": "UV",
+              "kind": "number"
+            },
+            {
+              "sr": "2026-11-25",
+              "en": "2026-11-25",
               "unit": "UV",
               "kind": "number"
             }
@@ -2736,16 +3697,16 @@
               "cells": [
                 "Zlatibor",
                 1,
-                1,
-                2
+                2,
+                1
               ]
             },
             {
               "cells": [
                 "Sjenica",
                 1,
-                1,
-                2
+                2,
+                1
               ]
             },
             {
@@ -2768,8 +3729,8 @@
               "cells": [
                 "Kopaonik",
                 1,
-                1,
-                2
+                2,
+                1
               ]
             },
             {
@@ -2799,48 +3760,48 @@
             {
               "cells": [
                 "Leskovac",
+                0,
                 2,
-                1,
                 1
               ]
             },
             {
               "cells": [
                 "Dimitrovgrad",
-                2,
                 1,
-                2
+                2,
+                1
               ]
             },
             {
               "cells": [
                 "Peć",
                 1,
-                1,
-                2
+                2,
+                1
               ]
             },
             {
               "cells": [
                 "Prizren",
-                2,
                 1,
-                2
+                2,
+                1
               ]
             },
             {
               "cells": [
                 "Priština",
-                2,
                 1,
-                2
+                2,
+                1
               ]
             },
             {
               "cells": [
                 "Vranje",
-                2,
                 1,
+                2,
                 2
               ]
             }
@@ -2853,8 +3814,8 @@
     {
       "id": "bioprognoza",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/bioprognoza.php",
-      "fetchedAt": "2026-11-23T02:51:14.654Z",
-      "lastAttemptAt": "2026-11-23T02:51:14.654Z",
+      "fetchedAt": "2026-11-23T12:57:44.099Z",
+      "lastAttemptAt": "2026-11-23T12:57:44.099Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -2876,7 +3837,7 @@
             "body": "Biometeorological situation will unfavourably affect people suffering from cardiovascular and respiratory problems, and all chronic patients are advised to adhere to the prescribed therapy and to reduce their physical activity. Headache and bone and joint pains are the expected meteoropathic reactions. Increased attention is recommended to participants in traffic.",
             "kind": "official-edition",
             "sourceUrl": "https://www.hidmet.gov.rs/eng/prognoza/bioprognoza.php",
-            "checkedAt": "2026-11-23T02:51:14.834Z",
+            "checkedAt": "2026-11-23T12:57:44.239Z",
             "sourceHash": null
           }
         },
@@ -2889,7 +3850,7 @@
             "body": "Favourable biometeorological conditions for the chronically sick. Caution is advised to mentally unstable persons. Depression and reduction of working abilities are expected with meteoropats. Increased concentration is recommended in traffic.",
             "kind": "official-edition",
             "sourceUrl": "https://www.hidmet.gov.rs/eng/prognoza/bioprognoza.php",
-            "checkedAt": "2026-11-23T02:51:14.834Z",
+            "checkedAt": "2026-11-23T12:57:44.239Z",
             "sourceHash": null
           }
         }
@@ -2899,13 +3860,13 @@
     {
       "id": "dnevni-vodostaji",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/stanje_voda.php",
-      "fetchedAt": "2026-11-23T02:51:15.145Z",
-      "lastAttemptAt": "2026-11-23T02:51:15.145Z",
+      "fetchedAt": "2026-11-23T12:57:44.470Z",
+      "lastAttemptAt": "2026-11-23T12:57:44.470Z",
       "status": "ok",
-      "issuedAt": "2026-11-22T08:13:41.000Z",
-      "observedAt": "2026-11-22T06:00:00.000Z",
+      "issuedAt": "2026-11-23T08:06:11.000Z",
+      "observedAt": "2026-11-23T06:00:00.000Z",
       "validDates": [
-        "2026-11-22"
+        "2026-11-23"
       ],
       "noteSr": "Dnevna očitavanja u terminu navedenom u izvornom izveštaju. Ovo je odvojen proizvod od automatskih stanica. Proticaj u m³/s; vodostaj i dnevna promena u cm.",
       "noteEn": "Daily readings at the source report time. This product is separate from automatic stations. Discharge is in m³/s; stage and daily change are in cm.",
@@ -2961,11 +3922,11 @@
               "cells": [
                 "BEZDAN",
                 "DUNAV",
-                -78,
-                0,
-                1080,
+                -69,
+                9,
+                1110,
                 8.4,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42010"
             },
@@ -2973,11 +3934,11 @@
               "cells": [
                 "APATIN",
                 "DUNAV",
-                -20,
-                -3,
+                -11,
+                9,
                 null,
-                8.7,
-                "стагнација"
+                8.3,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42015"
             },
@@ -2985,11 +3946,11 @@
               "cells": [
                 "BOGOJEVO",
                 "DUNAV",
-                -31,
-                -6,
-                1240,
+                -23,
+                8,
+                1300,
                 null,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42020"
             },
@@ -2997,11 +3958,11 @@
               "cells": [
                 "BAČKA PALANKA",
                 "DUNAV",
-                -9,
-                -7,
+                -4,
+                5,
                 null,
-                8.8,
-                "стагнација"
+                8.6,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42030"
             },
@@ -3009,11 +3970,11 @@
               "cells": [
                 "NOVI SAD",
                 "DUNAV",
-                23,
-                -4,
-                null,
-                8.9,
-                "стагнација"
+                30,
+                7,
+                1310,
+                8.8,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42035"
             },
@@ -3021,11 +3982,11 @@
               "cells": [
                 "SLANKAMEN",
                 "DUNAV",
-                151,
+                158,
                 7,
                 null,
-                9,
-                "стагнација"
+                8.8,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=42040"
             },
@@ -3033,11 +3994,11 @@
               "cells": [
                 "ZEMUN",
                 "DUNAV",
-                261,
-                5,
+                271,
+                10,
                 null,
-                9.7,
-                "стагнација"
+                9.5,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42045"
             },
@@ -3045,11 +4006,11 @@
               "cells": [
                 "PANČEVO",
                 "DUNAV",
-                290,
-                4,
+                299,
+                9,
                 null,
                 null,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42050"
             },
@@ -3057,11 +4018,11 @@
               "cells": [
                 "SMEDEREVO",
                 "DUNAV",
-                469,
-                2,
-                3770,
+                472,
+                3,
+                3900,
                 null,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/opseg.php?hm_id=42055"
             },
@@ -3069,8 +4030,8 @@
               "cells": [
                 "BANATSKA PALANKA",
                 "DUNAV",
-                687,
-                -2,
+                694,
+                7,
                 null,
                 null,
                 "-"
@@ -3081,8 +4042,8 @@
               "cells": [
                 "VELIKO GRADIŠTE",
                 "DUNAV",
-                751,
-                1,
+                757,
+                6,
                 null,
                 null,
                 "-"
@@ -3093,8 +4054,8 @@
               "cells": [
                 "PRAHOVO",
                 "DUNAV",
-                140,
-                4,
+                135,
+                -5,
                 null,
                 null,
                 "-"
@@ -3105,10 +4066,10 @@
               "cells": [
                 "NOVI KNEŽEVAC",
                 "TISA",
-                210,
-                14,
+                241,
+                31,
                 null,
-                8.7,
+                8.3,
                 "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=44010"
@@ -3117,10 +4078,10 @@
               "cells": [
                 "SENTA",
                 "TISA",
-                266,
-                8,
-                585,
-                9.5,
+                284,
+                18,
+                690,
+                9.1,
                 "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=44020"
@@ -3129,10 +4090,10 @@
               "cells": [
                 "NOVI BEČEJ",
                 "TISA",
-                317,
-                0,
+                320,
+                3,
                 null,
-                9.5,
+                9,
                 "стагнација"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=44030"
@@ -3141,11 +4102,11 @@
               "cells": [
                 "TITEL",
                 "TISA",
-                151,
-                8,
+                172,
+                21,
                 null,
                 null,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=44040"
             },
@@ -3165,11 +4126,11 @@
               "cells": [
                 "JAMENA",
                 "SAVA",
-                543,
-                4,
-                1360,
+                546,
+                3,
+                1370,
                 null,
-                "пораст"
+                "стагнација"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=45084"
             },
@@ -3177,11 +4138,11 @@
               "cells": [
                 "SREMSKA MITROVICA",
                 "SAVA",
-                345,
-                15,
-                1920,
+                334,
+                -11,
+                1850,
                 null,
-                "пораст"
+                "стагнација"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=45090"
             },
@@ -3189,11 +4150,11 @@
               "cells": [
                 "ŠABAC",
                 "SAVA",
-                206,
-                12,
+                202,
+                -4,
                 null,
-                10.2,
-                "пораст"
+                10,
+                "стагнација"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=45094"
             },
@@ -3201,11 +4162,11 @@
               "cells": [
                 "BEOGRAD",
                 "SAVA",
-                220,
-                5,
+                231,
+                11,
                 null,
-                10.4,
-                "стагнација"
+                10.2,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=45099"
             },
@@ -3213,9 +4174,9 @@
               "cells": [
                 "RADALJ",
                 "DRINA",
-                195,
-                -35,
-                488,
+                189,
+                -6,
+                463,
                 null,
                 "-"
               ],
@@ -3225,9 +4186,9 @@
               "cells": [
                 "PRIJEPOLJE",
                 "LIM",
-                152,
+                129,
                 -23,
-                217,
+                167,
                 8.7,
                 "-"
               ],
@@ -3237,9 +4198,9 @@
               "cells": [
                 "LEŠNICA",
                 "JADAR",
-                -9,
-                -3,
-                2.62,
+                -10,
+                -1,
+                2.5,
                 null,
                 "-"
               ],
@@ -3249,9 +4210,9 @@
               "cells": [
                 "VALJEVO",
                 "KOLUBARA",
-                7,
-                0,
-                0.141,
+                8,
+                1,
+                0.169,
                 null,
                 "-"
               ],
@@ -3261,9 +4222,9 @@
               "cells": [
                 "SLOVAC",
                 "KOLUBARA",
-                108,
-                -5,
-                null,
+                104,
+                -4,
+                2.14,
                 null,
                 "-"
               ],
@@ -3273,10 +4234,10 @@
               "cells": [
                 "BELI BROD",
                 "KOLUBARA",
-                12,
-                -8,
-                3.76,
-                9.3,
+                11,
+                -1,
+                3.58,
+                9.4,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/opseg.php?hm_id=45910"
@@ -3285,10 +4246,10 @@
               "cells": [
                 "DRAŽEVAC",
                 "KOLUBARA",
-                78,
-                -11,
+                74,
+                -4,
                 null,
-                10.9,
+                10.6,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=45920"
@@ -3297,9 +4258,9 @@
               "cells": [
                 "BOGOVAĐA",
                 "LJIG",
-                63,
-                -7,
-                0.117,
+                62,
+                -1,
+                0.108,
                 null,
                 "-"
               ],
@@ -3309,9 +4270,9 @@
               "cells": [
                 "KOCELJEVA",
                 "TAMNAVA",
-                20,
-                2,
-                0.818,
+                27,
+                7,
+                1.13,
                 null,
                 "-"
               ],
@@ -3321,10 +4282,10 @@
               "cells": [
                 "ĆEMANOV MOST",
                 "TAMNAVA",
-                47,
-                -3,
-                0.955,
-                7.7,
+                46,
+                -1,
+                0.917,
+                8.2,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=45917"
@@ -3333,11 +4294,11 @@
               "cells": [
                 "JAŠA TOMIĆ",
                 "TAMIŠ",
-                158,
-                -32,
-                44,
-                8.2,
-                "стагнација"
+                141,
+                -17,
+                35.5,
+                8.4,
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=42401"
             },
@@ -3345,11 +4306,11 @@
               "cells": [
                 "SEČANJ",
                 "TAMIŠ",
-                278,
-                -15,
+                275,
+                -3,
                 null,
                 null,
-                "стагнација"
+                "пораст"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=42411"
             },
@@ -3357,9 +4318,9 @@
               "cells": [
                 "VARVARIN",
                 "VELIKA MORAVA",
-                -147,
-                1,
-                133,
+                -160,
+                -13,
+                111,
                 null,
                 "стагнација"
               ],
@@ -3369,10 +4330,10 @@
               "cells": [
                 "ĆUPRIJA",
                 "VELIKA MORAVA",
-                -50,
-                6,
+                -64,
+                -14,
                 null,
-                9.7,
+                10.7,
                 "стагнација"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=47030"
@@ -3381,9 +4342,9 @@
               "cells": [
                 "BAGRDAN",
                 "VELIKA MORAVA",
-                42,
-                7,
-                137,
+                27,
+                -15,
+                113,
                 null,
                 "стагнација"
               ],
@@ -3393,8 +4354,8 @@
               "cells": [
                 "LJUBIČEVSKI MOST",
                 "VELIKA MORAVA",
-                -335,
-                3,
+                -328,
+                7,
                 null,
                 null,
                 "стагнација"
@@ -3405,9 +4366,9 @@
               "cells": [
                 "MAJUR",
                 "LUGOMIR",
-                32,
-                -2,
-                0.444,
+                33,
+                1,
+                0.506,
                 null,
                 "-"
               ],
@@ -3417,9 +4378,9 @@
               "cells": [
                 "SMEDEREVSKA PALANKA",
                 "JASENICA",
-                54,
-                -2,
-                0.452,
+                53,
+                -1,
+                0.401,
                 null,
                 "-"
               ],
@@ -3429,8 +4390,8 @@
               "cells": [
                 "SMEDEREVSKA PALANKA",
                 "KUBRŠNICA",
-                75,
-                -5,
+                76,
+                1,
                 null,
                 null,
                 "-"
@@ -3442,8 +4403,8 @@
                 "VRANJSKI PRIBOJ",
                 "JUŽNA MORAVA",
                 -182,
-                -2,
-                2.17,
+                0,
+                2.5,
                 null,
                 "-"
               ],
@@ -3453,9 +4414,9 @@
               "cells": [
                 "GRDELICA",
                 "JUŽNA MORAVA",
-                26,
-                1,
-                9.59,
+                21,
+                -5,
+                8.2,
                 null,
                 "-"
               ],
@@ -3465,10 +4426,10 @@
               "cells": [
                 "KORVINGRAD",
                 "JUŽNA MORAVA",
-                -178,
+                -182,
                 -4,
-                15.5,
-                10.9,
+                14.3,
+                10.7,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/opseg.php?hm_id=47550"
@@ -3477,9 +4438,9 @@
               "cells": [
                 "ALEKSINAC",
                 "JUŽNA MORAVA",
-                -80,
-                -39,
-                56.9,
+                -93,
+                -13,
+                45.3,
                 null,
                 "-"
               ],
@@ -3489,10 +4450,10 @@
               "cells": [
                 "MOJSINJE",
                 "JUŽNA MORAVA",
-                81,
-                9,
-                67.7,
-                11,
+                59,
+                -22,
+                51,
+                10.8,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=47590"
@@ -3501,9 +4462,9 @@
               "cells": [
                 "VLASOTINCE",
                 "VLASINA",
-                20,
-                -2,
-                2.85,
+                19,
+                -1,
+                2.7,
                 null,
                 "-"
               ],
@@ -3513,9 +4474,9 @@
               "cells": [
                 "LESKOVAC",
                 "VETERNICA",
-                35,
-                -2,
-                1.21,
+                34,
+                -1,
+                1.08,
                 null,
                 "-"
               ],
@@ -3525,10 +4486,10 @@
               "cells": [
                 "PEČENJEVCE",
                 "JABLANICA",
-                27,
-                -3,
-                2.23,
-                9.6,
+                23,
+                -4,
+                1.61,
+                9.4,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=47740"
@@ -3537,9 +4498,9 @@
               "cells": [
                 "PEPELJEVAC",
                 "TOPLICA",
-                6,
-                -7,
-                3.27,
+                3,
+                -3,
+                2.72,
                 null,
                 "-"
               ],
@@ -3549,9 +4510,9 @@
               "cells": [
                 "DOLJEVAC",
                 "TOPLICA",
-                2,
-                0,
-                6.55,
+                -4,
+                -6,
+                5.53,
                 null,
                 "-"
               ],
@@ -3561,9 +4522,9 @@
               "cells": [
                 "PIROT",
                 "NIŠAVA",
-                -60,
+                -63,
                 -3,
-                4.69,
+                4.1,
                 null,
                 "-"
               ],
@@ -3573,9 +4534,9 @@
               "cells": [
                 "NIŠ",
                 "NIŠAVA",
-                91,
-                -26,
-                29.3,
+                82,
+                -9,
+                23.3,
                 null,
                 "-"
               ],
@@ -3585,9 +4546,9 @@
               "cells": [
                 "KRATOVSKA STENA",
                 "ZAPADNA MORAVA",
-                249,
-                -10,
-                26.1,
+                246,
+                -3,
+                22.4,
                 null,
                 "-"
               ],
@@ -3609,10 +4570,10 @@
               "cells": [
                 "JASIKA",
                 "ZAPADNA MORAVA",
-                -94,
-                -2,
-                76.9,
-                10.1,
+                -104,
+                -10,
+                65.4,
+                9.9,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=47195"
@@ -3621,10 +4582,10 @@
               "cells": [
                 "RAŠKA",
                 "IBAR",
-                179,
-                -5,
-                22.5,
-                10.1,
+                177,
+                -2,
+                24.5,
+                10,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=47260"
@@ -3633,9 +4594,9 @@
               "cells": [
                 "MATARUŠKA BANJA",
                 "IBAR",
-                7,
-                -6,
-                41,
+                4,
+                -3,
+                38.4,
                 10.2,
                 "-"
               ],
@@ -3645,9 +4606,9 @@
               "cells": [
                 "VELIKO SELO",
                 "MLAVA",
-                59,
-                -9,
-                4.64,
+                56,
+                -3,
+                4.24,
                 null,
                 "-"
               ],
@@ -3657,9 +4618,9 @@
               "cells": [
                 "KUSIĆ",
                 "NERA",
-                114,
-                -16,
-                27.5,
+                91,
+                -23,
+                18.4,
                 7,
                 "-"
               ],
@@ -3669,9 +4630,9 @@
               "cells": [
                 "MARKOVIĆEVO",
                 "BRZAVA",
-                -80,
-                -28,
-                6.4,
+                -63,
+                17,
+                7.76,
                 7,
                 "-"
               ],
@@ -3693,7 +4654,7 @@
               "cells": [
                 "KUŠTILJ",
                 "KARAŠ",
-                80,
+                71,
                 -9,
                 null,
                 null,
@@ -3705,10 +4666,10 @@
               "cells": [
                 "KNJAŽEVAC",
                 "BELI TIMOK",
-                62,
-                -16,
-                11.2,
-                11.8,
+                55,
+                -7,
+                8.93,
+                10.8,
                 "-"
               ],
               "href": "https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/bezprognoza.php?hm_id=42921"
@@ -3717,9 +4678,9 @@
               "cells": [
                 "ZAJEČAR",
                 "BELI TIMOK",
-                -34,
-                -22,
-                12.8,
+                -47,
+                -13,
+                9.25,
                 null,
                 "-"
               ],
@@ -3729,9 +4690,9 @@
               "cells": [
                 "ČOKONJAR",
                 "VELIKI TIMOK",
-                159,
-                1,
-                21,
+                139,
+                -20,
+                14.1,
                 null,
                 "-"
               ],
@@ -3746,17 +4707,17 @@
     {
       "id": "prognoza-voda",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/prognoza_voda.php",
-      "fetchedAt": "2026-11-23T02:51:15.765Z",
-      "lastAttemptAt": "2026-11-23T02:51:15.765Z",
+      "fetchedAt": "2026-11-23T12:57:45.204Z",
+      "lastAttemptAt": "2026-11-23T12:57:45.204Z",
       "status": "ok",
-      "issuedAt": "2026-11-22T08:55:11.000Z",
+      "issuedAt": "2026-11-23T09:01:58.000Z",
       "observedAt": null,
       "validDates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
-        "2026-11-26"
+        "2026-11-26",
+        "2026-11-27"
       ],
       "noteSr": "Prva kolona datuma je osmotren vodostaj, slede četiri prognozirana dana. Kote odbrane su referentni pragovi; ovaj prikaz ne proglašava stanje odbrane od poplava.",
       "noteEn": "The first date is an observation, followed by four forecast days. Defence thresholds are reference values; this view does not declare a flood defence state.",
@@ -3778,14 +4739,8 @@
               "kind": "text"
             },
             {
-              "sr": "2026-11-22 · osmotreno",
-              "en": "2026-11-22 · observed",
-              "unit": "cm",
-              "kind": "number"
-            },
-            {
-              "sr": "2026-11-23",
-              "en": "2026-11-23",
+              "sr": "2026-11-23 · osmotreno",
+              "en": "2026-11-23 · observed",
               "unit": "cm",
               "kind": "number"
             },
@@ -3808,6 +4763,12 @@
               "kind": "number"
             },
             {
+              "sr": "2026-11-27",
+              "en": "2026-11-27",
+              "unit": "cm",
+              "kind": "number"
+            },
+            {
               "sr": "Redovna odbrana · kota",
               "en": "Regular defence threshold",
               "unit": "cm",
@@ -3825,10 +4786,10 @@
               "cells": [
                 "BEZDAN",
                 "DUNAV",
-                -78,
-                -75,
-                -68,
-                -63,
+                -69,
+                -62,
+                -59,
+                -58,
                 -59,
                 500,
                 700
@@ -3839,11 +4800,11 @@
               "cells": [
                 "APATIN",
                 "DUNAV",
-                -20,
-                -18,
-                -16,
-                -12,
-                -9,
+                -11,
+                -2,
+                2,
+                8,
+                10,
                 600,
                 750
               ],
@@ -3853,11 +4814,11 @@
               "cells": [
                 "BOGOJEVO",
                 "DUNAV",
-                -31,
-                -30,
-                -27,
                 -23,
-                -18,
+                -14,
+                -8,
+                -4,
+                0,
                 600,
                 700
               ],
@@ -3867,11 +4828,11 @@
               "cells": [
                 "BAČKA PALANKA",
                 "DUNAV",
-                -9,
-                -11,
-                -8,
-                -6,
-                0,
+                -4,
+                2,
+                9,
+                14,
+                19,
                 530,
                 650
               ],
@@ -3881,11 +4842,11 @@
               "cells": [
                 "NOVI SAD",
                 "DUNAV",
-                23,
-                18,
-                22,
-                24,
                 30,
+                36,
+                40,
+                45,
+                47,
                 450,
                 700
               ],
@@ -3895,11 +4856,11 @@
               "cells": [
                 "SLANKAMEN",
                 "DUNAV",
-                151,
-                154,
-                159,
-                163,
-                166,
+                158,
+                165,
+                172,
+                177,
+                179,
                 null,
                 null
               ],
@@ -3909,11 +4870,11 @@
               "cells": [
                 "ZEMUN",
                 "DUNAV",
-                261,
-                266,
-                272,
-                279,
-                287,
+                271,
+                276,
+                283,
+                292,
+                303,
                 550,
                 650
               ],
@@ -3923,11 +4884,11 @@
               "cells": [
                 "PANČEVO",
                 "DUNAV",
-                290,
-                295,
-                301,
-                308,
-                316,
+                299,
+                304,
+                311,
+                320,
+                331,
                 530,
                 650
               ],
@@ -3937,11 +4898,11 @@
               "cells": [
                 "SMEDEREVO",
                 "DUNAV",
-                469,
-                473,
-                477,
-                482,
-                487,
+                472,
+                480,
+                483,
+                486,
+                490,
                 600,
                 700
               ],
@@ -3951,11 +4912,11 @@
               "cells": [
                 "NOVI KNEŽEVAC",
                 "TISA",
-                210,
-                240,
-                270,
-                290,
-                296,
+                241,
+                266,
+                287,
+                295,
+                293,
                 550,
                 750
               ],
@@ -3965,11 +4926,11 @@
               "cells": [
                 "SENTA",
                 "TISA",
-                266,
-                280,
-                300,
+                284,
+                298,
+                310,
                 320,
-                330,
+                318,
                 600,
                 800
               ],
@@ -3979,11 +4940,11 @@
               "cells": [
                 "TITEL",
                 "TISA",
-                151,
-                155,
-                160,
-                164,
-                168,
+                172,
+                180,
+                187,
+                192,
+                194,
                 500,
                 650
               ],
@@ -3993,10 +4954,10 @@
               "cells": [
                 "SREMSKA MITROVICA",
                 "SAVA",
-                345,
-                351,
-                363,
-                385,
+                334,
+                337,
+                346,
+                375,
                 410,
                 650,
                 750
@@ -4007,11 +4968,11 @@
               "cells": [
                 "ŠABAC",
                 "SAVA",
-                206,
-                209,
-                219,
-                236,
-                252,
+                202,
+                205,
+                212,
+                239,
+                271,
                 400,
                 500
               ],
@@ -4021,11 +4982,11 @@
               "cells": [
                 "BEOGRAD",
                 "SAVA",
-                220,
-                225,
                 231,
-                238,
-                246,
+                236,
+                244,
+                253,
+                264,
                 500,
                 600
               ],
@@ -4035,9 +4996,9 @@
               "cells": [
                 "VARVARIN",
                 "VELIKA MORAVA",
-                -147,
-                -150,
-                -142,
+                -160,
+                -167,
+                -170,
                 null,
                 null,
                 400,
@@ -4049,9 +5010,9 @@
               "cells": [
                 "ĆUPRIJA",
                 "VELIKA MORAVA",
-                -50,
-                -52,
-                -44,
+                -64,
+                -71,
+                -74,
                 null,
                 null,
                 400,
@@ -4063,9 +5024,9 @@
               "cells": [
                 "BAGRDAN",
                 "VELIKA MORAVA",
-                42,
-                40,
-                47,
+                27,
+                16,
+                12,
                 null,
                 null,
                 500,
@@ -4077,9 +5038,9 @@
               "cells": [
                 "LJUBIČEVSKI MOST",
                 "VELIKA MORAVA",
-                -335,
-                -330,
                 -328,
+                -330,
+                -339,
                 -325,
                 null,
                 450,
@@ -4091,9 +5052,9 @@
               "cells": [
                 "ALEKSINAC",
                 "JUŽNA MORAVA",
-                -80,
-                -88,
-                -80,
+                -93,
+                -97,
+                -100,
                 null,
                 null,
                 300,
@@ -4105,9 +5066,9 @@
               "cells": [
                 "JASIKA",
                 "ZAPADNA MORAVA",
-                -94,
-                -97,
-                -90,
+                -104,
+                -111,
+                -114,
                 null,
                 null,
                 350,
@@ -4124,8 +5085,8 @@
     {
       "id": "mali-tokovi",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/prognoza/hbv/index.php",
-      "fetchedAt": "2026-11-23T02:51:16.151Z",
-      "lastAttemptAt": "2026-11-23T02:51:16.151Z",
+      "fetchedAt": "2026-11-23T12:57:45.562Z",
+      "lastAttemptAt": "2026-11-23T12:57:45.562Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -4354,11 +5315,11 @@
     {
       "id": "radar",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/radarska3.php",
-      "fetchedAt": "2026-11-23T02:51:16.339Z",
-      "lastAttemptAt": "2026-11-23T02:51:16.339Z",
+      "fetchedAt": "2026-11-23T12:57:45.707Z",
+      "lastAttemptAt": "2026-11-23T12:57:45.707Z",
       "status": "ok",
       "issuedAt": null,
-      "observedAt": "2026-11-23T02:30:00.000Z",
+      "observedAt": "2026-11-23T12:45:00.000Z",
       "validDates": [],
       "noteSr": "Originalni radarski kompozit. dBZ označava radarsku reflektivnost, a ne količinu padavina u milimetrima. Termine čitamo iz izvornih naziva datoteka u UTC. Slike se učitavaju direktno sa RHMZ-a.",
       "noteEn": "Original radar composite. dBZ represents radar reflectivity, not millimetres of rainfall. Frame times come from source UTC filenames. Images load directly from RHMZ.",
@@ -4367,44 +5328,44 @@
       "text": [],
       "images": [
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112300450000dBZ.cappi.png",
-          "time": "2026-11-23T00:45:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112311000000dBZ.cappi.png",
+          "time": "2026-11-23T11:00:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112301000000dBZ.cappi.png",
-          "time": "2026-11-23T01:00:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112311150000dBZ.cappi.png",
+          "time": "2026-11-23T11:15:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112301150000dBZ.cappi.png",
-          "time": "2026-11-23T01:15:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112311300000dBZ.cappi.png",
+          "time": "2026-11-23T11:30:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112301300000dBZ.cappi.png",
-          "time": "2026-11-23T01:30:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112311450000dBZ.cappi.png",
+          "time": "2026-11-23T11:45:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112301450000dBZ.cappi.png",
-          "time": "2026-11-23T01:45:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112312000000dBZ.cappi.png",
+          "time": "2026-11-23T12:00:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112302000000dBZ.cappi.png",
-          "time": "2026-11-23T02:00:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112312150000dBZ.cappi.png",
+          "time": "2026-11-23T12:15:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112302150000dBZ.cappi.png",
-          "time": "2026-11-23T02:15:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112312300000dBZ.cappi.png",
+          "time": "2026-11-23T12:30:00.000Z"
         },
         {
-          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112302300000dBZ.cappi.png",
-          "time": "2026-11-23T02:30:00.000Z"
+          "url": "https://www.hidmet.gov.rs/data/radarska_slika/kompozit/ko2026112312450000dBZ.cappi.png",
+          "time": "2026-11-23T12:45:00.000Z"
         }
       ]
     },
     {
       "id": "satelit",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/osmotreni/satelit_anim.php?type=Ser_com",
-      "fetchedAt": "2026-11-23T02:51:16.509Z",
-      "lastAttemptAt": "2026-11-23T02:51:16.509Z",
+      "fetchedAt": "2026-11-23T12:57:45.833Z",
+      "lastAttemptAt": "2026-11-23T12:57:45.833Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
@@ -4444,19 +5405,19 @@
     {
       "id": "upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index.php",
-      "fetchedAt": "2026-11-23T02:51:16.693Z",
-      "lastAttemptAt": "2026-11-23T02:51:16.693Z",
+      "fetchedAt": "2026-11-23T12:57:45.972Z",
+      "lastAttemptAt": "2026-11-23T12:57:45.972Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
-      "validFrom": "2026-11-20T08:39:00.000Z",
-      "validUntil": "2026-11-24T08:39:00.000Z",
+      "validFrom": "2026-11-23T09:29:00.000Z",
+      "validUntil": "2026-11-27T09:29:00.000Z",
       "validPeriods": [
         {
           "sr": "Hidrološko upozorenje",
           "en": "Hydrological warning",
-          "from": "2026-11-20T08:39:00.000Z",
-          "until": "2026-11-24T08:39:00.000Z"
+          "from": "2026-11-23T09:29:00.000Z",
+          "until": "2026-11-27T09:29:00.000Z"
         }
       ],
       "validDates": [],
@@ -4467,7 +5428,7 @@
       "text": [
         {
           "heading": "Meteorološka i hidrološka upozorenja",
-          "body": "UPOZORENJA RHMZ RHMZ Srbije 23.11.2026 Trenutno nema aktuelnog meteorološkog upozorenja. Hidrološko upozorenje Na Dunavu od Bezdana do Novog Sada narednih dana vodostaji će se kretati ispod niskih plovidbenih nivoa. Za više detalja pogledajte: Prognoza voda Upozorenje je za period od: 09:39 20.11.2026. do: 09:39 24.11.2026. RHMZ Srbije 23.11.2026 Trenutno nema aktuelnog agrometeorološkog upozorenja. RHMZ Srbije 23.11.2026 Trenutno nema vanredne agrometeorološke informacije.",
+          "body": "UPOZORENJA RHMZ RHMZ Srbije 23.11.2026 Trenutno nema aktuelnog meteorološkog upozorenja. Hidrološko upozorenje Na Dunavu od Bezdana do Novog Sada narednih dana vodostaji će se kretati ispod niskih plovidbenih nivoa. Za više detalja pogledajte: Prognoza voda Upozorenje je za period od: 10:29 23.11.2026. do: 10:29 27.11.2026. RHMZ Srbije 23.11.2026 Trenutno nema aktuelnog agrometeorološkog upozorenja. RHMZ Srbije 23.11.2026 Trenutno nema vanredne agrometeorološke informacije.",
           "date": null
         }
       ],
@@ -4476,19 +5437,19 @@
     {
       "id": "najave",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/najava.php",
-      "fetchedAt": "2026-11-23T02:51:16.875Z",
-      "lastAttemptAt": "2026-11-23T02:51:16.875Z",
+      "fetchedAt": "2026-11-23T12:57:46.119Z",
+      "lastAttemptAt": "2026-11-23T12:57:46.119Z",
       "status": "ok",
-      "issuedAt": "2026-11-23T00:30:00.000Z",
+      "issuedAt": "2026-11-23T11:10:00.000Z",
       "observedAt": null,
-      "validFrom": "2026-11-23T00:28:00.000Z",
-      "validUntil": "2026-11-30T00:28:00.000Z",
+      "validFrom": "2026-11-23T12:22:00.000Z",
+      "validUntil": "2026-11-30T12:22:00.000Z",
       "validPeriods": [
         {
           "sr": "Meteorološka najava",
           "en": "Weather advisory",
-          "from": "2026-11-23T00:28:00.000Z",
-          "until": "2026-11-30T00:28:00.000Z"
+          "from": "2026-11-23T12:22:00.000Z",
+          "until": "2026-11-30T12:22:00.000Z"
         }
       ],
       "validDates": [],
@@ -4499,7 +5460,7 @@
       "text": [
         {
           "heading": "Meteorološke najave",
-          "body": "NAJAVE RHMZ Meteorološka najava PONEDELјAK, 23.11.2026. u 01:30 h U toku noći i jutra u većem delu Srbije oblačno, povremeno s kišom i lokalnim plјuskovima, koji će na jugozapadu Srbije biti praćeni i grmlјavinom. U brdsko-planinskim predelima duvaće umeren, povremeno jak vetar južnih pravaca. Na području Beograda kiša, a prestanak padavina prognozira se posle podne. Na teritoriji grada očekuje se od 15 do 25 mm za 24 h (što su vrednosti ispod upozoravajućih nivoa). Pre podne na severu, a prema kraju dana i u ostalim krajevima prestanak padavina i delimično razvedravanje. Vetar će biti u skretanju na umeren i jak, severozapadni, na istoku Srbije i sa udarima olujne jačine, uveče u slablјenju. Maksimalna temperatura od 6 do 13 °S. Najviše vrednosti se očekuju ujutro i pre podne, dok će hladnije biti u drugom delu dana i uveče. DO KRAJA MESECA TEMPERATURNE OSCILACIJE UZ ČESTE PADAVINE U utorak (24.11.)pretežno sunčano i hladno sa slabim jutarnjim mrazem. Na istoku Srbije vetrovito. U sredu (25.11.) jutro još hladnije – minimalne temperature od -8 do -1 °S, a tokom dana se očekuje porast temperature uz postepeno naoblačenje, koje će posle podne i uveče usloviti kišu, prvo na zapadu i jugozapadu, a zatim u ostalim krajevima. Na istoku Srbije se uveče i u toku noći (25/26.11.)očekuju mešovite padavine – kiša uz poledicu (u brdsko-planinskim predelima okrenutim Pomoravlјu), dok će istočnije od Homolјskih i Kučajskih planina padati sneg i u nižim predelima uz stvaranje manjeg snežnog pokrivača. U košavskom području počeće da duva jak, a u Banatu i olujni jugoistočni vetar, koji će oslabiti u četvrtak uveče (26.11.). U četvrtak i petak (26 – 27.11.) ponovo će padati kiša povremeno, dok se za vikend (28 – 29.11.) očekuje pad temperature i prelazak kiše u sneg. Najava je za period od: 01:28 23.11.2026. do: 01:28 30.11.2026. RHMZ Srbije 23.11.2026 Trenutno nema aktuelne hidrološke najave.",
+          "body": "NAJAVE RHMZ Meteorološka najava PONEDELјAK, 23.11.2026. u 12:10 h Danas osetno hladnije. Na severu i zapadu suvo uz delimično razvedravanje. U ostalim krajevima oblačno, mestimično sa kišom, na planinama sa snegom. Prema kraju dana prestanak padavina i postepeno razvedravanje. Vetar umeren i jak, severozapadni, na istoku Srbije i sa udarima olujne jačine, uveče u slablјenju. Temperatura posle podne od 4 do 7 °S, uveče u dalјem padu. Na području Beograda suvo i osetno hladnije uz delimično, a uveče i potpuno razvedravanje. Vetar umeren, povremeno jak severni i severozapadni, krajem dana u slablјenju. Temperatura posle podne oko 5 °S, uveče u dalјem padu. DO KRAJA MESECA ČESTE PADAVINE U utorak (24.11.) ujutru hladno sa slabim mrazem. Tokom dana pretežno sunčano. Vetar slab i umeren, u Banatu, na istoku i jugoistoku Srbije povremeno i jak, zapadni i severozapadni, u Borskom okrugu i sa udarima olujne jačine, uveče u slablјenju, a tokom noći i u skretanju na južni i jugoistočni. Najniža temperatura od -3 do 2 °S, a najviša od 5 do 9 °S. U sredu (25.11.) jutro još hladnije – minimalne temperature od -8 do -1 °S, a tokom dana se očekuje porast temperature uz postepeno naoblačenje, koje će posle podne i uveče usloviti kišu, prvo na zapadu i jugozapadu, a zatim u ostalim krajevima. Na istoku Srbije se uveče i u toku noći očekuju mešovite padavine – kiša uz poledicu (u brdsko-planinskim predelima okrenutim Pomoravlјu), dok će istočnije od Homolјskih i Kučajskih planina padati sneg i u nižim predelima uz stvaranje manjeg snežnog pokrivača. U košavskom području počeće da duva jak, a u Banatu i olujni jugoistočni vetar, koji će oslabiti u četvrtak uveče (26.11.). U četvrtak i petak (26 – 27.11.) ponovo će padati kiša povremeno, dok se za vikend (28 – 29.11.) očekuje pad temperature i prelazak kiše u sneg, uz formiranje snežnog pokrivača u brdsko-planinskim predelima. Početkom naredne sedmice (30.11. i 01.12.) suvo. Najava je za period od: 13:22 23.11.2026. do: 13:22 30.11.2026. RHMZ Srbije 23.11.2026 Trenutno nema aktuelne hidrološke najave.",
           "date": null
         }
       ],
@@ -4508,8 +5469,8 @@
     {
       "id": "hitna-upozorenja",
       "sourceUrl": "https://www.hidmet.gov.rs/latin/upozorenja/index1.php",
-      "fetchedAt": "2026-11-23T02:51:17.052Z",
-      "lastAttemptAt": "2026-11-23T02:51:17.052Z",
+      "fetchedAt": "2026-11-23T12:57:46.256Z",
+      "lastAttemptAt": "2026-11-23T12:57:46.256Z",
       "status": "ok",
       "issuedAt": null,
       "observedAt": null,
